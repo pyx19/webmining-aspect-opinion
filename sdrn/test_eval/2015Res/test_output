@@ -1,0 +1,13415 @@
+love	B-P	O
+al	B-T	O
+di	I-T	O
+la	I-T	O
+#Relations
+
+i	O	O
+recommend	B-P	B-P
+this	O	O
+place	B-T	B-T
+to	O	O
+everyone	O	O
+.	O	O
+#Relations
+1	2	3	4
+
+great	B-P	B-P
+food	B-T	B-T
+.	O	O
+#Relations
+0	1	1	2
+
+one	O	O
+of	O	O
+my	O	O
+favorite	O	O
+places	O	O
+in	O	O
+brooklyn	O	O
+.	O	O
+#Relations
+
+the	O	O
+pasta	B-T	B-T
+##s	I-T	I-T
+are	O	O
+incredible	B-P	B-P
+,	O	O
+the	O	O
+ri	B-T	B-T
+##so	I-T	I-T
+##tto	I-T	I-T
+##s	I-T	I-T
+(	O	O
+particularly	O	O
+the	O	O
+sep	B-T	B-T
+##ia	I-T	I-T
+)	O	O
+are	O	O
+fantastic	B-P	B-P
+and	O	O
+the	O	O
+bra	B-T	B-T
+##ised	I-T	I-T
+rabbit	I-T	I-T
+is	O	O
+amazing	B-P	B-P
+.	O	O
+#Relations
+4	5	1	3
+18	19	7	11
+18	19	14	16
+25	26	21	24
+
+over	O	O
+##pr	O	O
+##ice	O	O
+##d	O	O
+and	O	O
+not	O	O
+ta	O	O
+##sty	O	O
+#Relations
+
+the	O	O
+food	B-T	B-T
+here	O	O
+was	O	O
+med	B-P	B-P
+##io	I-P	I-P
+##cre	I-P	I-P
+at	I-P	I-P
+best	I-P	I-P
+.	O	O
+#Relations
+4	9	1	2
+
+it	O	O
+was	O	O
+totally	O	O
+over	B-P	O
+##pr	I-P	O
+##ice	I-P	O
+##d	I-P	O
+-	O	O
+fish	B-T	B-T
+and	I-T	I-T
+chips	I-T	I-T
+was	O	O
+about	O	O
+$	O	O
+15	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+#Relations
+
+there	O	O
+are	O	O
+so	O	O
+many	O	O
+other	O	O
+great	O	B-P
+places	O	B-T
+to	O	O
+go	O	O
+to	O	O
+eat	O	O
+and	O	O
+drink	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+this	O	O
+place	O	B-T
+is	O	O
+not	O	O
+worth	O	B-P
+it	O	O
+.	O	O
+.	O	O
+.	O	O
+#Relations
+5	6	6	7
+22	23	19	20
+
+ta	B-P	B-P
+##sty	I-P	I-P
+dog	B-T	B-T
+!	O	O
+#Relations
+0	2	2	3
+
+an	O	O
+awesome	B-P	B-P
+organic	B-P	B-T
+dog	B-T	I-T
+,	O	O
+and	O	O
+a	O	O
+conscious	O	B-P
+eco	B-P	O
+friendly	I-P	I-P
+establishment	B-T	O
+.	O	O
+#Relations
+1	2	2	4
+
+one	O	O
+of	O	O
+the	O	O
+best	O	B-P
+hot	O	B-T
+dogs	O	I-T
+i	O	O
+have	O	O
+ever	O	O
+eaten	O	O
+.	O	O
+#Relations
+3	4	4	6
+
+ca	O	O
+n	O	O
+'	O	O
+t	O	O
+wait	O	O
+to	O	O
+go	O	O
+back	O	O
+.	O	O
+#Relations
+
+the	O	O
+cypriot	B-T	B-T
+restaurant	I-T	I-T
+has	O	O
+a	O	O
+lot	O	O
+going	O	O
+for	O	O
+it	O	O
+.	O	O
+#Relations
+
+but	O	O
+the	O	O
+best	B-P	B-P
+pork	B-T	B-T
+so	I-T	I-T
+##u	I-T	I-T
+##v	I-T	I-T
+##lak	I-T	I-T
+##i	I-T	I-T
+i	O	O
+ever	O	O
+had	O	O
+is	O	O
+the	O	O
+main	O	O
+thing	O	O
+.	O	O
+#Relations
+2	3	3	9
+
+trust	O	O
+me	O	O
+.	O	O
+#Relations
+
+run	O	O
+do	O	O
+n	O	O
+'	O	O
+t	O	O
+walk	O	O
+.	O	O
+#Relations
+
+super	O	O
+yu	B-P	B-P
+##mmy	I-P	I-P
+pizza	B-T	B-T
+!	O	O
+#Relations
+1	3	3	4
+
+i	O	O
+was	O	O
+visiting	O	O
+new	O	O
+york	O	O
+city	O	O
+with	O	O
+a	O	O
+friend	O	O
+and	O	O
+we	O	O
+discovered	O	O
+this	O	O
+really	O	O
+warm	B-P	B-P
+and	O	O
+inviting	B-P	B-P
+restaurant	B-T	B-T
+.	O	O
+#Relations
+14	15	17	18
+16	17	17	18
+
+i	O	O
+lo	B-P	B-P
+##oo	I-P	I-P
+##ve	I-P	I-P
+their	O	O
+egg	B-T	B-T
+##pl	I-T	I-T
+##ant	I-T	I-T
+pizza	I-T	I-T
+,	O	O
+as	O	O
+well	O	O
+as	O	O
+their	O	O
+pasta	B-T	B-T
+##s	I-T	I-T
+!	O	O
+#Relations
+1	4	5	9
+1	4	14	16
+
+we	O	O
+had	O	O
+half	B-T	O
+/	I-T	O
+half	I-T	O
+pizza	I-T	O
+,	O	O
+mine	O	O
+was	O	O
+egg	O	O
+##pl	O	O
+##ant	O	O
+and	O	O
+my	O	O
+friend	O	O
+had	O	O
+the	O	O
+buffalo	O	B-T
+and	O	O
+it	O	O
+was	O	O
+soo	O	O
+##o	O	O
+huge	B-P	B-P
+for	O	O
+a	O	O
+small	O	O
+size	O	O
+pizza	O	O
+!	O	O
+#Relations
+23	24	17	18
+
+we	O	O
+had	O	O
+fun	O	O
+eating	O	O
+in	O	O
+there	O	O
+,	O	O
+we	O	O
+were	O	O
+there	O	O
+like	O	O
+around	O	O
+3	O	O
+a	O	O
+.	O	O
+m	O	O
+.	O	O
+in	O	O
+the	O	O
+morning	O	O
+!	O	O
+#Relations
+
+will	O	O
+comeback	O	O
+for	O	O
+sure	O	O
+,	O	O
+wish	O	O
+they	O	O
+have	O	O
+it	O	O
+here	O	O
+in	O	O
+la	O	O
+.	O	O
+.	O	O
+#Relations
+
+excellent	B-P	B-P
+food	B-T	B-T
+,	O	O
+although	O	O
+the	O	O
+interior	B-T	B-T
+could	O	O
+use	O	O
+some	O	O
+help	B-P	O
+.	O	O
+#Relations
+0	1	1	2
+
+the	O	O
+space	B-T	O
+kind	O	O
+of	O	O
+feels	O	O
+like	O	O
+an	O	O
+alice	O	O
+in	O	O
+wonderland	O	O
+setting	O	O
+,	O	O
+without	O	O
+it	O	O
+trying	O	O
+to	O	O
+be	O	O
+that	O	O
+.	O	O
+#Relations
+
+i	O	O
+paid	O	O
+just	O	O
+about	O	O
+$	O	O
+60	O	O
+for	O	O
+a	O	O
+good	B-P	B-P
+meal	B-T	B-T
+,	O	O
+though	O	O
+:	O	O
+)	O	O
+#Relations
+8	9	9	10
+
+great	B-P	B-P
+sake	B-T	B-T
+!	O	O
+#Relations
+0	1	1	2
+
+reliable	B-P	B-P
+,	O	O
+fresh	B-P	B-P
+su	B-T	B-T
+##shi	I-T	I-T
+#Relations
+0	1	3	5
+2	3	3	5
+
+my	O	O
+husband	O	O
+and	O	O
+i	O	O
+take	O	O
+out	O	O
+from	O	O
+here	O	O
+3	O	O
+-	O	O
+4	O	O
+times	O	O
+a	O	O
+month	O	O
+.	O	O
+#Relations
+
+the	O	O
+sash	B-T	B-T
+##imi	I-T	I-T
+is	O	O
+always	O	O
+fresh	B-P	B-P
+and	O	O
+the	O	O
+rolls	B-T	B-T
+are	O	O
+innovative	B-P	B-P
+and	O	O
+delicious	B-P	B-P
+.	O	O
+#Relations
+5	6	1	3
+10	11	8	9
+12	13	8	9
+
+have	O	O
+never	O	O
+had	O	O
+a	O	O
+problem	B-P	B-P
+with	O	O
+service	B-T	B-T
+save	O	O
+a	O	O
+missing	O	O
+rice	O	B-T
+once	O	O
+.	O	O
+#Relations
+4	5	6	7
+
+delivery	B-T	B-T
+can	O	O
+be	O	O
+spot	O	B-P
+on	O	I-P
+or	O	O
+lacking	B-P	B-P
+depending	O	O
+on	O	O
+the	O	O
+weather	O	O
+and	O	O
+the	O	O
+day	O	O
+of	O	O
+the	O	O
+week	O	O
+.	O	O
+#Relations
+3	5	0	1
+6	7	0	1
+
+delivery	B-T	B-T
+guy	I-T	I-T
+sometimes	O	O
+get	O	O
+upset	B-P	O
+if	O	O
+you	O	O
+do	O	O
+n	O	O
+'	O	O
+t	O	O
+tip	O	O
+more	O	O
+than	O	O
+10	O	O
+%	O	O
+.	O	O
+#Relations
+
+we	O	O
+'	O	O
+ve	O	O
+found	O	O
+it	O	O
+to	O	O
+be	O	O
+better	O	O
+and	O	O
+fresh	O	O
+##er	O	O
+than	O	O
+ki	O	O
+##ku	O	O
+which	O	O
+is	O	O
+comparable	O	O
+in	O	O
+price	O	O
+.	O	O
+#Relations
+
+best	B-P	B-P
+.	O	O
+su	B-T	B-T
+##shi	I-T	I-T
+.	O	O
+ever	O	O
+.	O	O
+#Relations
+0	1	2	4
+
+this	O	O
+place	O	B-T
+has	O	O
+ruined	B-P	B-P
+me	O	O
+for	O	O
+neighborhood	O	O
+su	B-T	O
+##shi	I-T	O
+.	O	O
+#Relations
+3	4	1	2
+
+creative	O	O
+,	O	O
+consistent	O	O
+,	O	O
+fresh	O	O
+.	O	O
+#Relations
+
+excellent	B-P	B-P
+sash	B-T	B-T
+##imi	I-T	I-T
+,	O	O
+and	O	O
+the	O	O
+millennium	B-T	B-T
+roll	I-T	I-T
+is	O	O
+beyond	O	O
+delicious	B-P	B-P
+.	O	O
+#Relations
+0	1	1	3
+10	11	6	8
+
+not	O	O
+cheap	O	O
+but	O	O
+very	O	O
+yu	O	O
+##mmy	O	O
+.	O	O
+#Relations
+
+love	O	O
+it	O	O
+.	O	O
+#Relations
+
+very	O	O
+,	O	O
+very	O	O
+nice	O	O
+#Relations
+
+the	O	O
+place	B-T	B-T
+is	O	O
+a	O	O
+bit	O	O
+hidden	B-P	B-P
+away	I-P	O
+,	O	O
+but	O	O
+once	O	O
+you	O	O
+get	O	O
+there	O	O
+,	O	O
+it	O	O
+'	O	O
+s	O	O
+all	O	O
+worth	B-P	O
+it	O	O
+.	O	O
+#Relations
+5	6	1	2
+
+not	O	O
+only	O	O
+is	O	O
+the	O	O
+food	B-T	B-T
+#Relations
+
+loved	O	O
+it	O	O
+#Relations
+
+my	O	O
+wife	O	O
+and	O	O
+i	O	O
+went	O	O
+to	O	O
+water	O	O
+'	O	O
+s	O	O
+edge	O	O
+for	O	O
+a	O	O
+romantic	O	O
+dinner	O	O
+.	O	O
+#Relations
+
+we	O	O
+had	O	O
+a	O	O
+very	O	O
+nice	O	O
+time	O	O
+.	O	O
+#Relations
+
+the	O	O
+waiter	B-T	B-T
+was	O	O
+at	B-P	B-P
+##ten	I-P	I-P
+##tive	I-P	I-P
+,	O	O
+the	O	O
+food	B-T	B-T
+was	O	O
+delicious	B-P	B-P
+and	O	O
+the	O	O
+views	B-T	B-T
+of	I-T	O
+the	I-T	O
+city	I-T	O
+were	O	O
+great	B-P	B-P
+.	O	O
+#Relations
+3	6	1	2
+10	11	8	9
+18	19	13	14
+
+i	O	O
+'	O	O
+d	O	O
+definitely	O	O
+go	O	O
+back	O	O
+again	O	O
+.	O	O
+#Relations
+
+great	B-P	B-P
+place	B-T	B-T
+to	O	O
+relax	O	O
+and	O	O
+enjoy	O	B-P
+your	O	O
+dinner	O	B-T
+#Relations
+0	1	1	2
+5	6	7	8
+
+there	O	O
+is	O	O
+something	O	O
+about	O	O
+their	O	O
+atmosphere	B-T	B-T
+that	O	O
+makes	O	O
+me	O	O
+come	O	O
+back	O	O
+nearly	O	O
+every	O	O
+week	O	O
+.	O	O
+#Relations
+
+place	B-T	O
+is	O	O
+open	O	O
+till	O	O
+late	O	O
+,	O	O
+no	O	O
+dress	O	O
+code	O	O
+.	O	O
+#Relations
+
+good	B-P	B-P
+food	B-T	B-T
+:	O	O
+my	O	O
+favorite	B-P	B-P
+is	O	O
+the	O	O
+seafood	B-T	B-T
+spaghetti	I-T	I-T
+.	O	O
+#Relations
+0	1	1	2
+4	5	7	9
+
+highly	O	O
+recommended	O	O
+!	O	O
+#Relations
+
+excellent	B-P	B-P
+food	B-T	B-T
+for	O	O
+great	O	O
+prices	O	O
+#Relations
+0	1	1	2
+
+my	O	O
+husband	O	O
+and	O	O
+i	O	O
+have	O	O
+been	O	O
+sold	O	O
+on	O	O
+this	O	O
+from	O	O
+the	O	O
+first	O	O
+visit	O	O
+.	O	O
+#Relations
+
+the	O	O
+wait	B-T	B-T
+staff	I-T	I-T
+is	O	O
+very	O	O
+court	B-P	B-P
+##eous	I-P	I-P
+and	O	O
+acc	B-P	B-P
+##omo	I-P	I-P
+##dating	I-P	I-P
+.	O	O
+#Relations
+5	7	1	3
+8	11	1	3
+
+the	O	O
+space	B-T	O
+is	O	O
+limited	B-P	O
+so	O	O
+be	O	O
+prepared	O	O
+to	O	O
+wait	O	O
+up	O	O
+to	O	O
+45	O	O
+minutes	O	O
+-	O	O
+1	O	O
+hour	O	O
+,	O	O
+but	O	O
+be	O	O
+richly	O	B-P
+rewarded	O	I-P
+when	O	O
+you	O	O
+sa	O	O
+##vor	O	I-P
+the	O	O
+delicious	B-P	B-P
+indo	B-T	B-T
+-	I-T	I-T
+chinese	I-T	I-T
+food	I-T	I-T
+.	O	O
+#Relations
+19	21	27	31
+26	27	27	31
+
+there	O	O
+are	O	O
+no	O	O
+negative	O	O
+##s	O	O
+to	O	O
+speak	O	O
+of	O	O
+.	O	O
+#Relations
+
+the	O	O
+best	O	O
+##t	O	O
+!	O	O
+#Relations
+
+my	O	O
+favorite	B-P	B-P
+place	B-T	B-T
+lo	O	O
+##l	O	O
+#Relations
+1	2	2	3
+
+i	O	O
+love	B-P	B-P
+their	O	O
+chicken	B-T	B-T
+pasta	I-T	I-T
+can	O	O
+##t	O	O
+remember	O	O
+the	O	O
+name	O	O
+but	O	O
+is	O	O
+soo	O	O
+##o	O	O
+good	B-P	B-P
+#Relations
+1	2	3	5
+14	15	3	5
+
+its	O	O
+alright	O	O
+#Relations
+
+im	O	O
+not	O	O
+necessarily	O	O
+fan	B-P	B-P
+##atic	I-P	I-P
+##al	I-P	I-P
+about	O	O
+this	O	O
+place	B-T	B-T
+,	O	O
+but	O	O
+it	O	O
+was	O	O
+a	O	O
+fun	B-P	B-P
+time	O	O
+for	O	O
+low	O	O
+pi	O	O
+##rce	O	O
+##s	O	O
+.	O	O
+#Relations
+3	6	8	9
+
+lobster	B-T	B-T
+was	O	O
+good	B-P	B-P
+,	O	O
+nothing	O	B-P
+spectacular	B-P	I-P
+.	O	O
+#Relations
+2	3	0	1
+4	6	0	1
+
+its	O	O
+just	O	O
+a	O	O
+fun	O	B-P
+place	O	B-T
+to	O	O
+go	O	O
+,	O	O
+not	O	O
+a	O	O
+five	B-P	O
+star	I-P	O
+rest	B-T	O
+##ara	I-T	O
+##unt	I-T	O
+.	O	O
+#Relations
+3	4	4	5
+
+way	O	O
+below	O	O
+average	O	O
+#Relations
+
+i	O	O
+think	O	O
+the	O	O
+pizza	B-T	B-T
+is	O	O
+so	O	O
+over	B-P	B-P
+##rated	I-P	I-P
+and	O	O
+was	O	O
+under	B-P	B-P
+cooked	I-P	I-P
+.	O	O
+#Relations
+6	8	3	4
+10	12	3	4
+
+had	O	O
+no	O	O
+flavor	O	O
+and	O	O
+the	O	O
+staff	B-T	B-T
+is	O	O
+rude	B-P	B-P
+and	O	O
+not	O	O
+at	B-P	B-P
+##ten	I-P	I-P
+##tive	I-P	I-P
+.	O	O
+#Relations
+7	8	5	6
+10	13	5	6
+
+would	O	O
+never	O	O
+go	O	O
+back	O	O
+#Relations
+
+i	O	O
+love	B-P	B-P
+this	O	O
+place	B-T	B-T
+#Relations
+1	2	3	4
+
+i	O	O
+was	O	O
+n	O	O
+'	O	O
+t	O	O
+here	O	O
+for	O	O
+the	O	O
+pizza	O	O
+so	O	O
+i	O	O
+ca	O	O
+n	O	O
+'	O	O
+t	O	O
+comment	O	O
+on	O	O
+that	O	O
+yet	O	O
+but	O	O
+what	O	O
+i	O	O
+had	O	O
+was	O	O
+very	O	O
+good	O	O
+.	O	O
+#Relations
+
+the	O	O
+service	B-T	B-T
+was	O	O
+quick	B-P	B-P
+and	O	O
+friendly	B-P	B-P
+.	O	O
+#Relations
+3	4	1	2
+5	6	1	2
+
+everyone	O	O
+was	O	O
+smiling	O	O
+so	O	O
+that	O	O
+made	O	O
+me	O	O
+feel	O	O
+welcome	O	O
+.	O	O
+#Relations
+
+i	O	O
+thought	O	O
+the	O	O
+restaurant	B-T	B-T
+was	O	O
+nice	B-P	B-P
+and	O	O
+clean	B-P	B-P
+.	O	O
+#Relations
+5	6	3	4
+7	8	3	4
+
+i	O	O
+ordered	O	O
+the	O	O
+vi	B-T	B-T
+##tell	I-T	I-T
+##o	I-T	I-T
+alla	I-T	I-T
+mars	I-T	I-T
+##ala	I-T	I-T
+and	O	O
+i	O	O
+was	O	O
+pretty	O	O
+impressed	B-P	B-P
+.	O	O
+#Relations
+13	14	3	9
+
+the	O	O
+ve	B-T	B-T
+##al	I-T	I-T
+and	O	O
+the	O	O
+mushrooms	B-T	B-T
+were	O	O
+cooked	O	O
+perfectly	B-P	B-P
+.	O	O
+#Relations
+8	9	1	3
+8	9	5	6
+
+the	O	O
+potato	B-T	B-T
+balls	I-T	I-T
+were	O	O
+not	O	O
+dry	B-P	B-P
+at	O	O
+all	O	O
+.	O	O
+.	O	O
+.	O	O
+in	O	O
+fact	O	O
+it	O	O
+was	O	O
+butter	B-P	B-P
+##y	I-P	I-P
+.	O	O
+#Relations
+5	6	1	3
+15	17	1	3
+
+the	O	O
+only	O	O
+downs	O	B-P
+##ide	O	I-P
+.	O	O
+.	O	O
+.	O	O
+they	O	O
+only	O	O
+take	O	O
+cash	O	O
+which	O	O
+is	O	O
+ok	O	B-P
+if	O	O
+you	O	O
+know	O	O
+about	O	O
+it	O	O
+ahead	O	O
+of	O	O
+time	O	O
+.	O	O
+#Relations
+
+i	O	O
+'	O	O
+ll	O	O
+be	O	O
+back	O	O
+for	O	O
+sure	O	O
+.	O	O
+#Relations
+
+worst	B-P	B-P
+place	B-T	O
+on	O	O
+smith	O	O
+street	O	O
+in	O	O
+brooklyn	O	O
+#Relations
+
+very	O	O
+immature	B-P	B-P
+bartender	B-T	B-T
+,	O	O
+didn	O	O
+##t	O	O
+know	O	O
+how	O	O
+to	O	O
+make	O	O
+specific	O	O
+drinks	O	O
+,	O	O
+service	B-T	B-T
+was	O	O
+so	O	O
+slow	B-P	B-P
+##w	I-P	O
+##w	I-P	O
+##w	I-P	O
+##w	I-P	O
+,	O	O
+the	O	O
+food	B-T	B-T
+was	O	O
+not	O	O
+fresh	B-P	B-P
+or	O	O
+warm	B-P	B-P
+,	O	O
+waitress	B-T	B-T
+##es	I-T	O
+were	O	O
+busy	O	O
+flirting	O	O
+with	O	O
+men	O	O
+at	O	O
+the	O	O
+bar	O	O
+and	O	O
+weren	O	O
+##t	O	O
+very	O	O
+at	B-P	B-P
+##ten	I-P	I-P
+##tive	I-P	I-P
+to	O	O
+all	O	O
+the	O	O
+customers	O	O
+.	O	O
+#Relations
+1	2	2	3
+16	17	13	14
+26	27	23	24
+28	29	23	24
+44	47	30	31
+
+i	O	O
+would	O	O
+never	O	O
+recommend	B-P	B-P
+this	O	O
+place	B-T	B-T
+to	O	O
+anybody	O	O
+even	O	O
+for	O	O
+a	O	O
+casual	O	O
+dinner	O	O
+.	O	O
+#Relations
+3	4	5	6
+
+awesome	O	O
+#Relations
+
+the	O	O
+food	B-T	B-T
+is	O	O
+always	O	O
+fresh	B-P	B-P
+.	O	O
+.	O	O
+.	O	O
+#Relations
+4	5	1	2
+
+over	B-P	B-P
+##pr	I-P	I-P
+##ice	I-P	I-P
+##d	I-P	I-P
+japanese	B-T	B-T
+food	I-T	I-T
+with	O	O
+med	B-P	B-P
+##io	I-P	I-P
+##cre	I-P	I-P
+service	B-T	B-T
+#Relations
+0	4	4	6
+7	10	10	11
+
+went	O	O
+here	O	O
+on	O	O
+sat	O	O
+1	O	O
+/	O	O
+26	O	O
+and	O	O
+was	O	O
+disappointed	O	O
+.	O	O
+#Relations
+
+chicken	B-T	B-T
+ter	I-T	I-T
+##iya	I-T	I-T
+##ki	I-T	I-T
+had	O	O
+tomato	O	O
+or	O	O
+pi	O	O
+##mento	O	O
+##s	O	O
+on	O	O
+top	O	O
+?	O	O
+?	O	O
+#Relations
+
+food	B-T	B-T
+was	O	O
+luke	B-P	B-P
+warm	I-P	I-P
+.	O	O
+#Relations
+2	4	0	1
+
+the	O	O
+waitress	B-T	B-T
+was	O	O
+not	O	O
+at	B-P	B-P
+##ten	I-P	I-P
+##tive	I-P	I-P
+at	O	O
+all	O	O
+.	O	O
+#Relations
+4	7	1	2
+
+i	O	O
+was	O	O
+looking	O	O
+for	O	O
+banana	O	B-T
+te	O	I-T
+##mp	O	I-T
+##ura	O	I-T
+for	O	O
+dessert	B-T	O
+and	O	O
+they	O	O
+don	O	O
+##t	O	O
+have	O	O
+.	O	O
+#Relations
+
+too	O	O
+many	O	O
+other	O	O
+good	O	O
+places	O	O
+to	O	O
+have	O	O
+to	O	O
+settle	O	O
+.	O	O
+#Relations
+
+not	O	O
+because	O	O
+you	O	O
+are	O	O
+`	O	O
+`	O	O
+the	B-T	O
+four	I-T	O
+seasons	I-T	O
+`	O	O
+`	O	O
+.	O	O
+.	O	O
+.	O	O
+–	O	O
+you	O	O
+are	O	O
+allowed	O	O
+to	O	O
+charge	O	O
+an	O	O
+arm	O	O
+and	O	O
+a	O	O
+leg	O	O
+for	O	O
+a	O	O
+roma	O	O
+##tic	O	O
+dinner	O	O
+.	O	O
+#Relations
+
+the	O	O
+food	B-T	B-T
+was	O	O
+excellent	B-P	B-P
+as	O	O
+well	O	O
+as	O	O
+service	B-T	B-T
+,	O	O
+however	O	O
+,	O	O
+i	O	O
+left	O	O
+the	B-T	O
+four	I-T	B-T
+seasons	I-T	I-T
+very	O	O
+di	B-P	B-P
+##ssa	I-P	I-P
+##pp	I-P	I-P
+##oint	I-P	I-P
+##ed	I-P	I-P
+.	O	O
+#Relations
+3	4	1	2
+3	4	7	8
+17	22	14	16
+
+i	O	O
+do	O	O
+not	O	O
+think	O	O
+dinner	B-T	O
+in	O	O
+manhattan	O	O
+should	O	O
+cost	O	O
+$	O	O
+400	O	O
+.	O	O
+00	O	O
+where	O	O
+i	O	O
+am	O	O
+not	O	O
+swept	O	O
+off	O	O
+my	O	O
+feet	O	O
+.	O	O
+#Relations
+
+red	B-T	B-T
+dragon	I-T	I-T
+roll	I-T	I-T
+-	O	O
+my	O	O
+favorite	B-P	B-P
+thing	O	O
+to	O	O
+eat	O	O
+,	O	O
+of	O	O
+any	O	O
+food	O	O
+group	O	O
+-	O	O
+hands	O	O
+down	O	O
+#Relations
+5	6	0	3
+
+just	O	O
+go	O	O
+to	O	O
+ya	B-T	B-T
+##mat	I-T	I-T
+##o	I-T	I-T
+and	O	O
+order	O	O
+the	O	O
+red	B-T	B-T
+dragon	I-T	I-T
+roll	I-T	I-T
+.	O	O
+#Relations
+
+if	O	O
+you	O	O
+do	O	O
+n	O	O
+'	O	O
+t	O	O
+like	O	O
+it	O	O
+,	O	O
+i	O	O
+do	O	O
+n	O	O
+'	O	O
+t	O	O
+know	O	O
+what	O	O
+to	O	O
+tell	O	O
+you	O	O
+.	O	O
+#Relations
+
+the	O	O
+seafood	B-T	B-T
+dynamite	I-T	I-T
+is	O	O
+also	O	O
+other	B-P	B-P
+##world	I-P	I-P
+##ly	I-P	I-P
+.	O	O
+#Relations
+5	8	1	3
+
+i	O	O
+'	O	O
+m	O	O
+not	O	O
+even	O	O
+going	O	O
+to	O	O
+bother	O	O
+to	O	O
+describe	O	O
+it	O	O
+;	O	O
+it	O	O
+speaks	O	O
+for	O	O
+itself	O	O
+.	O	O
+#Relations
+
+favorite	B-P	B-P
+su	B-T	B-T
+##shi	I-T	I-T
+in	O	O
+nyc	O	O
+#Relations
+0	1	1	3
+
+i	O	O
+have	O	O
+eaten	O	O
+at	O	O
+some	O	O
+of	O	O
+the	O	O
+'	O	O
+best	O	O
+'	O	O
+su	O	O
+##shi	O	O
+joints	O	O
+in	O	O
+nyc	O	O
+(	O	O
+no	O	O
+##bu	O	O
+,	O	O
+bond	O	O
+street	O	O
+,	O	O
+jewel	O	O
+##ba	O	O
+##ko	O	O
+,	O	O
+etc	O	O
+)	O	O
+and	O	O
+ya	O	B-T
+##mat	O	I-T
+##o	O	I-T
+is	O	O
+my	O	O
+favorite	O	B-P
+.	O	O
+#Relations
+34	35	29	32
+
+an	O	O
+un	B-P	B-P
+##pre	I-P	I-P
+##ten	I-P	I-P
+##tious	I-P	I-P
+spot	B-T	B-T
+in	O	O
+park	O	O
+slope	O	O
+,	O	O
+the	O	O
+su	B-T	B-T
+##shi	I-T	I-T
+is	O	O
+consistently	O	O
+good	B-P	B-P
+,	O	O
+the	O	O
+service	B-T	B-T
+is	O	O
+pleasant	B-P	B-P
+,	O	O
+effective	B-P	B-P
+and	O	O
+una	B-P	B-P
+##ss	I-P	I-P
+##uming	I-P	I-P
+.	O	O
+#Relations
+1	5	5	6
+15	16	11	13
+20	21	18	19
+22	23	18	19
+24	27	18	19
+
+in	O	O
+the	O	O
+summer	O	O
+months	O	O
+,	O	O
+the	O	O
+back	B-T	B-T
+garden	I-T	I-T
+area	I-T	I-T
+is	O	O
+really	O	O
+nice	B-P	B-P
+.	O	O
+#Relations
+11	12	6	9
+
+the	O	O
+rolls	B-T	B-T
+are	O	O
+creative	B-P	B-P
+and	O	O
+i	O	O
+have	O	O
+yet	O	O
+to	O	O
+find	O	O
+another	O	O
+su	O	O
+##shi	O	O
+place	O	O
+that	O	O
+serves	O	O
+up	O	O
+more	O	O
+in	B-P	B-P
+##vent	I-P	I-P
+##ive	I-P	I-P
+yet	O	O
+delicious	B-P	B-P
+japanese	B-T	B-T
+food	I-T	I-T
+.	O	O
+#Relations
+3	4	1	2
+18	21	23	25
+22	23	23	25
+
+the	O	O
+dancing	B-T	B-T
+,	I-T	O
+white	I-T	B-T
+river	I-T	I-T
+and	I-T	O
+mill	I-T	B-T
+##eni	I-T	I-T
+##um	I-T	I-T
+rolls	I-T	I-T
+are	O	O
+must	B-P	B-P
+##s	I-P	I-P
+.	O	O
+#Relations
+11	13	1	2
+11	13	3	5
+11	13	6	10
+
+so	O	O
+good	O	O
+#Relations
+
+i	O	O
+can	O	O
+eat	O	O
+here	O	O
+every	O	O
+day	O	O
+of	O	O
+the	O	O
+week	O	O
+really	O	O
+lo	O	O
+##l	O	O
+love	B-P	B-P
+this	O	O
+place	B-T	B-T
+.	O	O
+.	O	O
+.	O	O
+)	O	O
+#Relations
+12	13	14	15
+
+gross	B-P	B-P
+food	B-T	B-T
+–	O	O
+wow	O	O
+-	O	O
+#Relations
+0	1	1	2
+
+i	O	O
+ca	O	O
+n	O	O
+'	O	O
+t	O	O
+remember	O	O
+the	O	O
+last	O	O
+time	O	O
+i	O	O
+had	O	O
+such	O	O
+gross	O	B-P
+food	B-T	B-T
+in	O	O
+new	O	O
+york	O	O
+.	O	O
+#Relations
+12	13	13	14
+
+my	O	O
+que	B-T	B-T
+##sa	I-T	I-T
+##di	I-T	I-T
+##lla	I-T	I-T
+tasted	O	O
+like	O	O
+it	O	O
+had	O	O
+been	O	O
+made	O	O
+by	O	O
+a	O	O
+three	O	O
+-	O	O
+year	O	O
+old	O	O
+with	O	O
+no	O	O
+sense	O	O
+of	O	O
+proportion	O	O
+or	O	O
+flavor	O	O
+.	O	O
+#Relations
+
+and	O	O
+$	O	O
+11	O	O
+for	O	O
+a	O	O
+plate	O	B-T
+of	O	I-T
+bland	B-P	I-T
+gu	B-T	I-T
+##aca	I-T	I-T
+##mo	I-T	I-T
+##le	I-T	I-T
+?	O	O
+#Relations
+
+come	O	O
+on	O	O
+.	O	O
+#Relations
+
+do	O	O
+n	O	O
+'	O	O
+t	O	O
+get	O	O
+me	O	O
+started	O	O
+on	O	O
+the	O	O
+margarita	B-T	B-T
+##s	I-T	I-T
+,	O	O
+either	O	O
+.	O	O
+#Relations
+
+mine	O	O
+tasted	O	O
+like	O	O
+the	O	O
+bartender	O	O
+had	O	O
+forgotten	O	O
+to	O	O
+add	O	O
+the	O	O
+tequila	O	O
+.	O	O
+#Relations
+
+really	O	O
+,	O	O
+i	O	O
+find	O	O
+it	O	O
+rather	O	O
+scandal	O	O
+##ous	O	O
+that	O	O
+such	O	O
+a	O	O
+crap	O	B-P
+##py	O	I-P
+restaurant	O	B-T
+attracts	O	O
+such	O	O
+crowds	O	O
+-	O	O
+-	O	O
+this	O	O
+,	O	O
+in	O	O
+the	O	O
+city	O	O
+of	O	O
+a	O	O
+million	O	O
+restaurants	O	O
+,	O	O
+at	O	O
+least	O	O
+9	O	O
+/	O	O
+10	O	O
+of	O	O
+which	O	O
+are	O	O
+way	O	O
+better	O	O
+than	O	O
+this	O	O
+one	O	O
+.	O	O
+#Relations
+11	13	13	14
+
+save	O	O
+your	O	O
+money	O	O
+and	O	O
+your	O	O
+time	O	O
+and	O	O
+go	O	O
+somewhere	O	O
+else	O	O
+.	O	O
+#Relations
+
+oh	O	O
+,	O	O
+and	O	O
+i	O	O
+never	O	O
+write	O	O
+reviews	O	O
+-	O	O
+-	O	O
+i	O	O
+just	O	O
+was	O	O
+so	O	O
+moved	O	O
+by	O	O
+how	O	O
+bad	B-P	B-P
+this	O	O
+place	B-T	B-T
+was	O	O
+,	O	O
+i	O	O
+felt	O	O
+it	O	O
+was	O	O
+my	O	O
+duty	O	O
+to	O	O
+spread	O	O
+the	O	O
+word	O	O
+.	O	O
+#Relations
+16	17	18	19
+
+great	B-P	B-P
+indian	B-T	B-T
+food	I-T	I-T
+!	O	O
+#Relations
+0	1	1	3
+
+this	O	O
+place	O	O
+was	O	O
+rec	O	O
+##com	O	O
+##ended	O	O
+to	O	O
+me	O	O
+by	O	O
+a	O	O
+friend	O	O
+.	O	O
+#Relations
+
+when	O	O
+i	O	O
+got	O	O
+there	O	O
+the	O	O
+place	O	O
+was	O	O
+packed	O	O
+but	O	O
+they	O	O
+made	O	O
+sure	O	O
+to	O	O
+seat	O	O
+me	O	O
+quickly	O	O
+.	O	O
+#Relations
+
+the	O	O
+food	B-T	B-T
+was	O	O
+good	B-P	B-P
+,	O	O
+the	O	O
+place	B-T	B-T
+was	O	O
+clean	B-P	B-P
+and	O	O
+affordable	B-P	B-P
+.	O	O
+#Relations
+3	4	1	2
+8	9	6	7
+10	11	6	7
+
+i	O	O
+noticed	O	O
+al	O	O
+##ot	O	O
+of	O	O
+indian	O	O
+people	O	O
+eat	O	O
+##ting	O	O
+there	O	O
+which	O	O
+is	O	O
+a	O	O
+great	B-P	B-P
+sign	O	O
+for	O	O
+an	O	O
+indian	B-T	O
+place	I-T	O
+!	O	O
+#Relations
+
+this	O	O
+is	O	O
+one	O	O
+of	O	O
+my	O	O
+favorite	B-P	B-P
+spot	O	O
+,	O	O
+very	O	O
+relaxing	B-P	B-P
+the	O	O
+food	B-T	B-T
+is	O	O
+great	B-P	B-P
+all	O	O
+the	O	O
+times	O	O
+,	O	O
+celebrated	O	O
+my	O	O
+engagement	O	O
+and	O	O
+my	O	O
+wedding	O	O
+here	O	O
+,	O	O
+it	O	O
+was	O	O
+very	O	O
+well	O	O
+organized	O	O
+.	O	O
+#Relations
+13	14	11	12
+
+the	O	O
+staff	B-T	B-T
+is	O	O
+very	O	O
+good	B-P	B-P
+.	O	O
+#Relations
+4	5	1	2
+
+love	B-P	B-P
+their	O	O
+drink	B-T	B-T
+menu	I-T	I-T
+.	O	O
+#Relations
+0	1	2	4
+
+i	O	O
+highly	O	O
+recommend	B-P	B-P
+this	O	O
+beautiful	B-P	B-P
+place	B-T	B-T
+.	O	O
+#Relations
+2	3	5	6
+4	5	5	6
+
+nice	O	O
+for	O	O
+one	O	O
+time	O	O
+special	O	O
+occasion	O	O
+.	O	O
+#Relations
+
+went	O	O
+for	O	O
+mom	O	O
+'	O	O
+s	O	O
+birthday	O	O
+br	O	O
+##un	O	O
+##ch	O	O
+/	O	O
+lunch	O	O
+.	O	O
+#Relations
+
+they	O	O
+honored	O	O
+reservation	O	O
+on	O	O
+sunday	O	O
+afternoon	O	O
+very	O	O
+well	O	O
+.	O	O
+#Relations
+
+be	O	O
+aware	O	O
+.	O	O
+#Relations
+
+we	O	O
+were	O	O
+offered	O	O
+water	O	O
+for	O	O
+the	O	O
+table	O	O
+but	O	O
+were	O	O
+not	O	O
+told	O	O
+the	O	O
+voss	B-T	B-T
+bottles	I-T	O
+of	I-T	O
+water	I-T	O
+were	O	O
+$	O	O
+8	O	O
+a	O	O
+piece	O	O
+.	O	O
+#Relations
+
+food	B-T	B-T
+was	O	O
+ok	O	B-P
+.	O	O
+#Relations
+2	3	0	1
+
+nice	B-P	B-P
+view	B-T	B-T
+of	I-T	O
+river	I-T	O
+and	I-T	O
+nyc	I-T	O
+.	O	O
+#Relations
+0	1	1	2
+
+i	O	O
+come	O	O
+here	O	O
+enjoy	O	O
+very	O	O
+much	O	O
+with	O	O
+husband	O	O
+.	O	O
+#Relations
+
+remind	O	O
+me	O	O
+of	O	O
+home	O	O
+.	O	O
+#Relations
+
+great	B-P	B-P
+sur	B-T	B-T
+##vic	I-T	I-T
+##e	I-T	I-T
+#Relations
+0	1	1	4
+
+mmm	O	O
+##mm	O	O
+##mm	O	O
+##mm	O	O
+##mm	O	O
+##mm	O	O
+##mm	O	O
+so	O	O
+delicious	O	O
+#Relations
+
+a	O	O
+beautifully	B-P	B-P
+designed	I-P	I-P
+dream	B-P	B-P
+##y	I-P	I-P
+egyptian	B-T	B-T
+restaurant	I-T	I-T
+that	O	O
+gets	O	O
+scene	O	B-P
+##y	O	I-P
+at	O	O
+night	O	O
+.	O	O
+#Relations
+1	3	5	7
+3	5	5	7
+9	11	5	7
+
+watch	O	O
+the	O	O
+talented	B-P	B-P
+belly	B-T	B-T
+dancers	I-T	I-T
+as	O	O
+you	O	O
+enjoy	O	B-P
+delicious	B-P	B-P
+baba	B-T	B-T
+gan	I-T	I-T
+##ous	I-T	I-T
+##h	I-T	I-T
+that	O	O
+'	O	O
+s	O	O
+more	O	O
+lemon	O	B-P
+##y	O	I-P
+than	O	O
+smoky	O	B-P
+.	O	O
+#Relations
+2	3	3	5
+7	8	9	13
+8	9	9	13
+17	19	9	13
+20	21	9	13
+
+oh	O	O
+,	O	O
+and	O	O
+there	O	O
+'	O	O
+s	O	O
+hook	B-T	B-T
+##ah	I-T	I-T
+.	O	O
+#Relations
+
+raymond	B-T	B-T
+the	O	O
+bartender	O	B-T
+rocks	B-P	O
+!	O	O
+#Relations
+
+pacific	B-T	B-T
+##o	I-T	I-T
+is	O	O
+a	O	O
+great	B-P	B-P
+place	O	O
+to	O	O
+casually	O	O
+hang	O	O
+out	O	O
+.	O	O
+#Relations
+4	5	0	2
+
+the	O	O
+drinks	B-T	B-T
+are	O	O
+great	B-P	B-P
+,	O	O
+especially	B-P	O
+when	O	O
+made	O	O
+by	O	O
+raymond	B-T	O
+.	O	O
+#Relations
+3	4	1	2
+
+the	O	O
+om	B-T	B-T
+##lette	I-T	I-T
+for	I-T	O
+br	I-T	O
+##un	I-T	O
+##ch	I-T	O
+is	O	O
+great	B-P	B-P
+.	O	O
+.	O	O
+.	O	O
+#Relations
+8	9	1	3
+
+the	O	O
+spin	B-T	B-T
+##ach	I-T	I-T
+is	O	O
+fresh	B-P	B-P
+,	O	O
+def	O	O
+##inate	O	O
+##ly	O	O
+not	O	O
+frozen	B-P	O
+.	O	O
+.	O	O
+.	O	O
+#Relations
+4	5	1	3
+
+qu	B-T	B-T
+##aca	I-T	I-T
+##mo	I-T	I-T
+##le	I-T	I-T
+at	O	O
+pacific	O	B-T
+##o	O	I-T
+is	O	O
+yu	B-P	B-P
+##mmy	I-P	I-P
+,	O	O
+as	O	O
+are	O	O
+the	O	O
+wings	B-T	O
+with	I-T	O
+chi	I-T	B-T
+##mm	I-T	I-T
+##ich	I-T	I-T
+##uri	I-T	I-T
+.	O	O
+#Relations
+8	10	0	4
+8	10	5	7
+
+a	O	O
+weakness	B-P	B-P
+is	O	O
+the	O	O
+chicken	B-T	B-T
+in	I-T	I-T
+the	I-T	I-T
+salad	I-T	I-T
+##s	I-T	I-T
+.	O	O
+#Relations
+1	2	4	9
+
+it	O	O
+'	O	O
+s	O	O
+just	O	O
+average	O	O
+,	O	O
+just	O	O
+shredded	O	O
+,	O	O
+no	O	O
+season	O	O
+##ing	O	O
+on	O	O
+it	O	O
+.	O	O
+#Relations
+
+also	O	O
+,	O	O
+i	O	O
+personally	O	O
+was	O	O
+n	O	O
+'	O	O
+t	O	O
+a	O	O
+fan	B-P	B-P
+of	O	O
+the	O	O
+porto	B-T	B-T
+##bell	I-T	I-T
+##o	I-T	I-T
+and	I-T	O
+as	I-T	B-T
+##para	I-T	I-T
+##gus	I-T	I-T
+mole	I-T	I-T
+.	O	O
+#Relations
+9	10	12	15
+9	10	16	20
+
+overall	O	O
+,	O	O
+decent	B-P	B-P
+food	B-T	B-T
+at	O	O
+a	O	O
+good	O	O
+price	O	O
+,	O	O
+with	O	O
+friendly	B-P	B-P
+people	B-T	B-T
+.	O	O
+#Relations
+2	3	3	4
+10	11	11	12
+
+best	B-P	B-P
+indian	B-T	O
+restaurant	I-T	O
+in	O	O
+the	O	O
+city	O	O
+#Relations
+
+decor	B-T	B-T
+needs	O	O
+to	O	O
+be	O	O
+upgraded	B-P	B-P
+but	O	O
+the	O	O
+food	B-T	B-T
+is	O	O
+amazing	B-P	B-P
+!	O	O
+#Relations
+4	5	0	1
+9	10	7	8
+
+this	O	O
+small	O	O
+astoria	O	B-T
+so	O	I-T
+##u	O	I-T
+##v	O	I-T
+##lak	O	I-T
+##i	O	I-T
+spot	O	I-T
+makes	O	O
+what	O	O
+many	O	O
+consider	O	O
+the	O	O
+best	B-P	B-P
+g	B-T	O
+##yr	I-T	O
+##os	I-T	O
+in	O	O
+new	O	O
+york	O	O
+.	O	O
+#Relations
+14	15	2	9
+
+small	O	B-P
+,	O	O
+bright	O	B-P
+,	O	O
+and	O	O
+clean	O	B-P
+,	O	O
+b	O	O
+##z	O	O
+grill	O	I-T
+stands	O	O
+apart	O	O
+from	O	O
+the	O	O
+usual	O	O
+run	O	O
+of	O	O
+g	O	O
+##yr	O	O
+##o	O	O
+joints	O	O
+,	O	O
+both	O	O
+in	O	O
+astoria	O	O
+and	O	O
+out	O	O
+.	O	O
+#Relations
+
+what	O	O
+really	O	O
+makes	O	O
+it	O	O
+shine	B-P	O
+is	O	O
+the	O	O
+food	B-T	B-T
+,	O	O
+which	O	O
+is	O	O
+aggressively	O	O
+seasoned	O	O
+with	O	O
+cy	O	B-T
+##rp	O	I-T
+##rio	O	I-T
+##t	O	I-T
+spices	O	I-T
+,	O	O
+and	O	O
+all	O	O
+made	O	O
+in	B-P	O
+-	I-P	O
+house	I-P	O
+(	O	O
+even	O	O
+the	O	O
+g	B-T	B-T
+##yr	I-T	I-T
+##o	I-T	I-T
+meat	I-T	I-T
+and	O	O
+sausage	B-T	I-T
+##s	I-T	I-T
+)	O	O
+,	O	O
+and	O	O
+made	O	O
+of	O	O
+much	O	O
+higher	B-P	B-P
+quality	I-P	I-P
+ingredients	B-T	B-T
+that	O	O
+might	O	O
+otherwise	O	O
+be	O	O
+expected	O	O
+.	O	O
+#Relations
+42	44	29	33
+42	44	44	45
+
+all	O	O
+the	O	O
+various	O	O
+greek	B-T	B-T
+and	I-T	O
+cypriot	I-T	B-T
+dishes	I-T	I-T
+are	O	O
+excellent	B-P	B-P
+,	O	O
+but	O	O
+the	O	O
+g	B-T	B-T
+##yr	I-T	I-T
+##o	I-T	I-T
+is	O	O
+the	O	O
+reason	O	O
+to	O	O
+come	O	O
+-	O	O
+-	O	O
+if	O	O
+you	O	O
+do	O	O
+n	O	O
+'	O	O
+t	O	O
+eat	O	O
+one	O	O
+your	O	O
+trip	O	O
+was	O	O
+wasted	O	O
+.	O	O
+#Relations
+8	9	3	4
+8	9	5	7
+
+best	B-P	B-P
+restaurant	B-T	B-T
+in	O	O
+brooklyn	O	O
+#Relations
+0	1	1	2
+
+the	O	O
+best	O	O
+!	O	O
+#Relations
+
+great	B-P	B-P
+food	B-T	B-T
+,	O	O
+amazing	B-P	B-P
+service	B-T	B-T
+,	O	O
+this	O	O
+place	B-T	B-T
+is	O	O
+a	O	O
+class	B-P	B-P
+act	I-P	I-P
+.	O	O
+#Relations
+0	1	1	2
+3	4	4	5
+10	12	7	8
+
+the	O	O
+ve	B-T	B-T
+##al	I-T	I-T
+was	O	O
+incredible	B-P	B-P
+last	O	O
+night	O	O
+.	O	O
+#Relations
+4	5	1	3
+
+fresh	O	B-P
+,	O	O
+mind	O	B-P
+blowing	O	I-P
+flavors	O	B-T
+.	O	O
+#Relations
+0	1	4	5
+2	4	4	5
+
+this	O	O
+place	B-T	B-T
+is	O	O
+a	O	O
+must	B-P	B-P
+visit	I-P	I-P
+!	O	O
+#Relations
+4	6	1	2
+
+you	O	O
+want	O	O
+to	O	O
+have	O	O
+a	O	O
+real	O	O
+hot	O	O
+dog	O	I-T
+in	O	O
+brooklyn	O	O
+?	O	O
+#Relations
+
+skip	O	B-P
+nathan	O	B-T
+'	O	I-T
+s	O	I-T
+.	O	O
+.	O	O
+.	O	O
+you	O	O
+can	O	O
+get	O	O
+that	O	O
+at	O	O
+the	O	O
+mall	O	O
+.	O	O
+.	O	O
+.	O	O
+go	O	O
+to	O	O
+bark	O	B-T
+.	O	O
+#Relations
+0	1	1	4
+
+delicious	O	O
+,	O	O
+creative	O	O
+and	O	O
+fun	O	O
+.	O	O
+#Relations
+
+got	O	O
+a	O	O
+date	O	O
+?	O	O
+go	O	O
+here	O	O
+!	O	O
+#Relations
+
+every	O	O
+time	O	O
+i	O	O
+have	O	O
+a	O	O
+special	O	O
+occasion	O	O
+with	O	O
+my	O	O
+boyfriend	O	O
+i	O	O
+have	O	O
+a	O	O
+hard	O	O
+time	O	O
+going	O	O
+anywhere	O	O
+else	O	O
+.	O	O
+#Relations
+
+it	O	O
+is	O	O
+so	O	O
+romantic	O	O
+.	O	O
+#Relations
+
+its	O	O
+dark	O	O
+,	O	O
+and	O	O
+cozy	O	O
+.	O	O
+.	O	O
+there	O	O
+is	O	O
+always	O	O
+jazz	O	B-T
+music	O	I-T
+playing	O	O
+when	O	O
+we	O	O
+go	O	O
+.	O	O
+#Relations
+
+most	O	O
+of	O	O
+the	O	O
+booths	B-T	O
+allow	O	O
+you	O	O
+to	O	O
+sit	O	O
+next	O	O
+to	O	O
+each	O	O
+##oth	O	O
+##er	O	O
+without	O	O
+looking	O	O
+like	O	O
+'	O	O
+that	O	O
+'	O	O
+couple	O	O
+.	O	O
+#Relations
+
+the	O	O
+food	B-T	O
+is	O	O
+all	O	O
+shared	B-P	O
+so	O	O
+we	O	O
+get	O	O
+to	O	O
+order	O	O
+together	O	O
+and	O	O
+eat	O	O
+together	O	O
+.	O	O
+#Relations
+
+i	O	O
+'	O	O
+ve	O	O
+enjoyed	B-P	B-P
+99	O	O
+%	O	O
+of	O	O
+the	O	O
+dishes	B-T	B-T
+we	O	O
+'	O	O
+ve	O	O
+ordered	O	O
+with	O	O
+the	O	O
+only	O	O
+exceptions	O	O
+being	O	O
+the	O	O
+occasional	O	O
+too	B-P	O
+-	I-P	O
+authentic	I-P	B-P
+-	I-P	O
+for	I-P	O
+-	I-P	O
+me	I-P	O
+dish	B-T	O
+(	O	O
+i	O	O
+'	O	O
+m	O	O
+a	O	O
+daring	O	B-P
+eater	O	O
+but	O	O
+not	O	O
+that	O	O
+daring	O	O
+)	O	O
+.	O	O
+#Relations
+3	4	8	9
+
+once	O	O
+you	O	O
+try	O	O
+it	O	O
+for	O	O
+a	O	O
+special	O	O
+occasion	O	O
+be	O	O
+##ware	O	O
+.	O	O
+.	O	O
+you	O	O
+ca	O	O
+n	O	O
+'	O	O
+t	O	O
+stop	O	O
+!	O	O
+#Relations
+
+you	O	O
+'	O	O
+ll	O	O
+be	O	O
+the	O	O
+##r	O	O
+for	O	O
+every	O	O
+anniversary	O	O
+,	O	O
+birthday	O	O
+,	O	O
+valentine	O	O
+##s	O	O
+day	O	O
+.	O	O
+.	O	O
+.	O	O
+#Relations
+
+for	O	O
+a	O	O
+fabulous	O	O
+wedding	O	O
+!	O	O
+#Relations
+
+my	O	O
+daughter	O	O
+'	O	O
+s	O	O
+wedding	O	O
+reception	O	O
+at	O	O
+water	B-T	O
+'	I-T	O
+s	I-T	O
+edge	I-T	O
+received	O	O
+the	O	O
+highest	B-P	O
+compliment	I-P	O
+##s	I-P	O
+from	O	O
+our	O	O
+guests	O	O
+.	O	O
+#Relations
+
+everyone	O	O
+rave	B-P	O
+##d	I-P	O
+about	O	O
+the	O	O
+atmosphere	B-T	B-T
+(	O	O
+elegant	B-P	B-P
+rooms	B-T	B-T
+and	O	O
+absolutely	O	O
+inc	B-P	B-P
+##omp	I-P	I-P
+##arable	I-P	I-P
+views	B-T	B-T
+)	O	O
+and	O	O
+the	O	O
+fabulous	B-P	B-P
+food	B-T	B-T
+!	O	O
+#Relations
+7	8	5	6
+7	8	8	9
+11	14	14	15
+18	19	19	20
+
+service	B-T	B-T
+was	O	O
+wonderful	B-P	B-P
+;	O	O
+#Relations
+2	3	0	1
+
+everyone	O	O
+was	O	O
+cheerfully	O	O
+cooperative	O	O
+and	O	O
+helpful	O	O
+.	O	O
+#Relations
+
+paul	B-T	B-T
+,	O	O
+the	O	O
+mai	O	B-T
+##tre	O	I-T
+d	O	I-T
+'	O	I-T
+,	O	O
+was	O	O
+totally	O	O
+professional	B-P	B-P
+and	O	O
+always	O	O
+on	O	O
+top	O	O
+of	O	O
+things	O	O
+.	O	O
+#Relations
+10	11	0	1
+10	11	3	7
+
+thank	O	O
+you	O	O
+everyone	O	O
+at	O	O
+water	B-T	O
+'	I-T	O
+s	I-T	O
+edge	I-T	O
+.	O	O
+#Relations
+
+ruth	O	O
+,	O	O
+mother	O	O
+of	O	O
+the	O	O
+bride	O	O
+#Relations
+
+would	O	O
+not	O	O
+go	O	O
+back	O	O
+.	O	O
+#Relations
+
+service	B-T	B-T
+ok	B-P	B-P
+but	O	O
+un	B-P	B-P
+##fr	I-P	I-P
+##ien	I-P	I-P
+##dly	I-P	I-P
+,	O	O
+filthy	B-P	B-P
+bathroom	B-T	B-T
+.	O	O
+#Relations
+1	2	0	1
+8	9	9	10
+
+the	O	O
+high	B-P	O
+prices	I-P	O
+you	O	O
+'	O	O
+re	O	O
+going	O	O
+to	O	O
+pay	O	O
+is	O	O
+for	O	O
+the	O	O
+view	B-T	B-T
+not	O	O
+for	O	O
+the	O	O
+food	B-T	B-T
+.	O	O
+#Relations
+
+the	O	O
+bar	B-T	B-T
+drinks	I-T	I-T
+were	O	O
+eh	O	O
+,	O	O
+ok	B-P	B-P
+to	O	O
+say	O	O
+the	O	O
+least	O	O
+.	O	O
+#Relations
+6	7	1	3
+
+the	O	O
+stuff	B-T	B-T
+til	I-T	I-T
+##ap	I-T	I-T
+##ia	I-T	I-T
+was	O	O
+ho	B-P	B-P
+##rri	I-P	I-P
+##d	I-P	I-P
+.	O	O
+.	O	O
+.	O	O
+tasted	O	O
+like	O	O
+cardboard	O	B-P
+.	O	O
+#Relations
+6	9	1	5
+14	15	1	5
+
+we	O	O
+thought	O	O
+the	O	O
+dessert	B-T	B-T
+would	O	O
+be	O	O
+better	B-P	B-P
+,	O	O
+wrong	B-P	O
+!	O	O
+#Relations
+6	7	3	4
+
+$	O	O
+170	O	O
+down	O	O
+the	O	O
+toilet	O	O
+.	O	O
+.	O	O
+.	O	O
+#Relations
+
+oh	O	O
+speaking	O	O
+of	O	O
+bathroom	O	B-T
+,	O	O
+the	O	O
+men	B-T	B-T
+##s	I-T	I-T
+bathroom	I-T	I-T
+was	O	O
+disgusting	B-P	B-P
+.	O	O
+#Relations
+10	11	6	9
+
+the	O	O
+floor	O	B-T
+was	O	O
+wet	O	O
+,	O	O
+the	O	O
+trash	O	O
+can	O	O
+filled	O	O
+with	O	O
+hand	O	O
+towels	O	O
+n	O	O
+all	O	O
+over	O	O
+the	O	O
+floor	O	O
+,	O	O
+no	O	O
+soap	O	O
+,	O	O
+and	O	O
+no	O	O
+hand	O	O
+towels	O	O
+left	O	O
+.	O	O
+#Relations
+
+go	O	O
+to	O	O
+son	O	O
+cuban	O	O
+##o	O	O
+in	O	O
+edge	O	O
+##water	O	O
+nj	O	O
+instead	O	O
+.	O	O
+#Relations
+
+good	O	O
+experience	O	O
+#Relations
+
+during	O	O
+our	O	O
+trip	O	O
+to	O	O
+nyc	O	O
+,	O	O
+we	O	O
+made	O	O
+reservations	O	O
+to	O	O
+din	O	O
+##e	O	O
+in	O	O
+the	O	O
+pool	O	O
+room	O	O
+of	O	O
+the	O	O
+four	O	O
+seasons	O	O
+for	O	O
+their	O	O
+pre	O	O
+-	O	O
+theater	O	O
+menu	O	O
+(	O	O
+offering	O	O
+a	O	O
+modified	O	O
+menu	O	O
+for	O	O
+$	O	O
+65	O	O
+pp	O	O
+)	O	O
+.	O	O
+#Relations
+
+the	O	O
+wine	B-T	B-T
+list	I-T	I-T
+was	O	O
+extensive	B-P	B-P
+-	O	O
+though	O	O
+the	O	O
+staff	B-T	B-T
+did	O	O
+not	O	O
+seem	O	O
+knowledge	B-P	B-P
+##able	I-P	I-P
+about	O	O
+wine	O	O
+pairing	O	O
+##s	O	O
+.	O	O
+#Relations
+4	5	1	3
+12	14	8	9
+
+the	O	O
+bread	B-T	B-T
+we	O	O
+received	O	O
+was	O	O
+horrible	B-P	B-P
+-	O	O
+rock	B-P	O
+hard	I-P	I-P
+and	O	O
+cold	B-P	B-P
+-	O	O
+and	O	O
+the	O	O
+`	O	O
+`	O	O
+free	O	B-P
+'	O	O
+'	O	O
+app	B-T	I-T
+##eti	I-T	I-T
+##zer	I-T	I-T
+of	I-T	I-T
+olive	I-T	I-T
+##s	I-T	I-T
+was	O	O
+disappointing	B-P	B-P
+.	O	O
+#Relations
+5	6	1	2
+10	11	1	2
+
+however	O	O
+,	O	O
+our	O	O
+main	B-T	B-T
+course	I-T	I-T
+was	O	O
+wonderful	B-P	B-P
+.	O	O
+#Relations
+6	7	3	5
+
+i	O	O
+had	O	O
+fish	B-T	B-T
+and	O	O
+my	O	O
+husband	O	O
+had	O	O
+the	O	O
+file	B-T	B-T
+##t	I-T	I-T
+-	O	O
+both	O	O
+of	O	O
+which	O	O
+exceeded	B-P	B-P
+our	O	O
+expectations	O	O
+.	O	O
+#Relations
+14	15	8	10
+
+the	O	O
+dessert	O	B-T
+(	O	O
+we	O	O
+had	O	O
+a	O	O
+pear	B-T	O
+tor	I-T	I-T
+##te	I-T	I-T
+)	O	O
+was	O	O
+good	B-P	B-P
+-	O	O
+but	O	O
+,	O	O
+once	O	O
+again	O	O
+,	O	O
+the	O	O
+staff	B-T	B-T
+was	O	O
+unable	B-P	O
+to	O	O
+provide	O	O
+appropriate	O	O
+drink	O	O
+suggestions	O	O
+.	O	O
+#Relations
+11	12	1	2
+
+when	O	O
+we	O	O
+inquired	O	O
+about	O	O
+ports	O	O
+-	O	O
+the	O	O
+waitress	B-T	O
+listed	O	O
+off	O	O
+several	O	O
+but	O	O
+did	O	O
+not	O	O
+know	O	O
+taste	O	O
+variations	O	O
+or	O	O
+cost	O	O
+.	O	O
+#Relations
+
+not	O	O
+what	O	O
+i	O	O
+would	O	O
+expect	B-P	O
+for	O	O
+the	O	O
+price	O	O
+and	O	O
+prestige	O	O
+of	O	O
+this	O	O
+location	B-T	O
+.	O	O
+#Relations
+
+all	O	O
+in	O	O
+all	O	O
+,	O	O
+i	O	O
+would	O	O
+return	O	O
+-	O	O
+as	O	O
+it	O	O
+was	O	O
+a	O	O
+beautiful	B-P	O
+restaurant	B-T	O
+-	O	O
+but	O	O
+i	O	O
+hope	O	O
+the	O	O
+staff	B-T	B-T
+pays	O	O
+more	O	O
+attention	O	O
+to	O	O
+the	O	O
+little	O	O
+details	O	O
+in	O	O
+the	O	O
+future	O	O
+.	O	O
+#Relations
+
+short	B-P	B-P
+and	O	O
+sweet	B-P	B-P
+–	O	O
+seating	B-T	B-T
+is	O	O
+great	B-P	B-P
+:	O	O
+it	O	O
+'	O	O
+s	O	O
+romantic	B-P	B-P
+,	O	O
+cozy	B-P	B-P
+and	O	O
+private	B-P	B-P
+.	O	O
+#Relations
+6	7	4	5
+11	12	4	5
+13	14	4	5
+15	16	4	5
+
+the	O	O
+both	B-T	B-T
+##s	I-T	I-T
+are	O	O
+not	O	O
+as	O	O
+small	B-P	B-P
+as	O	O
+some	O	O
+of	O	O
+the	O	O
+reviews	O	O
+make	O	O
+them	O	O
+out	O	O
+to	O	O
+look	O	O
+they	O	O
+'	O	O
+re	O	O
+perfect	B-P	O
+for	O	O
+2	O	O
+people	O	O
+.	O	O
+#Relations
+6	7	1	3
+
+the	O	O
+service	B-T	B-T
+was	O	O
+extremely	O	O
+fast	B-P	B-P
+and	O	O
+at	B-P	B-P
+##ten	I-P	I-P
+##tive	I-P	I-P
+(	O	O
+thanks	B-P	O
+to	I-P	O
+the	O	O
+service	B-T	O
+button	I-T	O
+on	O	O
+your	O	O
+table	O	O
+)	O	O
+but	O	O
+i	O	O
+barely	O	O
+understood	O	O
+1	O	O
+word	O	O
+when	O	O
+the	O	O
+waiter	B-T	B-T
+took	O	O
+our	O	O
+order	O	O
+.	O	O
+#Relations
+4	5	1	2
+6	9	1	2
+
+the	O	O
+food	B-T	B-T
+was	O	O
+ok	B-P	B-P
+and	O	O
+fair	B-P	O
+nothing	O	O
+to	O	O
+go	O	O
+crazy	O	O
+.	O	O
+#Relations
+3	4	1	2
+
+over	O	O
+.	O	O
+#Relations
+
+over	O	O
+all	O	O
+the	O	O
+looks	B-T	O
+of	O	O
+the	O	O
+place	O	B-T
+exceeds	B-P	O
+the	O	O
+actual	O	O
+meals	B-T	B-T
+.	O	O
+#Relations
+
+so	O	O
+what	O	O
+you	O	O
+really	O	O
+end	O	O
+up	O	O
+paying	O	O
+for	O	O
+is	O	O
+the	O	O
+restaurant	B-T	B-T
+not	O	O
+the	O	O
+food	B-T	B-T
+.	O	O
+#Relations
+
+will	O	O
+pro	O	O
+##b	O	O
+.	O	O
+not	O	O
+return	O	O
+but	O	O
+it	O	O
+is	O	O
+a	O	O
+great	O	O
+din	O	O
+##ning	O	O
+experience	O	O
+to	O	O
+try	O	O
+at	O	O
+##lea	O	O
+##st	O	O
+once	O	O
+.	O	O
+#Relations
+
+impressed	O	O
+.	O	O
+.	O	O
+.	O	O
+#Relations
+
+subtle	B-P	B-P
+food	B-T	B-T
+and	O	O
+service	B-T	B-T
+#Relations
+0	1	1	2
+0	1	3	4
+
+no	O	B-T
+##odle	O	I-T
+pudding	O	I-T
+is	O	O
+exactly	O	O
+the	O	O
+type	O	O
+of	O	O
+service	B-T	O
+and	O	O
+food	B-T	O
+i	O	O
+enjoy	B-P	B-P
+.	O	O
+#Relations
+12	13	0	3
+
+servers	O	B-T
+are	O	O
+all	O	O
+different	O	B-P
+,	O	O
+greg	B-T	B-T
+is	O	O
+my	O	O
+favorite	B-P	B-P
+.	O	O
+#Relations
+3	4	0	1
+8	9	5	6
+
+sometimes	O	O
+tables	O	O
+do	O	O
+n	O	O
+'	O	O
+t	O	O
+understand	O	O
+his	O	O
+sense	O	O
+of	O	O
+humor	O	O
+but	O	O
+it	O	O
+'	O	O
+s	O	O
+refreshing	O	B-P
+to	O	O
+have	O	O
+a	O	O
+server	B-T	B-T
+who	O	O
+has	O	O
+personality	O	O
+,	O	O
+professional	O	O
+##ism	O	O
+,	O	O
+and	O	O
+respects	O	O
+the	O	O
+privacy	O	O
+of	O	O
+your	O	O
+dinner	O	O
+.	O	O
+#Relations
+15	16	19	20
+
+this	O	O
+is	O	O
+the	O	O
+first	O	O
+place	O	O
+i	O	O
+'	O	O
+ve	O	O
+been	O	O
+that	O	O
+a	O	O
+runner	B-T	O
+remembers	O	O
+my	O	O
+order	O	O
+.	O	O
+.	O	O
+.	O	O
+hope	O	O
+he	O	O
+likes	O	B-P
+his	O	O
+job	O	O
+because	O	O
+i	O	O
+have	O	O
+half	O	O
+a	O	O
+mind	O	O
+to	O	O
+steal	O	O
+him	O	O
+for	O	O
+my	O	O
+restaurant	O	O
+.	O	O
+#Relations
+
+prices	O	O
+are	O	O
+fair	B-P	B-P
+across	O	O
+the	O	O
+board	O	O
+for	O	O
+both	O	O
+food	B-T	B-T
+and	O	O
+be	B-T	B-T
+##v	I-T	I-T
+.	O	O
+#Relations
+2	3	8	9
+2	3	10	12
+
+i	O	O
+go	O	O
+out	O	O
+to	O	O
+eat	O	O
+and	O	O
+like	O	B-P
+my	O	O
+courses	O	O
+,	O	O
+servers	B-T	B-T
+are	O	O
+patient	B-P	B-P
+and	O	O
+never	O	O
+rush	O	O
+courses	O	O
+or	O	O
+force	O	O
+another	O	O
+drink	O	O
+.	O	O
+#Relations
+6	7	10	11
+12	13	10	11
+
+restaurants	O	O
+in	O	O
+manhattan	O	O
+should	O	O
+try	O	O
+to	O	O
+model	O	O
+food	O	O
+and	O	O
+service	O	B-T
+after	O	O
+this	O	O
+place	O	O
+.	O	O
+#Relations
+
+amazing	B-P	B-P
+fresh	B-P	B-T
+dogs	B-T	I-T
+but	O	O
+best	B-P	O
+of	O	O
+all	O	O
+endless	B-P	O
+topping	B-T	O
+##s	I-T	O
+!	O	O
+!	O	O
+!	O	O
+#Relations
+0	1	1	3
+
+this	O	O
+place	O	O
+had	O	O
+all	O	O
+the	O	O
+trim	B-T	O
+##ming	I-T	O
+##s	I-T	O
+and	O	O
+i	O	O
+mean	O	O
+all	O	O
+.	O	O
+#Relations
+
+peppers	O	B-T
+,	O	O
+onions	O	B-T
+,	O	O
+re	O	B-T
+##lish	O	I-T
+,	O	O
+chill	O	B-T
+##i	O	I-T
+,	O	O
+cheese	O	B-T
+##s	O	I-T
+,	O	O
+you	O	O
+name	O	O
+it	O	O
+.	O	O
+#Relations
+
+amazing	B-P	O
+fun	I-P	B-T
+for	O	O
+hot	B-T	O
+dog	I-T	O
+lovers	O	O
+of	O	O
+all	O	O
+ages	O	O
+please	O	O
+do	O	O
+yourself	O	O
+a	O	O
+favor	O	O
+and	O	O
+check	O	O
+this	O	O
+place	B-T	B-T
+out	O	O
+!	O	O
+!	O	O
+!	O	O
+!	O	O
+#Relations
+
+best	O	B-P
+dining	O	B-T
+experience	O	O
+in	O	O
+the	O	O
+west	O	O
+village	O	O
+!	O	O
+#Relations
+0	1	1	2
+
+stepping	O	O
+into	O	O
+casa	B-T	B-T
+la	I-T	O
+femme	I-T	O
+last	O	O
+night	O	O
+was	O	O
+a	O	O
+true	B-P	O
+experience	O	O
+unlike	O	O
+any	O	O
+other	O	O
+in	O	O
+new	O	O
+york	O	O
+!	O	O
+#Relations
+
+highly	O	O
+impressed	B-P	B-P
+from	O	O
+the	O	O
+decor	B-T	B-T
+to	O	O
+the	O	O
+food	B-T	B-T
+to	O	O
+the	O	O
+hospitality	O	B-T
+to	O	O
+the	O	O
+great	O	O
+night	O	O
+i	O	O
+had	O	O
+!	O	O
+#Relations
+1	2	4	5
+1	2	7	8
+1	2	10	11
+
+the	O	O
+have	O	O
+a	O	O
+great	B-P	B-P
+cocktail	B-T	B-T
+with	I-T	O
+citrus	I-T	I-T
+vodka	I-T	I-T
+and	I-T	O
+lemon	I-T	B-T
+and	I-T	I-T
+lime	I-T	I-T
+juice	I-T	I-T
+and	I-T	O
+mint	I-T	B-T
+leaves	I-T	I-T
+that	O	O
+is	O	O
+to	O	O
+die	B-P	B-P
+for	I-P	I-P
+!	O	O
+#Relations
+3	4	4	5
+19	21	14	16
+
+food	B-T	B-T
+took	O	O
+some	O	O
+time	O	O
+to	O	O
+prepare	O	O
+,	O	O
+all	O	O
+worth	B-P	O
+waiting	O	O
+for	O	O
+.	O	O
+#Relations
+
+we	O	O
+were	O	O
+drawn	O	O
+into	O	O
+the	O	O
+belly	B-T	B-T
+dancing	I-T	I-T
+show	I-T	O
+that	O	O
+capt	B-P	O
+##ivated	I-P	O
+the	O	O
+crowd	O	O
+.	O	O
+#Relations
+
+i	O	O
+never	O	O
+write	O	O
+on	O	O
+these	O	O
+sites	O	O
+but	O	O
+this	O	O
+restaurant	B-T	B-T
+is	O	O
+def	O	O
+worth	B-P	I-P
+com	O	I-P
+##men	O	I-P
+##ding	O	I-P
+!	O	O
+#Relations
+
+great	O	O
+find	O	O
+in	O	O
+the	O	O
+west	O	O
+village	O	O
+!	O	O
+#Relations
+
+mag	O	O
+##go	O	O
+##t	O	O
+in	O	O
+the	O	O
+food	B-T	B-T
+!	O	O
+#Relations
+
+i	O	O
+'	O	O
+ve	O	O
+been	O	O
+wanting	O	O
+to	O	O
+go	O	O
+to	O	O
+this	O	O
+place	O	B-T
+forever	O	O
+and	O	O
+finally	O	O
+got	O	O
+a	O	O
+table	O	O
+.	O	O
+#Relations
+
+the	O	O
+menu	B-T	B-T
+looked	O	O
+great	B-P	B-P
+,	O	O
+and	O	O
+the	O	O
+waiter	B-T	B-T
+was	O	O
+very	O	O
+nice	B-P	B-P
+,	O	O
+but	O	O
+when	O	O
+the	O	O
+food	B-T	B-T
+came	O	O
+,	O	O
+it	O	O
+was	O	O
+average	B-P	B-P
+.	O	O
+#Relations
+3	4	1	2
+10	11	7	8
+20	21	15	16
+
+nevertheless	O	O
+,	O	O
+i	O	O
+finished	O	O
+my	O	O
+plate	O	O
+,	O	O
+and	O	O
+that	O	O
+'	O	O
+s	O	O
+when	O	O
+i	O	O
+found	O	O
+a	O	O
+mag	O	O
+##go	O	O
+##t	O	O
+in	O	O
+mushroom	B-T	O
+sauce	I-T	O
+at	O	O
+the	O	O
+bottom	O	O
+.	O	O
+#Relations
+
+i	O	O
+showed	O	O
+it	O	O
+to	O	O
+the	O	O
+manager	B-T	O
+,	O	O
+and	O	O
+he	O	O
+smiling	O	O
+##ly	O	O
+apologized	O	O
+and	O	O
+brought	O	O
+us	O	O
+two	O	O
+free	O	O
+dessert	O	O
+##s	O	O
+(	O	O
+but	O	O
+did	O	O
+not	O	O
+ask	O	O
+us	O	O
+what	O	O
+we	O	O
+wanted	O	O
+and	O	O
+so	O	O
+brought	O	O
+the	O	O
+last	O	O
+two	O	O
+dessert	O	O
+##s	O	O
+we	O	O
+would	O	O
+have	O	O
+asked	O	O
+for	O	O
+)	O	O
+.	O	O
+#Relations
+
+when	O	O
+the	O	O
+bill	O	O
+came	O	O
+,	O	O
+nothing	O	O
+was	O	O
+com	O	O
+##ped	O	O
+,	O	O
+so	O	O
+i	O	O
+told	O	O
+the	O	O
+manager	O	O
+very	O	O
+politely	O	O
+that	O	O
+we	O	O
+were	O	O
+willing	O	O
+to	O	O
+pay	O	O
+for	O	O
+the	O	O
+wine	O	O
+,	O	O
+but	O	O
+i	O	O
+did	O	O
+n	O	O
+'	O	O
+t	O	O
+think	O	O
+i	O	O
+should	O	O
+have	O	O
+to	O	O
+pay	O	O
+for	O	O
+food	O	O
+with	O	O
+a	O	O
+mag	O	O
+##go	O	O
+##t	O	O
+in	O	O
+it	O	O
+.	O	O
+#Relations
+
+yes	O	O
+,	O	O
+i	O	O
+ate	O	O
+the	O	O
+food	O	O
+,	O	O
+but	O	O
+i	O	O
+certainly	O	O
+would	O	O
+not	O	O
+have	O	O
+if	O	O
+i	O	O
+had	O	O
+seen	O	O
+the	O	O
+mag	O	O
+##go	O	O
+##t	O	O
+before	O	O
+eating	O	O
+,	O	O
+and	O	O
+i	O	O
+was	O	O
+at	O	O
+this	O	O
+point	O	O
+fairly	O	O
+sick	O	O
+to	O	O
+my	O	O
+stomach	O	O
+.	O	O
+#Relations
+
+the	O	O
+manager	B-T	B-T
+finally	O	O
+said	O	O
+he	O	O
+would	O	O
+com	O	O
+##p	O	O
+the	O	O
+two	O	O
+glasses	O	O
+of	O	O
+wine	O	O
+(	O	O
+which	O	O
+cost	O	O
+less	O	O
+than	O	O
+the	O	O
+food	O	O
+)	O	O
+,	O	O
+and	O	O
+made	O	O
+it	O	O
+seem	O	O
+like	O	O
+a	O	O
+big	O	O
+concession	O	O
+.	O	O
+#Relations
+
+we	O	O
+paid	O	O
+and	O	O
+left	O	O
+because	O	O
+we	O	O
+did	O	O
+n	O	O
+'	O	O
+t	O	O
+feel	O	O
+like	O	O
+arguing	O	O
+any	O	O
+more	O	O
+.	O	O
+#Relations
+
+i	O	O
+have	O	O
+worked	O	O
+in	O	O
+restaurants	O	O
+and	O	O
+cook	O	O
+a	O	O
+lot	O	O
+,	O	O
+and	O	O
+there	O	O
+is	O	O
+no	O	O
+way	O	O
+a	O	O
+mag	O	O
+##go	O	O
+##t	O	O
+should	O	O
+be	O	O
+able	O	O
+to	O	O
+get	O	O
+into	O	O
+well	B-P	B-P
+prepared	I-P	I-P
+food	B-T	B-T
+.	O	O
+#Relations
+25	27	27	28
+
+for	O	O
+a	O	O
+restaurant	B-T	O
+with	O	O
+such	O	O
+a	O	O
+good	B-P	O
+reputation	I-P	O
+and	O	O
+that	O	O
+is	O	O
+usually	O	O
+so	O	O
+packed	O	O
+,	O	O
+there	O	O
+was	O	O
+no	O	O
+reason	O	O
+for	O	O
+such	O	O
+a	O	O
+lack	B-P	O
+of	I-P	O
+intelligent	I-P	B-P
+customer	B-T	B-T
+service	I-T	I-T
+.	O	O
+#Relations
+24	25	25	27
+
+a	O	O
+fairly	O	O
+late	O	O
+entry	O	O
+into	O	O
+the	O	O
+haute	O	O
+barn	O	O
+##yard	O	O
+sweeps	O	O
+##take	O	O
+##s	O	O
+,	O	O
+flat	O	O
+##bush	O	O
+farm	O	O
+is	O	O
+n	O	O
+'	O	O
+t	O	O
+in	O	O
+the	O	O
+same	O	O
+league	O	O
+as	O	O
+the	O	O
+blue	O	O
+hills	O	O
+or	O	O
+even	O	O
+the	O	O
+farm	O	O
+on	O	O
+add	O	O
+##erly	O	O
+##s	O	O
+of	O	O
+the	O	O
+world	O	O
+,	O	O
+but	O	O
+it	O	O
+'	O	O
+s	O	O
+pretty	O	O
+good	O	B-P
+,	O	O
+albeit	O	O
+with	O	O
+a	O	O
+somewhat	O	O
+di	O	B-P
+##sma	O	I-P
+##l	O	I-P
+setting	O	B-T
+.	O	O
+#Relations
+51	54	54	55
+
+un	O	O
+##hy	O	I-P
+##gie	O	O
+##nic	O	O
+#Relations
+
+i	O	O
+do	O	O
+not	O	O
+recommend	O	O
+.	O	O
+#Relations
+
+i	O	O
+went	O	O
+there	O	O
+2	O	O
+##time	O	O
+##s	O	O
+.	O	O
+#Relations
+
+i	O	O
+got	O	O
+hair	O	O
+in	O	O
+my	O	O
+food	B-T	O
+2	O	O
+times	O	O
+of	O	O
+then	O	O
+!	O	O
+#Relations
+
+great	B-P	B-P
+place	B-T	B-T
+,	O	O
+great	O	O
+value	O	O
+.	O	O
+#Relations
+0	1	1	2
+
+the	O	O
+food	B-T	B-T
+is	O	O
+flavor	B-P	B-P
+##ful	I-P	I-P
+,	O	O
+pl	B-P	B-P
+##ent	I-P	I-P
+##iful	I-P	I-P
+and	O	O
+reasonably	B-P	O
+priced	I-P	O
+.	O	O
+#Relations
+3	5	1	2
+6	9	1	2
+
+the	O	O
+atmosphere	B-T	B-T
+is	O	O
+relaxed	B-P	B-P
+and	O	O
+casual	B-P	B-P
+.	O	O
+#Relations
+3	4	1	2
+5	6	1	2
+
+it	O	O
+'	O	O
+s	O	O
+a	O	O
+great	B-P	B-P
+place	B-T	B-T
+to	O	O
+order	O	O
+from	O	O
+or	O	O
+sit	O	O
+-	O	O
+in	O	O
+.	O	O
+#Relations
+4	5	5	6
+
+awesome	O	O
+#Relations
+
+inexpensive	O	O
+,	O	O
+una	O	B-P
+##ss	O	I-P
+##uming	O	O
+,	O	O
+great	O	O
+time	O	O
+!	O	O
+#Relations
+
+su	B-T	B-T
+##shi	I-T	I-T
+experience	O	O
+was	O	O
+unbelievable	B-P	B-P
+with	O	O
+my	O	O
+fiance	O	O
+.	O	O
+#Relations
+4	5	0	2
+
+try	O	O
+it	O	O
+!	O	O
+#Relations
+
+very	O	O
+pleased	O	O
+#Relations
+
+good	B-P	B-P
+creative	B-P	B-T
+rolls	B-T	B-T
+!	O	O
+#Relations
+0	1	1	2
+0	1	2	3
+
+ya	B-T	B-T
+##mat	I-T	I-T
+##o	I-T	I-T
+is	O	O
+an	O	O
+excellent	B-P	B-P
+place	O	O
+to	O	O
+go	O	O
+if	O	O
+your	O	O
+##e	O	O
+not	O	O
+into	O	O
+sash	O	O
+##imi	O	O
+,	O	O
+or	O	O
+if	O	O
+you	O	O
+have	O	O
+friends	O	O
+who	O	O
+doesn	O	O
+##t	O	O
+like	O	B-P
+su	O	B-T
+##shi	O	I-T
+much	O	O
+.	O	O
+#Relations
+5	6	0	3
+25	26	26	28
+
+they	O	O
+have	O	O
+great	B-P	B-P
+rolls	B-T	B-T
+,	O	O
+the	O	O
+triple	B-T	B-T
+color	I-T	I-T
+and	I-T	O
+nor	I-T	B-T
+##we	I-T	I-T
+##get	I-T	I-T
+##an	I-T	I-T
+rolls	I-T	I-T
+,	O	O
+are	O	O
+awesome	B-P	B-P
+and	O	O
+filling	B-P	B-P
+.	O	O
+#Relations
+2	3	3	4
+16	17	9	14
+18	19	9	14
+
+one	O	O
+special	B-T	B-T
+roll	I-T	I-T
+and	O	O
+one	O	O
+regular	B-T	O
+roll	I-T	O
+is	O	O
+enough	B-P	O
+to	O	O
+fill	O	O
+you	O	O
+up	O	O
+,	O	O
+but	O	O
+save	B-P	O
+room	I-P	O
+for	O	O
+dessert	B-T	B-T
+!	O	O
+#Relations
+
+they	O	O
+have	O	O
+a	O	O
+delicious	B-P	B-P
+banana	B-T	B-T
+chocolate	I-T	I-T
+dessert	I-T	I-T
+,	O	O
+as	O	O
+well	O	O
+as	O	O
+a	O	O
+great	B-P	B-P
+green	B-T	B-T
+tea	I-T	I-T
+te	I-T	I-T
+##mp	I-T	I-T
+##ura	I-T	I-T
+.	O	O
+#Relations
+3	4	4	7
+12	13	13	18
+
+the	O	O
+app	B-T	B-T
+##eti	I-T	I-T
+##zers	I-T	I-T
+are	O	O
+also	O	O
+delicious	B-P	B-P
+!	O	O
+#Relations
+6	7	1	4
+
+amazing	B-P	B-P
+food	B-T	B-T
+.	O	O
+#Relations
+0	1	1	2
+
+ma	B-P	O
+##zing	I-P	O
+interior	B-T	O
+.	O	O
+#Relations
+
+great	B-P	B-P
+food	B-T	B-T
+!	O	O
+#Relations
+0	1	1	2
+
+i	O	O
+'	O	O
+ve	O	O
+had	O	O
+my	O	O
+fair	O	O
+share	O	O
+of	O	O
+modern	B-T	O
+japanese	I-T	I-T
+and	O	O
+this	O	O
+spot	O	B-T
+delivers	B-P	B-P
+.	O	O
+#Relations
+13	14	12	13
+
+the	O	O
+atmosphere	B-T	B-T
+was	O	O
+pretty	O	O
+nice	B-P	B-P
+but	O	O
+had	O	O
+a	O	O
+bit	O	O
+lacking	B-P	B-P
+,	O	O
+which	O	O
+it	O	O
+tries	O	O
+to	O	O
+make	O	O
+up	O	O
+for	O	O
+with	O	O
+a	O	O
+crazy	B-P	B-P
+scheme	B-T	O
+of	I-T	O
+mirrors	I-T	O
+.	O	O
+#Relations
+4	5	1	2
+9	10	1	2
+
+if	O	O
+you	O	O
+'	O	O
+re	O	O
+into	O	O
+being	O	O
+lost	O	O
+when	O	O
+you	O	O
+'	O	O
+re	O	O
+just	O	O
+five	O	O
+feet	O	O
+from	O	O
+your	O	O
+table	O	O
+then	O	O
+hey	O	O
+,	O	O
+that	O	O
+'	O	O
+s	O	O
+a	O	O
+good	O	O
+thing	O	O
+.	O	O
+#Relations
+
+despite	O	O
+the	O	O
+confusing	B-P	O
+mirrors	B-T	O
+this	O	O
+will	O	O
+likely	O	O
+be	O	O
+my	O	O
+go	B-P	O
+-	I-P	O
+to	I-P	O
+for	I-P	O
+modern	B-T	O
+japanese	I-T	O
+food	I-T	O
+for	O	O
+the	O	O
+fore	O	O
+##see	O	O
+##able	O	O
+future	O	O
+.	O	O
+#Relations
+
+another	O	O
+review	O	O
+here	O	O
+claimed	O	O
+the	O	O
+pre	O	O
+-	O	O
+fix	O	O
+was	O	O
+$	O	O
+29	O	O
+/	O	O
+per	O	O
+person	O	O
+including	O	O
+sake	O	O
+but	O	O
+it	O	O
+is	O	O
+$	O	O
+55	O	O
+per	O	O
+person	O	O
+not	O	O
+including	O	O
+sake	O	O
+.	O	O
+#Relations
+
+indo	B-T	B-T
+chinese	I-T	I-T
+food	I-T	I-T
+,	O	O
+pretty	O	O
+good	B-P	B-P
+.	O	O
+.	O	O
+.	O	O
+#Relations
+5	6	0	3
+
+not	O	O
+a	O	O
+very	O	O
+fancy	B-P	B-P
+place	B-T	B-T
+but	O	O
+very	O	O
+good	B-P	B-P
+chinese	B-T	B-T
+style	I-T	I-T
+indian	I-T	B-T
+food	I-T	I-T
+.	O	O
+#Relations
+3	4	4	5
+7	8	8	10
+7	8	10	12
+
+the	O	O
+chicken	B-T	B-T
+lo	I-T	I-T
+##lli	I-T	I-T
+##pop	I-T	I-T
+is	O	O
+my	O	O
+favorite	B-P	B-P
+,	O	O
+most	O	O
+of	O	O
+the	O	O
+dishes	B-T	B-T
+(	O	O
+i	O	O
+have	O	O
+to	O	O
+agree	O	O
+with	O	O
+a	O	O
+previous	O	O
+reviewer	O	O
+)	O	O
+are	O	O
+quite	O	O
+oil	B-P	B-P
+##y	I-P	I-P
+and	O	O
+very	O	O
+spicy	B-P	B-P
+,	O	O
+es	O	O
+##pe	O	I-P
+##ically	O	I-P
+the	O	O
+chill	B-T	B-T
+##i	I-T	I-T
+chicken	I-T	I-T
+.	O	O
+#Relations
+7	8	1	5
+25	27	12	13
+29	30	12	13
+
+my	O	O
+mom	O	O
+originally	O	O
+introduced	O	O
+me	O	O
+to	O	O
+this	O	O
+place	O	O
+,	O	O
+but	O	O
+even	O	O
+she	O	O
+(	O	O
+being	O	O
+indian	O	O
+)	O	O
+feels	O	O
+the	O	O
+food	B-T	B-T
+can	O	O
+be	O	O
+somewhat	O	O
+over	O	B-P
+the	O	I-P
+top	O	I-P
+spicy	B-P	B-P
+and	O	O
+far	O	O
+too	O	O
+oil	B-P	B-P
+##y	I-P	I-P
+.	O	O
+#Relations
+22	25	18	19
+25	26	18	19
+29	31	18	19
+
+still	O	O
+we	O	O
+keep	O	O
+going	O	O
+back	O	O
+:	O	O
+)	O	O
+#Relations
+
+i	O	O
+was	O	O
+speechless	O	B-P
+by	O	O
+the	O	O
+horrible	B-P	B-P
+food	B-T	B-T
+.	O	O
+#Relations
+2	3	6	7
+5	6	6	7
+
+i	O	O
+attended	O	O
+a	O	O
+holiday	O	O
+dinner	O	O
+at	O	O
+the	O	O
+restaurant	O	O
+,	O	O
+and	O	O
+the	O	O
+food	B-T	B-T
+was	O	O
+major	O	O
+##ly	O	O
+disappointing	B-P	B-P
+.	O	O
+#Relations
+15	16	11	12
+
+rather	O	O
+than	O	O
+eating	O	O
+the	O	O
+meat	O	O
+en	O	O
+##tree	O	O
+being	O	O
+offered	O	O
+,	O	O
+i	O	O
+requested	O	O
+a	O	O
+vegetarian	O	O
+dish	O	O
+.	O	O
+#Relations
+
+rather	O	O
+than	O	O
+preparing	O	O
+vegetarian	B-T	O
+dish	I-T	O
+,	O	O
+the	O	O
+chef	B-T	O
+presented	O	O
+me	O	O
+with	O	O
+a	O	O
+plate	O	O
+of	O	O
+steamed	O	O
+vegetables	O	O
+(	O	O
+minus	O	O
+sauce	O	O
+,	O	O
+season	O	O
+##ing	O	O
+,	O	O
+or	O	O
+any	O	O
+form	O	O
+or	O	O
+aesthetic	O	O
+presentation	O	O
+)	O	O
+.	O	O
+#Relations
+
+i	O	O
+was	O	O
+so	O	O
+stunned	O	O
+,	O	O
+and	O	O
+i	O	O
+left	O	O
+the	O	O
+dinner	O	O
+hungry	O	O
+and	O	O
+major	O	O
+##ly	O	O
+disappointing	O	B-P
+.	O	O
+#Relations
+
+this	O	O
+place	B-T	O
+survives	O	O
+on	O	O
+reputation	O	O
+alone	O	O
+.	O	O
+#Relations
+
+i	O	O
+will	O	O
+never	O	O
+return	O	O
+.	O	O
+#Relations
+
+best	O	O
+in	O	O
+all	O	O
+of	O	O
+nyc	O	O
+#Relations
+
+this	O	O
+is	O	O
+the	O	O
+most	O	O
+wonderful	B-P	B-P
+restaurant	B-T	B-T
+in	O	O
+all	O	O
+of	O	O
+new	O	O
+york	O	O
+city	O	O
+,	O	O
+not	O	O
+just	O	O
+brooklyn	O	O
+.	O	O
+.	O	O
+.	O	O
+#Relations
+4	5	5	6
+
+for	O	O
+7	O	O
+years	O	O
+they	O	O
+have	O	O
+put	O	O
+out	O	O
+the	O	O
+most	O	O
+ta	B-P	B-P
+##sty	I-P	I-P
+,	O	O
+most	O	O
+delicious	B-P	B-P
+food	B-T	B-T
+and	O	O
+kept	O	O
+it	O	O
+that	O	O
+way	O	O
+.	O	O
+.	O	O
+.	O	O
+#Relations
+9	11	14	15
+13	14	14	15
+
+never	O	O
+swaying	O	O
+,	O	O
+never	O	O
+a	O	O
+bad	B-P	B-P
+meal	B-T	B-T
+,	O	O
+never	O	O
+bad	B-P	B-P
+service	B-T	B-T
+.	O	O
+.	O	O
+.	O	O
+#Relations
+5	6	6	7
+9	10	10	11
+
+i	O	O
+'	O	O
+m	O	O
+telling	O	O
+you	O	O
+.	O	O
+.	O	O
+.	O	O
+#Relations
+
+you	O	O
+should	O	O
+travel	O	O
+from	O	O
+the	O	O
+bronx	O	O
+to	O	O
+try	O	O
+it	O	O
+.	O	O
+.	O	O
+.	O	O
+#Relations
+
+great	B-P	B-P
+food	B-T	B-T
+,	O	O
+great	B-P	B-P
+wine	B-T	B-T
+list	I-T	I-T
+,	O	O
+great	B-P	B-P
+service	B-T	B-T
+in	O	O
+a	O	O
+great	B-P	B-P
+neighborhood	B-T	B-T
+.	O	O
+.	O	O
+.	O	O
+#Relations
+0	1	1	2
+3	4	4	6
+7	8	8	9
+11	12	12	13
+
+so	O	O
+delicious	O	O
+!	O	O
+!	O	O
+!	O	O
+!	O	O
+!	O	O
+!	O	O
+#Relations
+
+patsy	B-T	B-T
+'	I-T	I-T
+s	I-T	I-T
+pizza	I-T	I-T
+=	O	O
+true	B-P	O
+love	I-P	I-P
+#Relations
+
+hands	B-P	O
+down	I-P	O
+the	O	O
+best	O	B-P
+pizza	B-T	B-T
+on	O	O
+the	O	O
+planet	O	O
+.	O	O
+#Relations
+3	4	4	5
+
+my	O	O
+bf	O	O
+and	O	O
+i	O	O
+go	O	O
+to	O	O
+the	O	O
+walk	O	O
+-	O	O
+up	O	O
+counter	O	I-T
+and	O	O
+order	O	O
+a	O	O
+pie	O	O
+.	O	O
+#Relations
+
+in	O	O
+about	O	O
+12	O	O
+minutes	O	O
+,	O	O
+the	O	O
+thing	O	O
+is	O	O
+gone	O	O
+.	O	O
+#Relations
+
+need	O	O
+i	O	O
+say	O	O
+more	O	O
+?	O	O
+#Relations
+
+great	B-P	B-P
+hot	B-T	B-T
+dogs	I-T	I-T
+.	O	O
+.	O	O
+#Relations
+0	1	1	3
+
+the	O	O
+hot	B-T	B-T
+dogs	I-T	I-T
+were	O	O
+juicy	B-P	B-P
+and	O	O
+tender	B-P	B-P
+inside	O	O
+and	O	O
+had	O	O
+plenty	O	O
+of	O	O
+crunch	O	O
+and	O	O
+snap	O	O
+on	O	O
+the	O	O
+outside	O	O
+.	O	O
+#Relations
+4	5	1	3
+6	7	1	3
+
+great	B-P	B-P
+topping	B-T	B-T
+##s	I-T	O
+definitely	O	O
+a	O	O
+place	B-T	O
+you	O	O
+need	O	O
+to	O	O
+check	O	O
+out	O	O
+for	O	O
+late	O	O
+night	O	O
+mu	O	O
+##nch	O	O
+##ies	O	O
+or	O	O
+a	O	O
+mid	O	O
+day	O	O
+boost	O	O
+!	O	O
+#Relations
+0	1	1	2
+
+great	O	O
+taste	O	O
+#Relations
+
+great	O	O
+,	O	O
+original	O	O
+taste	O	O
+.	O	O
+#Relations
+
+for	O	O
+me	O	O
+dishes	B-T	B-T
+a	O	O
+little	O	O
+oil	B-P	B-P
+##y	I-P	I-P
+,	O	O
+but	O	O
+overall	O	O
+dining	O	B-T
+experience	O	O
+good	O	B-P
+.	O	O
+#Relations
+5	7	2	3
+12	13	10	11
+
+helpful	B-P	B-P
+service	B-T	B-T
+and	O	O
+average	B-P	O
+price	I-P	O
+per	O	O
+dish	B-T	O
+$	O	O
+10	O	O
+.	O	O
+#Relations
+0	1	1	2
+
+the	O	O
+only	O	O
+thing	O	O
+that	O	O
+strikes	B-P	O
+you	O	O
+is	O	O
+the	O	O
+decor	B-T	B-T
+?	O	O
+(	O	O
+not	O	O
+very	O	O
+pleasant	B-P	B-P
+)	O	O
+.	O	O
+#Relations
+13	14	8	9
+
+great	B-P	B-P
+food	B-T	B-T
+#Relations
+0	1	1	2
+
+this	O	O
+place	O	O
+has	O	O
+great	B-P	B-P
+indian	B-T	B-T
+chinese	I-T	I-T
+food	I-T	I-T
+.	O	O
+#Relations
+3	4	4	7
+
+the	O	O
+flavors	O	B-T
+are	O	O
+amazing	O	B-P
+and	O	O
+the	O	O
+value	O	O
+is	O	O
+phenomena	O	O
+##l	O	O
+.	O	O
+#Relations
+3	4	1	2
+
+be	O	O
+prepared	O	O
+to	O	O
+wait	O	O
+,	O	O
+because	O	O
+the	O	O
+place	B-T	B-T
+is	O	O
+pretty	O	O
+tiny	B-P	B-P
+.	O	O
+#Relations
+10	11	7	8
+
+also	O	O
+,	O	O
+they	O	O
+do	O	O
+not	O	O
+take	O	O
+credit	O	O
+card	O	O
+so	O	O
+come	O	O
+with	O	O
+cash	O	O
+!	O	O
+#Relations
+
+even	O	O
+though	O	O
+the	O	O
+place	B-T	B-T
+is	O	O
+not	O	O
+beautiful	B-P	B-P
+,	O	O
+the	O	O
+food	B-T	B-T
+speaks	B-P	O
+for	I-P	O
+itself	I-P	O
+.	O	O
+#Relations
+6	7	3	4
+
+best	B-P	B-P
+indian	B-T	B-T
+chinese	I-T	I-T
+in	O	O
+the	O	O
+city	O	O
+,	O	O
+by	O	O
+far	O	O
+!	O	O
+#Relations
+0	1	1	3
+
+amazing	O	O
+my	O	O
+favorite	O	O
+!	O	O
+!	O	O
+!	O	O
+#Relations
+
+i	O	O
+have	O	O
+been	O	O
+living	O	O
+in	O	O
+nyc	O	O
+for	O	O
+bit	O	O
+now	O	O
+and	O	O
+i	O	O
+have	O	O
+to	O	O
+say	O	O
+i	O	O
+love	O	B-P
+to	O	O
+go	O	O
+out	O	O
+and	O	O
+explore	O	O
+the	O	O
+scene	O	O
+.	O	O
+#Relations
+
+i	O	O
+came	O	O
+across	O	O
+village	B-T	O
+underground	I-T	O
+by	O	O
+accident	O	O
+,	O	O
+now	O	O
+i	O	O
+go	O	O
+there	O	O
+all	O	O
+the	O	O
+time	O	O
+.	O	O
+#Relations
+
+the	O	O
+martini	B-T	B-T
+##s	I-T	I-T
+are	O	O
+amazing	B-P	B-P
+and	O	O
+very	O	O
+fairly	O	O
+priced	O	I-P
+.	O	O
+#Relations
+4	5	1	3
+
+the	O	O
+service	B-T	B-T
+is	O	O
+amazing	B-P	B-P
+,	O	O
+i	O	O
+'	O	O
+ve	O	O
+had	O	O
+different	O	O
+waiter	B-T	B-T
+##s	I-T	I-T
+and	O	O
+they	O	O
+were	O	O
+all	O	O
+nice	B-P	B-P
+,	O	O
+which	O	O
+is	O	O
+a	O	O
+rare	O	O
+thing	O	O
+in	O	O
+nyc	O	O
+.	O	O
+#Relations
+3	4	1	2
+16	17	10	12
+
+the	O	O
+dj	B-T	B-T
+is	O	O
+awesome	B-P	B-P
+,	O	O
+i	O	O
+have	O	O
+been	O	O
+there	O	O
+for	O	O
+my	O	O
+birthday	O	O
+and	O	O
+a	O	O
+bunch	O	O
+of	O	O
+other	O	O
+times	O	O
+with	O	O
+friends	O	O
+and	O	O
+i	O	O
+keep	O	O
+going	O	O
+back	O	O
+.	O	O
+#Relations
+3	4	1	2
+
+you	O	O
+can	O	O
+get	O	O
+a	O	O
+table	O	O
+without	O	O
+a	O	O
+reservation	O	O
+if	O	O
+you	O	O
+get	O	O
+there	O	O
+early	O	O
+i	O	O
+they	O	O
+do	O	O
+n	O	O
+'	O	O
+t	O	O
+make	O	O
+you	O	O
+by	O	O
+bottles	O	O
+.	O	O
+#Relations
+
+which	O	O
+lets	O	O
+face	O	O
+it	O	O
+.	O	O
+.	O	O
+.	O	O
+.	O	O
+at	O	O
+times	O	O
+it	O	O
+'	O	O
+s	O	O
+a	O	O
+good	O	O
+thing	O	O
+.	O	O
+#Relations
+
+in	O	O
+the	O	O
+end	O	O
+you	O	O
+end	O	O
+up	O	O
+with	O	O
+a	O	O
+fair	O	B-P
+tab	O	B-T
+and	O	O
+nothing	O	O
+but	O	O
+a	O	O
+great	O	B-P
+time	O	I-P
+!	O	O
+!	O	O
+!	O	O
+#Relations
+8	9	9	10
+14	16	9	10
+
+highly	O	O
+recommended	O	O
+!	O	O
+#Relations
+
+one	O	O
+of	O	O
+the	O	O
+best	O	O
+,	O	O
+if	O	O
+not	O	O
+the	O	O
+best	O	O
+,	O	O
+restaurants	O	O
+in	O	O
+park	O	O
+slope	O	O
+(	O	O
+and	O	O
+ny	O	O
+in	O	O
+general	O	O
+)	O	O
+#Relations
+
+everything	O	O
+on	O	O
+the	O	O
+menu	B-T	B-T
+is	O	O
+great	B-P	B-P
+.	O	O
+#Relations
+5	6	3	4
+
+this	O	O
+establishment	B-T	B-T
+is	O	O
+the	O	O
+real	B-P	O
+deal	I-P	I-P
+.	O	O
+#Relations
+
+wish	O	O
+ny	O	O
+had	O	O
+more	O	O
+of	O	O
+these	O	O
+kind	O	O
+of	O	O
+places	O	B-T
+:	O	O
+intimate	B-P	B-P
+,	O	O
+superb	B-P	B-P
+food	B-T	B-T
+,	O	O
+home	B-P	B-P
+##y	I-P	I-P
+,	O	O
+top	B-P	B-P
+notch	I-P	I-P
+all	O	O
+the	O	O
+way	O	O
+around	O	O
+,	O	O
+certainly	O	O
+worth	O	B-P
+the	O	O
+wait	O	O
+.	O	O
+#Relations
+10	11	13	14
+12	13	13	14
+15	17	13	14
+
+there	O	O
+is	O	O
+`	O	O
+`	O	O
+expensive	O	O
+-	O	O
+but	O	O
+-	O	O
+worth	O	O
+-	O	O
+it	O	O
+'	O	O
+'	O	O
+and	O	O
+there	O	O
+is	O	O
+`	O	O
+`	O	O
+expensive	O	O
+-	O	O
+and	O	O
+-	O	O
+w	O	O
+##tf	O	O
+'	O	O
+'	O	O
+?	O	O
+#Relations
+
+this	O	O
+is	O	O
+a	O	O
+twenty	O	O
+-	O	O
+something	O	O
+guy	O	O
+that	O	O
+does	O	O
+n	O	O
+'	O	O
+t	O	O
+mind	O	O
+laying	O	O
+down	O	O
+$	O	O
+300	O	O
+for	O	O
+a	O	O
+fine	O	B-P
+and	O	O
+delicious	O	B-P
+meal	O	B-T
+for	O	O
+2	O	O
+on	O	O
+special	O	O
+o	O	O
+##cca	O	O
+##ssion	O	O
+##s	O	O
+.	O	O
+#Relations
+19	20	22	23
+21	22	22	23
+
+but	O	O
+$	O	O
+500	O	O
+for	O	O
+a	O	O
+dinner	B-T	O
+for	I-T	O
+two	I-T	O
+that	O	O
+did	O	O
+n	O	O
+'	O	O
+t	O	O
+include	O	O
+wine	O	O
+?	O	O
+#Relations
+
+are	O	O
+you	O	O
+freaking	O	O
+kidding	O	O
+me	O	O
+?	O	O
+#Relations
+
+look	O	O
+,	O	O
+the	O	O
+app	B-T	B-T
+##eti	I-T	I-T
+##zers	I-T	I-T
+were	O	O
+really	O	O
+good	B-P	B-P
+.	O	O
+#Relations
+8	9	3	6
+
+the	O	O
+en	B-T	B-T
+##tree	I-T	I-T
+was	O	O
+also	O	O
+very	O	O
+good	B-P	B-P
+.	O	O
+#Relations
+6	7	1	3
+
+ca	O	O
+n	O	O
+'	O	O
+t	O	O
+argue	O	O
+about	O	O
+that	O	O
+,	O	O
+but	O	O
+they	O	O
+are	O	O
+clearly	O	O
+over	O	O
+priced	O	O
+.	O	O
+#Relations
+
+what	O	O
+you	O	O
+are	O	O
+paying	O	O
+for	O	O
+is	O	O
+the	O	O
+environment	B-T	B-T
+and	O	O
+the	O	O
+name	O	O
+.	O	O
+#Relations
+
+yes	O	O
+,	O	O
+the	O	O
+place	B-T	B-T
+is	O	O
+class	B-P	B-P
+##y	I-P	I-P
+and	O	O
+beautiful	B-P	B-P
+,	O	O
+but	O	O
+they	O	O
+most	O	O
+certainly	O	O
+target	O	O
+the	O	O
+uber	O	O
+w	O	O
+##hea	O	O
+##lth	O	I-P
+##y	O	O
+not	O	O
+the	O	O
+common	O	O
+joe	O	O
+that	O	O
+wants	O	O
+to	O	O
+go	O	O
+all	O	O
+out	O	O
+every	O	O
+once	O	O
+in	O	O
+a	O	O
+while	O	O
+.	O	O
+#Relations
+5	7	3	4
+8	9	3	4
+
+$	O	O
+500	O	O
+included	O	O
+:	O	O
+#Relations
+
+drinks	O	O
+:	O	O
+2	O	O
+glasses	O	O
+of	O	O
+dom	O	I-T
+per	O	I-T
+##ignon	O	I-T
+at	O	O
+$	O	O
+35	O	O
+each	O	O
+.	O	O
+#Relations
+
+starters	O	O
+:	O	O
+kobe	O	B-T
+beef	O	I-T
+sash	O	I-T
+##imi	O	I-T
+.	O	O
+#Relations
+
+which	O	O
+of	O	O
+course	O	O
+is	O	O
+not	O	O
+real	O	O
+kobe	O	O
+but	O	O
+wa	O	B-T
+##gy	O	I-T
+##u	O	I-T
+beef	O	O
+.	O	O
+#Relations
+
+surprised	O	O
+that	O	O
+a	O	O
+place	O	O
+of	O	O
+this	O	O
+caliber	O	O
+would	O	O
+ad	O	O
+##vert	O	O
+##ise	O	O
+it	O	O
+as	O	O
+kobe	O	O
+.	O	O
+#Relations
+
+a	O	O
+beef	O	B-T
+con	O	I-T
+##som	O	I-T
+##me	O	I-T
+.	O	O
+#Relations
+
+en	O	O
+##tree	O	O
+##s	O	I-T
+:	O	O
+van	O	B-T
+##ison	O	I-T
+steak	O	I-T
+and	O	O
+bison	O	B-T
+steak	O	I-T
+.	O	O
+#Relations
+
+van	B-T	B-T
+##ison	I-T	I-T
+was	O	O
+good	B-P	B-P
+but	O	O
+not	O	O
+amazing	B-P	B-P
+.	O	O
+#Relations
+3	4	0	2
+6	7	0	2
+
+bison	B-T	B-T
+was	O	O
+quite	O	O
+excellent	B-P	B-P
+however	O	O
+.	O	O
+#Relations
+3	4	0	1
+
+dessert	B-T	B-T
+:	O	O
+pure	O	O
+disaster	B-P	B-P
+.	O	O
+#Relations
+3	4	0	1
+
+just	O	O
+not	O	O
+good	O	O
+at	O	O
+all	O	O
+.	O	O
+#Relations
+
+some	O	O
+pine	O	B-T
+##apple	O	I-T
+covered	O	O
+in	O	O
+a	O	O
+g	O	O
+##laze	O	O
+of	O	O
+some	O	O
+kind	O	O
+and	O	O
+some	O	O
+pear	O	B-T
+tar	O	I-T
+##t	O	I-T
+thing	O	O
+not	O	O
+impressive	O	B-P
+at	O	O
+all	O	O
+.	O	O
+#Relations
+18	19	13	16
+
+i	O	O
+read	O	O
+reviews	O	O
+that	O	O
+called	O	O
+the	O	O
+restaurant	B-T	B-T
+too	O	O
+expensive	B-P	B-P
+and	O	O
+i	O	O
+thought	O	O
+to	O	O
+myself	O	O
+,	O	O
+but	O	O
+may	O	O
+be	O	O
+it	O	O
+is	O	O
+worth	O	B-P
+it	O	O
+.	O	O
+#Relations
+8	9	6	7
+20	21	6	7
+
+i	O	O
+was	O	O
+wrong	O	O
+.	O	O
+#Relations
+
+the	B-T	O
+four	I-T	B-T
+seasons	I-T	I-T
+has	O	O
+history	O	O
+and	O	O
+it	O	O
+is	O	O
+a	O	O
+sort	O	O
+of	O	O
+landmark	O	O
+of	O	O
+new	O	O
+york	O	O
+city	O	O
+restaurants	O	O
+,	O	O
+but	O	O
+trust	O	O
+me	O	O
+,	O	O
+they	O	O
+will	O	O
+charge	O	O
+you	O	O
+through	O	O
+the	O	O
+nose	O	O
+just	O	O
+so	O	O
+that	O	O
+you	O	O
+can	O	O
+say	O	O
+`	O	O
+`	O	O
+i	O	O
+'	O	O
+ve	O	O
+been	O	O
+to	O	O
+the	O	O
+four	O	O
+seasons	O	O
+restaurant	O	O
+'	O	O
+'	O	O
+.	O	O
+#Relations
+
+i	O	O
+wanted	O	O
+to	O	O
+go	O	O
+there	O	O
+to	O	O
+see	O	O
+if	O	O
+it	O	O
+was	O	O
+worth	O	O
+it	O	O
+and	O	O
+sadly	O	O
+,	O	O
+curious	O	O
+##ity	O	O
+got	O	O
+the	O	O
+best	O	O
+of	O	O
+me	O	O
+and	O	O
+i	O	O
+paid	O	O
+dear	O	O
+##ly	O	O
+for	O	O
+it	O	O
+.	O	O
+#Relations
+
+all	O	O
+in	O	O
+all	O	O
+,	O	O
+the	O	O
+food	B-T	B-T
+was	O	O
+great	B-P	B-P
+(	O	O
+except	B-P	O
+for	O	O
+the	O	O
+des	B-T	B-T
+##sser	I-T	I-T
+##ts	I-T	I-T
+)	O	O
+.	O	O
+#Relations
+7	8	5	6
+
+the	O	O
+environment	B-T	B-T
+is	O	O
+very	O	O
+upscale	B-P	B-P
+and	O	O
+you	O	O
+will	O	O
+see	O	O
+a	O	O
+lot	O	O
+of	O	O
+rich	O	O
+guys	O	O
+with	O	O
+trophy	O	O
+wives	O	O
+or	O	O
+just	O	O
+highly	O	O
+paid	O	I-P
+escorts	O	O
+.	O	O
+#Relations
+4	5	1	2
+
+if	O	O
+you	O	O
+are	O	O
+going	O	O
+for	O	O
+the	O	O
+food	B-T	B-T
+,	O	O
+it	O	O
+will	O	O
+not	O	O
+be	O	O
+worth	B-P	B-P
+it	O	O
+.	O	O
+#Relations
+12	13	6	7
+
+yes	O	O
+,	O	O
+it	O	O
+is	O	O
+good	O	O
+,	O	O
+but	O	O
+i	O	O
+'	O	O
+ve	O	O
+had	O	O
+better	O	O
+for	O	O
+cheaper	O	O
+.	O	O
+#Relations
+
+you	O	O
+would	O	O
+think	O	O
+they	O	O
+would	O	O
+make	O	O
+up	O	O
+for	O	O
+it	O	O
+with	O	O
+service	B-T	B-T
+,	O	O
+sadly	B-P	O
+,	O	O
+no	O	O
+.	O	O
+#Relations
+
+service	B-T	B-T
+was	O	O
+just	O	O
+ok	B-P	B-P
+,	O	O
+it	O	O
+is	O	O
+not	O	O
+what	O	O
+you	O	O
+'	O	O
+d	O	O
+expect	O	O
+for	O	O
+$	O	O
+500	O	O
+.	O	O
+#Relations
+3	4	0	1
+
+terrible	O	O
+waste	O	O
+of	O	O
+money	O	O
+.	O	O
+.	O	O
+sc	O	O
+##am	O	O
+##mers	O	O
+#Relations
+
+i	O	O
+agree	O	O
+that	O	O
+dining	O	O
+at	O	O
+casa	B-T	O
+la	I-T	O
+femme	I-T	O
+is	O	O
+like	O	O
+no	O	O
+other	O	O
+dining	O	O
+experience	O	O
+!	O	O
+#Relations
+
+but	O	O
+not	O	O
+in	O	O
+a	O	O
+good	O	O
+way	O	O
+.	O	O
+#Relations
+
+i	O	O
+am	O	O
+actually	O	O
+offended	B-P	O
+to	O	O
+have	O	O
+spent	O	O
+so	O	O
+much	O	O
+money	O	O
+on	O	O
+such	O	O
+a	O	O
+bad	O	O
+experience	O	O
+.	O	O
+#Relations
+
+i	O	O
+literally	O	O
+just	O	O
+got	O	O
+back	O	O
+home	O	O
+after	O	O
+visiting	O	O
+casa	B-T	O
+la	I-T	O
+femme	I-T	O
+and	O	O
+was	O	O
+so	O	O
+offended	O	O
+by	O	O
+my	O	O
+visit	O	O
+felt	O	O
+it	O	O
+necessary	O	O
+to	O	O
+try	O	O
+and	O	O
+warn	O	O
+other	O	O
+diner	O	O
+##s	O	O
+who	O	O
+value	O	O
+their	O	O
+money	O	O
+and	O	O
+time	O	O
+.	O	O
+#Relations
+
+we	O	O
+went	O	O
+to	O	O
+celebrate	O	O
+two	O	O
+birthday	O	O
+##s	O	O
+and	O	O
+wanted	O	O
+to	O	O
+do	O	O
+something	O	O
+special	O	O
+and	O	O
+different	O	O
+.	O	O
+#Relations
+
+our	O	O
+visit	O	O
+their	O	O
+to	O	O
+say	O	O
+the	O	O
+least	O	O
+,	O	O
+was	O	O
+an	O	O
+unpleasant	O	O
+and	O	O
+costly	O	O
+experience	O	O
+!	O	O
+#Relations
+
+and	O	O
+even	O	O
+more	O	O
+so	O	O
+unpleasant	O	O
+because	O	O
+it	O	O
+was	O	O
+so	O	O
+costly	O	O
+for	O	O
+such	O	O
+an	O	O
+unpleasant	O	O
+experience	O	O
+.	O	O
+#Relations
+
+we	O	O
+did	O	O
+arrive	O	O
+late	O	O
+for	O	O
+our	O	O
+reservation	O	O
+so	O	O
+i	O	O
+can	O	O
+not	O	O
+complain	O	O
+too	O	O
+much	O	O
+about	O	O
+the	O	O
+wait	B-T	O
+for	O	O
+a	O	O
+table	O	O
+.	O	O
+#Relations
+
+although	O	O
+we	O	O
+were	O	O
+told	O	O
+10	O	O
+-	O	O
+15	O	O
+minutes	O	O
+and	O	O
+it	O	O
+was	O	O
+more	O	O
+like	O	O
+45	O	O
+minutes	O	O
+.	O	O
+#Relations
+
+we	O	O
+were	O	O
+ushered	O	O
+to	O	O
+the	O	O
+bar	O	O
+to	O	O
+wait	O	O
+momentarily	O	O
+and	O	O
+upon	O	O
+arrival	O	O
+were	O	O
+so	O	O
+excited	O	O
+.	O	O
+#Relations
+
+the	O	O
+place	B-T	B-T
+is	O	O
+beautiful	B-P	B-P
+!	O	O
+#Relations
+3	4	1	2
+
+the	O	O
+hostess	B-T	B-T
+was	O	O
+very	O	O
+pleasant	B-P	B-P
+.	O	O
+#Relations
+4	5	1	2
+
+however	O	O
+,	O	O
+our	O	O
+$	O	B-T
+14	O	I-T
+drinks	B-T	I-T
+were	O	O
+were	O	O
+horrible	B-P	B-P
+!	O	O
+#Relations
+8	9	3	6
+
+once	O	O
+we	O	O
+finally	O	O
+got	O	O
+a	O	O
+table	O	O
+,	O	O
+despite	O	O
+indicating	O	O
+we	O	O
+wanted	O	O
+an	O	O
+alla	O	O
+cart	O	O
+##e	O	O
+menu	O	O
+we	O	O
+were	O	O
+pushed	O	O
+into	O	O
+a	O	O
+table	O	O
+that	O	O
+was	O	O
+only	O	O
+price	O	O
+fixed	O	O
+!	O	O
+#Relations
+
+since	O	O
+we	O	O
+were	O	O
+already	O	O
+waiting	O	O
+so	O	O
+long	O	O
+,	O	O
+we	O	O
+felt	O	O
+we	O	O
+had	O	O
+no	O	O
+other	O	O
+choice	O	O
+but	O	O
+to	O	O
+accept	O	O
+it	O	O
+.	O	O
+#Relations
+
+our	O	O
+experience	O	O
+did	O	O
+not	O	O
+ever	O	O
+get	O	O
+any	O	O
+better	O	B-P
+.	O	O
+#Relations
+
+for	O	O
+each	O	O
+course	O	O
+we	O	O
+waited	O	O
+over	O	O
+1	O	O
+/	O	O
+2	O	O
+hour	O	O
+to	O	O
+45	O	O
+minutes	O	O
+and	O	O
+were	O	O
+never	O	O
+offered	O	O
+a	O	O
+drink	O	O
+.	O	O
+#Relations
+
+we	O	O
+also	O	O
+asked	O	O
+for	O	O
+hook	O	O
+##a	O	O
+six	O	O
+times	O	O
+and	O	O
+the	O	O
+waiter	B-T	B-T
+kept	O	O
+telling	O	O
+us	O	O
+one	O	O
+minute	O	O
+and	O	O
+never	O	O
+returning	O	O
+with	O	O
+the	O	O
+hook	O	O
+##a	O	O
+.	O	O
+#Relations
+
+after	O	O
+the	O	O
+4th	O	O
+time	O	O
+i	O	O
+asked	O	O
+again	O	O
+and	O	O
+the	O	O
+waiter	B-T	B-T
+than	O	O
+said	O	O
+after	O	O
+our	O	O
+dinner	O	O
+.	O	O
+#Relations
+
+we	O	O
+asked	O	O
+for	O	O
+beverages	O	O
+and	O	O
+never	O	O
+received	O	O
+them	O	O
+.	O	O
+#Relations
+
+we	O	O
+asked	O	O
+for	O	O
+sides	O	O
+which	O	O
+the	O	O
+waiter	B-T	O
+than	O	O
+admitted	O	O
+that	O	O
+he	O	O
+forgot	B-P	O
+to	O	O
+put	O	O
+in	O	O
+that	O	O
+part	O	O
+of	O	O
+our	O	O
+order	O	O
+.	O	O
+#Relations
+
+my	O	O
+chicken	B-T	B-T
+was	O	O
+in	B-P	B-P
+##ed	I-P	I-P
+##ible	I-P	I-P
+as	O	O
+there	O	O
+were	O	O
+so	O	O
+many	O	O
+fatty	O	O
+lump	O	O
+##s	O	O
+which	O	O
+i	O	O
+had	O	O
+to	O	O
+keep	O	O
+spitting	O	O
+out	O	O
+into	O	O
+my	O	O
+napkin	O	O
+.	O	O
+#Relations
+3	6	1	2
+
+i	O	O
+would	O	O
+not	O	O
+expect	O	O
+this	O	O
+for	O	O
+a	O	O
+$	O	O
+55	O	O
+dinner	B-T	O
+.	O	O
+#Relations
+
+by	O	O
+the	O	O
+time	O	O
+we	O	O
+finished	O	O
+our	O	O
+dinner	O	O
+we	O	O
+still	O	O
+had	O	O
+not	O	O
+received	O	O
+one	O	O
+beverage	O	O
+nor	O	O
+hook	O	B-T
+##a	O	I-T
+!	O	O
+#Relations
+
+what	O	O
+we	O	O
+did	O	O
+do	O	O
+was	O	O
+waste	O	O
+3	O	O
+hours	O	O
+being	O	O
+trapped	O	O
+in	O	O
+a	O	O
+table	O	O
+waiting	O	O
+and	O	O
+waiting	O	O
+for	O	O
+food	O	O
+and	O	O
+drinks	O	O
+and	O	O
+hook	O	O
+##a	O	O
+.	O	O
+.	O	O
+some	O	O
+of	O	O
+which	O	O
+we	O	O
+never	O	O
+received	O	O
+!	O	O
+#Relations
+
+the	O	O
+only	O	O
+beverage	O	O
+we	O	O
+did	O	O
+receive	O	O
+was	O	O
+water	O	O
+in	O	O
+dirty	O	O
+glasses	O	O
+!	O	O
+#Relations
+
+to	O	O
+top	O	O
+it	O	O
+all	O	O
+off	O	O
+.	O	O
+.	O	O
+the	O	O
+main	O	O
+reason	O	O
+we	O	O
+came	O	O
+to	O	O
+your	O	O
+restaurant	O	O
+was	O	O
+for	O	O
+the	O	O
+belly	O	B-T
+dancers	O	I-T
+and	O	O
+missed	O	O
+the	O	O
+first	O	O
+show	O	O
+as	O	O
+we	O	O
+were	O	O
+not	O	O
+seated	O	O
+yet	O	O
+and	O	O
+the	O	O
+2nd	O	O
+belly	O	O
+dancer	O	O
+only	O	O
+danced	O	O
+at	O	O
+two	O	O
+tables	O	O
+in	O	O
+the	O	O
+back	O	O
+of	O	O
+the	O	O
+restaurant	O	O
+and	O	O
+never	O	O
+made	O	O
+it	O	O
+around	O	O
+to	O	O
+the	O	O
+other	O	O
+half	O	O
+of	O	O
+the	O	O
+restaurant	O	O
+.	O	O
+#Relations
+
+by	O	O
+the	O	O
+time	O	O
+we	O	O
+left	O	O
+our	O	O
+wallet	O	O
+##s	O	O
+were	O	O
+em	O	B-P
+##py	O	I-P
+and	O	O
+so	O	O
+were	O	O
+our	O	O
+stomach	O	O
+##s	O	O
+and	O	O
+we	O	O
+missed	O	B-P
+the	O	O
+show	O	O
+we	O	O
+were	O	O
+supposed	O	O
+to	O	O
+see	O	O
+following	O	O
+our	O	O
+dinner	O	O
+,	O	O
+which	O	O
+would	O	O
+have	O	O
+been	O	O
+acceptable	O	B-P
+if	O	O
+we	O	O
+got	O	O
+to	O	O
+enjoy	O	B-P
+the	O	O
+experience	O	O
+of	O	O
+good	B-P	B-P
+food	B-T	B-T
+and	O	O
+belly	O	B-T
+dancers	O	I-T
+!	O	O
+#Relations
+44	45	47	49
+
+if	O	O
+it	O	O
+seemed	O	O
+possible	O	O
+to	O	O
+do	O	O
+so	O	O
+while	O	O
+there	O	O
+i	O	O
+would	O	O
+have	O	O
+fought	O	O
+my	O	O
+bill	O	O
+since	O	O
+my	O	O
+dinner	O	B-T
+portion	O	O
+of	O	O
+my	O	O
+meal	B-T	O
+was	O	O
+in	B-P	B-P
+##ed	I-P	I-P
+##ible	I-P	I-P
+!	O	O
+#Relations
+23	26	17	18
+
+i	O	O
+have	O	O
+never	O	O
+left	O	O
+a	O	O
+restaurant	B-T	O
+feeling	O	O
+as	O	O
+if	O	O
+i	O	O
+was	O	O
+abused	B-P	O
+,	O	O
+and	O	O
+wasted	O	O
+my	O	O
+hard	O	O
+earned	O	O
+money	O	O
+.	O	O
+#Relations
+
+my	O	O
+husbands	O	O
+birthday	O	O
+and	O	O
+my	O	O
+sons	O	O
+was	O	O
+not	O	O
+as	O	O
+it	O	O
+was	O	O
+intended	O	O
+.	O	O
+.	O	O
+.	O	O
+and	O	O
+we	O	O
+drove	O	O
+two	O	O
+hours	O	O
+to	O	O
+spend	O	O
+too	O	O
+much	O	O
+money	O	O
+to	O	O
+be	O	O
+treated	O	O
+terribly	O	O
+!	O	O
+#Relations
+
+i	O	O
+wish	O	O
+i	O	O
+could	O	O
+be	O	O
+ref	O	O
+##und	O	O
+##ed	O	O
+!	O	O
+#Relations
+
+do	O	O
+n	O	O
+'	O	O
+t	O	O
+go	O	O
+with	O	O
+a	O	O
+larger	O	O
+group	O	O
+than	O	O
+4	O	O
+!	O	O
+#Relations
+
+i	O	O
+went	O	O
+here	O	O
+for	O	O
+a	O	O
+family	O	O
+birthday	O	O
+dinner	O	O
+.	O	O
+#Relations
+
+five	O	O
+of	O	O
+us	O	O
+walked	O	O
+in	O	O
+at	O	O
+approximately	O	O
+6	O	O
+:	O	O
+20	O	O
+on	O	O
+a	O	O
+thursday	O	O
+evening	O	O
+.	O	O
+#Relations
+
+the	O	O
+hostess	O	B-T
+said	O	O
+`	O	O
+`	O	O
+wow	O	O
+that	O	O
+'	O	O
+s	O	O
+a	O	O
+large	O	O
+group	O	O
+,	O	O
+unless	O	O
+you	O	O
+are	O	O
+n	O	O
+'	O	O
+t	O	O
+together	O	O
+'	O	O
+'	O	O
+,	O	O
+to	O	O
+which	O	O
+i	O	O
+replied	O	O
+`	O	O
+`	O	O
+no	O	O
+we	O	O
+are	O	O
+,	O	O
+and	O	O
+there	O	O
+will	O	O
+be	O	O
+one	O	O
+more	O	O
+,	O	O
+so	O	O
+a	O	O
+table	O	O
+for	O	O
+six	O	O
+please	O	O
+.	O	O
+'	O	O
+'	O	O
+#Relations
+
+at	O	O
+first	O	O
+we	O	O
+were	O	O
+a	O	O
+little	O	O
+taken	O	O
+aback	O	O
+,	O	O
+as	O	O
+this	O	O
+seemed	O	O
+to	O	O
+present	O	O
+a	O	O
+problem	O	O
+,	O	O
+although	O	O
+the	O	O
+restaurant	O	O
+looked	O	O
+fairly	O	O
+empty	O	O
+,	O	O
+but	O	O
+they	O	O
+hastily	O	O
+put	O	O
+the	O	O
+table	O	O
+together	O	O
+for	O	O
+us	O	O
+.	O	O
+#Relations
+
+the	O	O
+menu	B-T	B-T
+is	O	O
+fairly	O	O
+simple	B-P	B-P
+without	O	O
+much	O	O
+descriptions	O	O
+.	O	O
+#Relations
+4	5	1	2
+
+there	O	O
+was	O	O
+no	O	O
+tap	O	B-T
+beer	B-T	I-T
+that	O	O
+evening	O	O
+,	O	O
+which	O	O
+was	O	O
+a	O	O
+disappointment	B-P	B-P
+.	O	O
+#Relations
+11	12	3	5
+
+not	O	O
+much	B-P	O
+of	O	O
+a	O	O
+selection	B-T	O
+of	I-T	O
+bottled	I-T	B-T
+beer	I-T	I-T
+either	O	O
+,	O	O
+we	O	O
+went	O	O
+with	O	O
+bra	O	B-T
+##hma	O	I-T
+.	O	O
+#Relations
+
+the	O	O
+app	O	O
+##eti	O	O
+##zers	O	O
+we	O	O
+ordered	O	O
+were	O	O
+served	O	O
+quickly	O	B-P
+-	O	O
+an	O	O
+order	O	O
+of	O	O
+fried	B-T	B-T
+oyster	I-T	I-T
+##s	I-T	I-T
+and	I-T	O
+cl	I-T	B-T
+##ams	I-T	I-T
+were	O	O
+delicious	B-P	B-P
+but	O	O
+a	O	O
+tiny	B-P	O
+portion	O	O
+(	O	O
+maybe	O	O
+3	O	O
+of	O	O
+each	O	O
+)	O	O
+.	O	O
+#Relations
+20	21	13	16
+20	21	17	19
+
+the	O	O
+lobster	B-T	B-T
+knuckles	I-T	I-T
+(	O	O
+special	O	O
+of	O	O
+the	O	O
+day	O	O
+)	O	O
+were	O	O
+ok	B-P	B-P
+,	O	O
+but	O	O
+pretty	O	O
+taste	B-P	B-P
+##less	I-P	I-P
+.	O	O
+#Relations
+10	11	1	3
+14	16	1	3
+
+i	O	O
+believe	O	O
+there	O	O
+were	O	O
+2	O	O
+shrimp	O	O
+in	O	O
+the	O	O
+`	B-T	O
+`	I-T	O
+salt	I-T	O
+en	I-T	O
+##cr	I-T	O
+##ust	I-T	O
+##ed	I-T	O
+shrimp	I-T	O
+'	I-T	O
+'	I-T	O
+app	I-T	O
+##eti	I-T	O
+##zer	I-T	O
+.	O	O
+#Relations
+
+after	O	O
+we	O	O
+ate	O	O
+our	O	O
+app	O	O
+##eti	O	O
+##zers	O	O
+(	O	O
+which	O	O
+took	O	O
+all	O	O
+of	O	O
+8	O	O
+minutes	O	O
+)	O	O
+we	O	O
+ordered	O	O
+another	O	O
+round	O	O
+of	O	O
+bra	O	B-T
+##hma	O	I-T
+'	O	I-T
+s	O	I-T
+-	O	O
+and	O	O
+tried	O	O
+to	O	O
+stall	O	O
+a	O	O
+little	O	O
+as	O	O
+we	O	O
+waited	O	O
+for	O	O
+our	O	O
+sixth	O	O
+dinner	O	O
+member	O	O
+.	O	O
+#Relations
+
+the	O	O
+waitress	O	B-T
+appeared	O	O
+and	O	O
+asked	O	O
+us	O	O
+if	O	O
+we	O	O
+wanted	O	O
+to	O	O
+go	O	O
+ahead	O	O
+and	O	O
+order	O	O
+.	O	O
+#Relations
+
+we	O	O
+replied	O	O
+that	O	O
+we	O	O
+would	O	O
+like	O	O
+to	O	O
+wait	O	O
+5	O	O
+more	O	O
+minutes	O	O
+if	O	O
+that	O	O
+was	O	O
+okay	O	O
+.	O	O
+#Relations
+
+she	O	O
+replied	O	O
+`	O	O
+`	O	O
+well	O	O
+it	O	O
+would	O	O
+be	O	O
+more	O	O
+convenient	O	O
+for	O	O
+us	O	O
+if	O	O
+you	O	O
+ordered	O	O
+now	O	O
+,	O	O
+since	O	O
+you	O	O
+are	O	O
+a	O	O
+larger	O	O
+party	O	O
+,	O	O
+and	O	O
+it	O	O
+might	O	O
+get	O	O
+crowded	O	O
+.	O	O
+'	O	O
+'	O	O
+#Relations
+
+we	O	O
+called	O	O
+the	O	O
+other	O	O
+person	O	O
+who	O	O
+was	O	O
+very	O	O
+close	O	O
+by	O	O
+,	O	O
+and	O	O
+she	O	O
+told	O	O
+us	O	O
+to	O	O
+order	O	O
+for	O	O
+her	O	O
+,	O	O
+so	O	O
+we	O	O
+did	O	O
+.	O	O
+#Relations
+
+the	O	O
+food	O	O
+arrived	O	O
+in	O	O
+about	O	O
+15	O	O
+minutes	O	O
+.	O	O
+#Relations
+
+i	O	O
+had	O	O
+the	O	O
+thai	B-T	B-T
+style	I-T	I-T
+fried	I-T	I-T
+sea	I-T	I-T
+bass	I-T	I-T
+.	O	O
+.	O	O
+.	O	O
+which	O	O
+was	O	O
+very	O	O
+good	B-P	B-P
+.	O	O
+#Relations
+14	15	3	8
+
+everyone	O	O
+seemed	O	O
+generally	O	O
+happy	B-P	B-P
+with	O	O
+their	O	O
+food	B-T	B-T
+,	O	O
+except	O	O
+my	O	O
+brother	O	O
+who	O	O
+had	O	O
+the	O	O
+grille	B-T	B-T
+##d	I-T	I-T
+ma	I-T	I-T
+##hi	I-T	I-T
+ma	I-T	I-T
+##hi	I-T	I-T
+,	O	O
+seemingly	O	O
+drenched	B-P	O
+in	O	O
+gr	O	O
+##ap	O	O
+##fr	O	O
+##uit	O	O
+juice	O	O
+!	O	O
+#Relations
+3	4	6	7
+
+i	O	O
+heard	O	O
+the	O	O
+lobster	B-T	B-T
+roll	I-T	I-T
+was	O	O
+excellent	B-P	B-P
+.	O	O
+#Relations
+6	7	3	5
+
+they	O	O
+seemed	O	O
+to	O	O
+continue	O	O
+to	O	O
+rush	O	O
+us	O	O
+along	O	O
+,	O	O
+taking	O	O
+plates	O	O
+without	O	O
+asking	O	O
+if	O	O
+we	O	O
+were	O	O
+done	O	O
+(	O	O
+my	O	O
+sister	O	O
+still	O	O
+had	O	O
+her	O	O
+fork	O	O
+in	O	O
+hand	O	O
+)	O	O
+.	O	O
+#Relations
+
+all	O	O
+in	O	O
+all	O	O
+the	O	O
+food	B-T	B-T
+was	O	O
+good	B-P	B-P
+-	O	O
+a	O	O
+little	O	O
+on	O	O
+the	O	O
+expensive	B-P	B-P
+side	O	O
+,	O	O
+but	O	O
+fresh	B-P	B-P
+.	O	O
+#Relations
+6	7	4	5
+12	13	4	5
+16	17	4	5
+
+service	B-T	B-T
+not	O	O
+the	O	O
+friend	B-P	B-P
+##liest	I-P	I-P
+to	O	O
+our	O	O
+`	O	O
+`	O	O
+large	O	O
+party	O	O
+'	O	O
+'	O	O
+!	O	O
+#Relations
+3	5	0	1
+
+probably	O	O
+would	O	O
+not	O	O
+go	O	O
+back	O	O
+here	O	O
+.	O	O
+#Relations
+
+great	B-P	B-P
+indian	B-T	B-T
+food	I-T	I-T
+#Relations
+0	1	1	3
+
+i	O	O
+lived	O	O
+on	O	O
+50th	O	O
+st	O	O
+,	O	O
+and	O	O
+wanted	O	O
+indian	O	O
+one	O	O
+day	O	O
+so	O	O
+decided	O	O
+to	O	O
+check	O	O
+this	O	O
+place	O	O
+out	O	O
+.	O	O
+#Relations
+
+food	B-T	B-T
+was	O	O
+amazing	B-P	B-P
+-	O	O
+i	O	O
+love	B-P	O
+indian	O	O
+food	O	O
+and	O	O
+eat	O	O
+it	O	O
+quite	O	O
+regularly	O	O
+,	O	O
+but	O	O
+i	O	O
+can	O	O
+say	O	O
+this	O	O
+is	O	O
+one	O	O
+of	O	O
+the	O	O
+best	B-P	O
+i	O	O
+'	O	O
+ve	O	O
+had	O	O
+.	O	O
+#Relations
+2	3	0	1
+
+very	O	O
+`	O	O
+`	O	O
+normal	O	B-P
+indian	B-T	B-T
+food	I-T	I-T
+`	O	O
+`	O	O
+,	O	O
+but	O	O
+done	O	O
+really	O	O
+well	O	O
+.	O	O
+#Relations
+3	4	4	6
+
+i	O	O
+have	O	O
+it	O	O
+a	O	O
+4	O	O
+instead	O	O
+of	O	O
+5	O	O
+because	O	O
+of	O	O
+the	O	O
+price	O	O
+(	O	O
+just	O	O
+chicken	B-T	O
+ti	I-T	O
+##kka	I-T	O
+mas	I-T	O
+##ala	I-T	O
+-	O	O
+no	O	O
+bread	O	O
+of	O	O
+rice	O	O
+-	O	O
+is	O	O
+$	O	O
+25	O	O
+)	O	O
+,	O	O
+which	O	O
+i	O	O
+would	O	O
+expect	O	O
+at	O	O
+a	O	O
+upscale	O	O
+indian	O	O
+restaurant	O	O
+but	O	O
+this	O	O
+place	B-T	O
+does	O	O
+n	O	O
+'	O	O
+t	O	O
+have	O	O
+an	O	O
+upscale	B-P	O
+feel	B-T	O
+.	O	O
+#Relations
+
+also	O	O
+,	O	O
+waiter	B-T	O
+##s	I-T	O
+try	O	O
+to	O	O
+push	O	O
+more	O	O
+food	O	O
+on	O	O
+you	O	O
+,	O	O
+like	O	O
+suggest	O	O
+things	O	O
+as	O	O
+if	O	O
+they	O	O
+are	O	O
+compliment	O	O
+##ary	O	O
+when	O	O
+they	O	O
+actually	O	O
+cost	O	O
+$	O	O
+.	O	O
+#Relations
+
+i	O	O
+do	O	O
+n	O	O
+'	O	O
+t	O	O
+appreciate	O	O
+places	O	O
+or	O	O
+people	O	O
+that	O	O
+try	O	O
+to	O	O
+drive	O	O
+up	O	O
+the	O	O
+bill	O	O
+without	O	O
+the	O	O
+patron	O	O
+'	O	O
+s	O	O
+knowledge	O	O
+so	O	O
+that	O	O
+was	O	O
+a	O	O
+huge	O	O
+turn	O	O
+##off	O	O
+(	O	O
+more	O	O
+than	O	O
+the	O	O
+price	O	O
+)	O	O
+.	O	O
+#Relations
+
+but	O	O
+if	O	O
+you	O	O
+'	O	O
+re	O	O
+prepared	O	O
+to	O	O
+spend	O	O
+some	O	O
+$	O	O
+and	O	O
+remember	O	O
+to	O	O
+ask	O	O
+if	O	O
+something	O	O
+they	O	O
+offer	O	O
+is	O	O
+compliment	O	O
+##ary	O	O
+,	O	O
+then	O	O
+this	O	O
+is	O	O
+the	O	O
+place	B-T	O
+to	O	O
+go	O	O
+for	O	O
+indian	B-T	O
+food	I-T	O
+#Relations
+
+one	O	O
+of	O	O
+the	O	O
+best	O	O
+#Relations
+
+bu	B-T	O
+##khar	I-T	I-T
+##a	I-T	I-T
+grill	I-T	I-T
+,	O	O
+the	O	O
+tag	O	O
+##line	O	O
+says	O	O
+it	O	O
+all	O	O
+.	O	O
+.	O	O
+`	O	O
+`	O	O
+indian	O	B-T
+spice	O	I-T
+rave	O	I-T
+'	O	O
+'	O	O
+#Relations
+
+my	O	O
+g	O	O
+##f	O	O
+and	O	O
+i	O	O
+din	O	O
+##e	O	O
+at	O	O
+bu	O	O
+##khar	O	O
+##a	O	O
+often	O	O
+as	O	O
+she	O	O
+lives	O	O
+near	O	O
+it	O	O
+.	O	O
+#Relations
+
+the	O	O
+lunch	B-T	B-T
+buffet	I-T	I-T
+is	O	O
+expensive	B-P	B-P
+but	O	O
+is	O	O
+def	O	B-P
+##f	O	O
+worth	B-P	B-P
+it	O	O
+.	O	O
+#Relations
+4	5	1	3
+7	8	1	3
+9	10	1	3
+
+we	O	O
+go	O	O
+often	O	O
+for	O	O
+lunch	O	O
+and	O	O
+the	O	O
+place	O	O
+is	O	O
+packed	O	O
+.	O	O
+#Relations
+
+we	O	O
+have	O	O
+gone	O	O
+for	O	O
+dinner	B-T	O
+only	O	O
+a	O	O
+few	O	O
+times	O	O
+but	O	O
+the	O	O
+same	O	O
+great	B-P	B-P
+quality	I-P	O
+and	O	O
+service	B-T	B-T
+is	O	O
+given	B-P	O
+.	O	O
+#Relations
+12	13	15	16
+
+bu	B-T	B-T
+##khar	I-T	I-T
+##a	I-T	I-T
+is	O	O
+on	O	O
+my	O	O
+top	B-P	O
+5	O	O
+indian	O	O
+places	O	O
+in	O	O
+nyc	O	O
+#Relations
+
+wr	O	O
+##etched	O	O
+and	O	O
+re	O	O
+##tch	O	O
+##ing	O	O
+#Relations
+
+this	O	O
+will	O	O
+be	O	O
+only	O	O
+the	O	O
+third	O	O
+online	O	O
+review	O	O
+i	O	O
+have	O	O
+ever	O	O
+made	O	O
+about	O	O
+a	O	O
+restaurant	O	O
+in	O	O
+my	O	O
+life	O	O
+.	O	O
+#Relations
+
+they	O	O
+have	O	O
+all	O	O
+been	O	O
+tonight	O	O
+and	O	O
+they	O	O
+have	O	O
+all	O	O
+been	O	O
+about	O	O
+the	O	O
+same	O	O
+restaurant	O	O
+.	O	O
+#Relations
+
+i	O	O
+have	O	O
+never	O	O
+been	O	O
+so	O	O
+disgusted	B-P	B-P
+by	O	O
+both	O	O
+food	B-T	B-T
+an	O	O
+service	B-T	B-T
+.	O	O
+#Relations
+5	6	8	9
+5	6	10	11
+
+for	O	O
+starters	O	O
+they	O	O
+delivered	O	O
+us	O	O
+someone	O	O
+else	O	O
+'	O	O
+s	O	O
+order	O	O
+.	O	O
+#Relations
+
+fine	O	O
+,	O	O
+i	O	O
+won	O	O
+##t	O	O
+hang	O	O
+you	O	O
+for	O	O
+that	O	O
+.	O	O
+#Relations
+
+however	O	O
+,	O	O
+once	O	O
+i	O	O
+received	O	O
+my	O	O
+predict	O	O
+##ably	O	O
+med	B-P	O
+##io	I-P	O
+##cre	I-P	I-P
+order	O	O
+of	O	O
+what	O	O
+do	O	O
+##ke	O	O
+##bi	O	O
+thinks	O	O
+passes	O	O
+as	O	O
+korean	B-T	O
+fair	I-T	O
+,	O	O
+(	O	O
+sometimes	O	O
+you	O	O
+have	O	O
+to	O	O
+settle	O	O
+when	O	O
+it	O	O
+'	O	O
+s	O	O
+your	O	O
+only	O	O
+option	O	O
+)	O	O
+,	O	O
+i	O	O
+got	O	O
+through	O	O
+about	O	O
+half	O	O
+my	O	O
+kim	B-T	O
+##chee	I-T	O
+before	O	O
+i	O	O
+found	O	O
+a	O	O
+piece	O	O
+of	O	O
+random	O	O
+let	O	O
+##tu	O	O
+##ce	O	O
+accompanied	O	O
+by	O	O
+a	O	O
+far	O	O
+more	O	O
+disgusting	B-P	B-P
+,	O	O
+slim	O	B-P
+##y	O	I-P
+,	O	O
+clearly	O	O
+bad	O	B-P
+piece	O	O
+of	O	O
+fish	O	O
+skin	O	O
+.	O	O
+#Relations
+
+not	O	O
+one	O	O
+to	O	O
+jump	O	O
+to	O	O
+complaints	O	O
+(	O	O
+hence	O	O
+my	O	O
+lack	O	O
+of	O	O
+previous	O	O
+online	O	O
+reviewing	O	O
+)	O	O
+,	O	O
+i	O	O
+called	O	O
+the	O	O
+restaurant	O	O
+to	O	O
+give	O	O
+them	O	O
+a	O	O
+heads	O	O
+up	O	O
+that	O	O
+their	O	O
+kitchen	O	O
+might	O	O
+want	O	O
+to	O	O
+check	O	O
+the	O	O
+clean	O	B-P
+##liness	O	O
+of	O	O
+their	O	O
+prep	O	B-T
+stations	O	I-T
+.	O	O
+#Relations
+34	35	38	40
+
+my	O	O
+main	O	O
+concern	O	O
+was	O	O
+the	O	O
+sanity	O	O
+of	O	O
+the	O	O
+food	B-T	O
+that	O	O
+was	O	O
+being	O	O
+sent	O	O
+out	O	O
+to	O	O
+myself	O	O
+and	O	O
+others	O	O
+,	O	O
+but	O	O
+i	O	O
+would	O	O
+be	O	O
+lying	O	O
+is	O	O
+i	O	O
+said	O	O
+that	O	O
+as	O	O
+someone	O	O
+who	O	O
+has	O	O
+worked	O	O
+in	O	O
+restaurants	O	O
+since	O	O
+the	O	O
+age	O	O
+of	O	O
+fifteen	O	O
+i	O	O
+was	O	O
+expecting	O	O
+at	O	O
+least	O	O
+a	O	O
+minimal	O	O
+effort	O	O
+on	O	O
+the	O	O
+part	O	O
+of	O	O
+the	O	O
+restaurant	O	O
+to	O	O
+amend	O	O
+the	O	O
+situation	O	O
+.	O	O
+#Relations
+
+none	O	O
+was	O	O
+made	O	O
+so	O	O
+i	O	O
+hung	O	O
+up	O	O
+.	O	O
+#Relations
+
+less	O	O
+than	O	O
+three	O	O
+minutes	O	O
+passed	O	O
+before	O	O
+i	O	O
+found	O	O
+myself	O	O
+doubled	O	O
+over	O	O
+the	O	O
+toilet	O	O
+.	O	O
+#Relations
+
+my	O	O
+girlfriend	O	O
+,	O	O
+being	O	O
+slightly	O	O
+more	O	O
+aggressive	O	O
+,	O	O
+and	O	O
+having	O	O
+been	O	O
+equally	O	O
+disgusted	B-P	O
+causing	O	O
+her	O	O
+to	O	O
+throw	O	O
+out	O	O
+the	O	O
+remainder	O	O
+of	O	O
+her	O	O
+barely	O	O
+eaten	O	O
+meal	B-T	O
+,	O	O
+called	O	O
+back	O	O
+only	O	O
+to	O	O
+be	O	O
+informed	O	O
+that	O	O
+i	O	O
+was	O	O
+probably	O	O
+wrong	O	O
+and	O	O
+that	O	O
+it	O	O
+was	O	O
+most	O	O
+likely	O	O
+an	O	O
+oyster	O	O
+,	O	O
+and	O	O
+that	O	O
+we	O	O
+were	O	O
+also	O	O
+black	O	O
+##list	O	O
+##ed	O	O
+from	O	O
+their	O	O
+restaurant	O	O
+.	O	O
+#Relations
+
+not	O	O
+only	O	O
+have	O	O
+i	O	O
+worked	O	O
+in	O	O
+restaurants	O	O
+for	O	O
+many	O	O
+years	O	O
+,	O	O
+i	O	O
+am	O	O
+now	O	O
+in	O	O
+culinary	O	O
+school	O	O
+,	O	O
+i	O	O
+am	O	O
+a	O	O
+huge	O	B-P
+lover	O	O
+of	O	O
+oyster	O	O
+##s	O	O
+and	O	O
+fish	O	B-T
+,	O	O
+and	O	O
+my	O	O
+girlfriend	O	O
+is	O	O
+half	O	O
+korean	O	O
+!	O	O
+#Relations
+
+we	O	O
+know	O	O
+the	O	O
+difference	O	O
+between	O	O
+and	O	O
+oyster	O	O
+and	O	O
+bad	O	B-T
+fish	O	I-T
+.	O	O
+#Relations
+
+it	O	O
+was	O	O
+n	O	O
+'	O	O
+t	O	O
+as	O	O
+if	O	O
+this	O	O
+restaurant	B-T	B-T
+had	O	O
+any	O	O
+major	O	O
+bragg	O	O
+##ing	O	O
+points	O	O
+before	O	O
+hand	O	O
+,	O	O
+but	O	O
+now	O	O
+it	O	O
+'	O	O
+s	O	O
+simply	O	O
+rep	B-P	B-P
+##ulsive	I-P	I-P
+.	O	O
+#Relations
+24	26	8	9
+
+eat	O	O
+at	O	O
+your	O	O
+own	O	O
+risk	O	O
+.	O	O
+#Relations
+
+gorgeous	B-P	B-P
+place	B-T	B-T
+ideal	O	O
+for	O	O
+a	O	O
+romantic	O	O
+dinner	O	O
+#Relations
+0	1	1	2
+
+i	O	O
+took	O	O
+my	O	O
+boyfriend	O	O
+for	O	O
+a	O	O
+dinner	O	O
+on	O	O
+saturday	O	O
+night	O	O
+.	O	O
+#Relations
+
+i	O	O
+book	O	O
+a	O	O
+gorgeous	B-P	B-P
+white	B-T	B-T
+organ	I-T	I-T
+##za	I-T	I-T
+tent	I-T	I-T
+which	O	O
+included	O	O
+a	O	O
+four	B-T	B-T
+course	I-T	I-T
+prix	I-T	I-T
+fix	I-T	I-T
+menu	I-T	I-T
+which	O	O
+we	O	O
+enjoyed	B-P	B-P
+a	O	O
+lot	O	O
+.	O	O
+#Relations
+3	4	4	8
+18	19	11	16
+
+the	O	O
+service	B-T	B-T
+was	O	O
+spectacular	B-P	B-P
+as	O	O
+the	O	O
+waiter	B-T	B-T
+knew	O	O
+everything	O	O
+about	O	O
+the	O	O
+menu	O	B-T
+and	O	O
+his	O	O
+recommendations	O	O
+were	O	O
+amazing	B-P	B-P
+!	O	O
+#Relations
+3	4	1	2
+
+i	O	O
+completely	O	O
+recommend	B-P	B-P
+casa	B-T	B-T
+la	I-T	I-T
+femme	I-T	I-T
+for	O	O
+any	O	O
+special	O	O
+occasion	O	O
+and	O	O
+to	O	O
+really	O	O
+impress	B-P	B-P
+your	O	O
+date	O	O
+.	O	O
+#Relations
+2	3	3	6
+
+more	O	O
+williamsburg	O	O
+garbage	O	O
+#Relations
+
+my	O	O
+wife	O	O
+and	O	O
+i	O	O
+visited	O	O
+do	O	O
+##ke	O	O
+##bi	O	O
+tonight	O	O
+.	O	O
+#Relations
+
+we	O	O
+ordered	O	O
+dos	O	O
+##ut	O	O
+bi	O	O
+##bi	O	O
+##mba	O	O
+##p	O	O
+and	O	O
+nak	O	O
+##gi	O	O
+-	O	O
+bo	O	O
+##ku	O	O
+##m	O	O
+.	O	O
+#Relations
+
+the	O	O
+dishes	O	O
+came	O	O
+out	O	O
+around	O	O
+5	O	O
+minutes	O	O
+apart	O	O
+.	O	O
+#Relations
+
+the	O	O
+bi	B-T	B-T
+##bi	I-T	I-T
+##mba	I-T	I-T
+##p	I-T	I-T
+was	O	O
+average	B-P	B-P
+,	O	O
+but	O	O
+the	O	O
+stone	B-T	B-T
+bowl	I-T	I-T
+was	O	O
+n	O	O
+'	O	O
+t	O	O
+even	O	O
+close	O	O
+to	O	O
+si	B-P	B-P
+##zzling	I-P	I-P
+.	O	O
+#Relations
+6	7	1	5
+19	21	10	12
+
+too	O	O
+bad	B-P	B-P
+i	O	O
+had	O	O
+paid	O	O
+an	O	O
+extra	O	O
+$	O	O
+2	O	O
+for	O	O
+the	O	O
+stone	B-T	B-T
+bowl	I-T	I-T
+.	O	O
+#Relations
+1	2	11	13
+
+the	O	O
+nak	B-T	B-T
+##gi	I-T	I-T
+-	I-T	I-T
+bo	I-T	I-T
+##ku	I-T	I-T
+##m	I-T	I-T
+was	O	O
+horrible	B-P	B-P
+.	O	O
+#Relations
+8	9	1	7
+
+easily	O	O
+the	O	O
+worst	B-P	B-P
+stir	B-T	B-T
+-	I-T	I-T
+fried	I-T	I-T
+squid	I-T	I-T
+i	O	O
+'	O	O
+ve	O	O
+ever	O	O
+tasted	O	O
+.	O	O
+#Relations
+2	3	3	7
+
+the	O	O
+sauce	B-T	B-T
+tasted	O	O
+more	O	O
+like	O	O
+chinese	O	O
+fast	O	O
+food	O	O
+than	O	O
+decent	O	O
+korean	O	O
+.	O	O
+#Relations
+
+the	O	O
+side	B-T	B-T
+dishes	I-T	I-T
+were	O	O
+pass	B-P	B-P
+##able	I-P	I-P
+,	O	O
+and	O	O
+i	O	O
+did	O	O
+get	O	O
+a	O	O
+ref	O	O
+##ill	O	O
+upon	O	O
+request	O	O
+.	O	O
+#Relations
+4	6	1	3
+
+the	O	O
+real	O	O
+problem	O	B-P
+i	O	O
+had	O	O
+with	O	O
+this	O	O
+place	O	B-T
+was	O	O
+the	O	O
+complete	O	O
+lack	B-P	B-P
+of	I-P	I-P
+service	B-T	B-T
+.	O	O
+#Relations
+2	3	7	8
+11	13	13	14
+
+i	O	O
+mentioned	O	O
+the	O	O
+squid	O	B-T
+dish	O	I-T
+was	O	O
+n	O	O
+'	O	O
+t	O	O
+very	O	O
+good	O	B-P
+when	O	O
+the	O	O
+waitress	O	O
+visited	O	O
+.	O	O
+#Relations
+10	11	3	5
+
+she	O	O
+just	O	O
+nodded	O	O
+and	O	O
+walked	O	O
+off	O	O
+.	O	O
+#Relations
+
+there	O	O
+were	O	O
+no	O	O
+communications	O	O
+issues	O	O
+either	O	O
+,	O	O
+as	O	O
+she	O	O
+spoke	O	O
+perfect	O	O
+english	O	O
+.	O	O
+#Relations
+
+as	O	O
+to	O	O
+my	O	O
+comment	O	O
+about	O	O
+the	O	O
+food	O	B-T
+,	O	O
+no	O	O
+apology	O	O
+or	O	O
+ac	O	O
+##k	O	O
+##now	O	O
+##led	O	O
+##gm	O	O
+##ent	O	O
+was	O	O
+made	O	O
+.	O	O
+#Relations
+
+my	O	O
+wife	O	O
+had	O	O
+barely	O	O
+touched	O	O
+that	O	O
+mess	B-P	O
+of	O	O
+a	O	O
+dish	B-T	B-T
+.	O	O
+#Relations
+
+we	O	O
+were	O	O
+charged	O	O
+full	O	O
+price	O	O
+.	O	O
+#Relations
+
+if	O	O
+you	O	O
+ware	O	O
+looking	O	O
+for	O	O
+korean	O	O
+fusion	O	O
+,	O	O
+i	O	O
+suggest	O	O
+you	O	O
+try	O	O
+some	O	O
+of	O	O
+the	O	O
+places	O	O
+in	O	O
+the	O	O
+east	O	O
+village	O	O
+.	O	O
+#Relations
+
+authentic	O	O
+korean	O	O
+food	O	O
+lovers	O	O
+should	O	O
+visit	O	O
+32nd	O	O
+street	O	O
+,	O	O
+of	O	O
+course	O	O
+.	O	O
+#Relations
+
+lives	O	O
+up	O	O
+to	O	O
+the	O	O
+h	O	O
+##ype	O	O
+#Relations
+
+we	O	O
+'	O	O
+ve	O	O
+lived	O	O
+around	O	O
+the	O	O
+corner	O	O
+from	O	O
+this	O	O
+place	O	O
+for	O	O
+over	O	O
+a	O	O
+year	O	O
+and	O	O
+finally	O	O
+had	O	O
+dinner	O	O
+there	O	O
+.	O	O
+#Relations
+
+we	O	O
+'	O	O
+ve	O	O
+tried	O	O
+before	O	O
+but	O	O
+it	O	O
+always	O	O
+packed	O	O
+and	O	O
+does	O	O
+n	O	O
+'	O	O
+t	O	O
+take	O	O
+reservations	O	O
+.	O	O
+#Relations
+
+it	O	O
+was	O	O
+well	O	O
+worth	O	O
+the	O	O
+wait	O	O
+.	O	O
+#Relations
+
+the	O	O
+wife	O	O
+had	O	O
+the	O	O
+ri	B-T	B-T
+##so	I-T	I-T
+##tto	I-T	I-T
+which	O	O
+was	O	O
+amazing	B-P	B-P
+.	O	O
+#Relations
+9	10	4	7
+
+it	O	O
+does	O	O
+n	O	O
+'	O	O
+t	O	O
+look	O	O
+app	O	O
+##eti	O	O
+##zing	O	O
+as	O	O
+it	O	O
+'	O	O
+s	O	O
+covered	O	O
+in	O	O
+squid	O	O
+ink	O	O
+and	O	O
+it	O	O
+turns	O	O
+your	O	O
+lips	O	O
+and	O	O
+teeth	O	O
+black	O	O
+,	O	O
+but	O	O
+the	O	O
+taste	O	B-T
+was	O	O
+phenomena	O	B-P
+##l	O	I-P
+.	O	O
+#Relations
+30	32	28	29
+
+the	O	O
+far	B-T	B-T
+##ro	I-T	I-T
+salad	I-T	I-T
+and	O	O
+the	O	O
+mas	B-T	B-T
+##hed	I-T	I-T
+yukon	I-T	I-T
+potatoes	I-T	I-T
+were	O	O
+also	O	O
+extremely	O	O
+ta	B-P	B-P
+##sty	I-P	I-P
+.	O	O
+#Relations
+13	15	1	4
+13	15	6	10
+
+i	O	O
+love	B-P	B-P
+mar	B-T	B-T
+##gh	I-T	I-T
+##eri	I-T	I-T
+##ta	I-T	I-T
+pizza	I-T	I-T
+–	O	O
+i	O	O
+lo	B-P	O
+##oo	I-P	I-P
+##ve	I-P	O
+east	B-T	B-T
+village	I-T	I-T
+pizza	I-T	I-T
+#Relations
+1	2	2	7
+
+love	B-P	B-P
+this	O	O
+place	B-T	B-T
+,	O	O
+every	O	O
+time	O	O
+we	O	O
+are	O	O
+in	O	O
+the	O	O
+city	O	O
+this	O	O
+is	O	O
+one	O	O
+of	O	O
+the	O	O
+places	O	O
+we	O	O
+always	O	O
+go	O	O
+.	O	O
+#Relations
+0	1	2	3
+
+a	O	O
+qui	B-P	B-P
+##ntes	I-P	I-P
+##sen	I-P	I-P
+##tial	I-P	I-P
+slice	B-T	O
+of	I-T	O
+nyc	I-T	O
+pizza	I-T	I-T
+.	O	O
+#Relations
+
+the	O	O
+crust	B-T	B-T
+has	O	O
+a	O	O
+great	B-P	B-P
+bite	O	B-T
+and	O	O
+a	O	O
+good	B-P	B-P
+chew	O	O
+,	O	O
+the	O	O
+sauce	B-T	B-T
+is	O	O
+light	B-P	B-P
+with	O	O
+a	O	O
+nice	B-P	B-P
+acid	O	B-P
+##ity	O	I-P
+to	O	O
+it	O	O
+,	O	O
+the	O	O
+salt	O	B-T
+from	O	O
+the	O	O
+cheese	B-T	B-T
+is	O	O
+great	B-P	B-P
+,	O	O
+really	O	O
+height	O	B-P
+##ens	O	O
+the	O	O
+flavor	O	O
+of	O	O
+all	O	O
+the	O	O
+other	O	O
+components	O	O
+.	O	O
+#Relations
+4	5	1	2
+4	5	5	6
+8	9	12	13
+14	15	12	13
+17	18	12	13
+18	20	12	13
+29	30	24	25
+29	30	27	28
+
+personally	O	O
+i	O	O
+like	B-P	B-P
+the	O	O
+mar	B-T	B-T
+##gh	I-T	I-T
+##eri	I-T	I-T
+##ta	I-T	I-T
+pizza	I-T	I-T
+better	B-P	O
+,	O	O
+but	O	O
+they	O	O
+are	O	O
+all	O	O
+good	B-P	B-P
+.	O	O
+#Relations
+2	3	4	9
+15	16	4	9
+
+possibly	O	O
+the	O	O
+most	B-P	O
+romantic	I-P	B-P
+restaurant	B-T	B-T
+in	O	O
+the	O	O
+city	O	O
+#Relations
+3	4	4	5
+
+this	O	O
+is	O	O
+undoubtedly	O	O
+my	O	O
+favorite	B-P	O
+modern	B-T	O
+japanese	I-T	O
+brass	I-T	I-T
+##erie	I-T	I-T
+(	O	O
+that	O	O
+don	O	O
+’	O	O
+t	O	O
+serve	O	O
+su	O	O
+##shi	O	O
+)	O	O
+,	O	O
+and	O	O
+in	O	O
+my	O	O
+opinion	O	O
+,	O	O
+one	O	O
+of	O	O
+the	O	O
+most	B-P	O
+romantic	I-P	O
+restaurants	O	O
+in	O	O
+the	O	O
+city	O	O
+!	O	O
+#Relations
+
+not	O	O
+only	O	O
+is	O	O
+it	O	O
+an	O	O
+adventure	O	O
+getting	O	O
+to	O	O
+this	O	O
+somewhat	O	O
+hidden	B-P	O
+spot	B-T	O
+,	O	O
+once	O	O
+you	O	O
+enter	O	O
+the	O	O
+unmarked	B-T	B-P
+wooden	I-T	B-T
+doors	I-T	I-T
+,	O	O
+the	O	O
+zen	O	B-P
+and	O	O
+intimate	B-P	B-P
+decor	B-T	B-T
+will	O	O
+make	O	O
+you	O	O
+feel	O	O
+like	O	O
+you	O	O
+’	O	O
+re	O	O
+no	O	O
+longer	O	O
+in	O	O
+the	O	O
+city	O	O
+.	O	O
+#Relations
+17	18	18	20
+22	23	25	26
+24	25	25	26
+
+if	O	O
+you	O	O
+’	O	O
+re	O	O
+planning	O	O
+to	O	O
+come	O	O
+here	O	O
+,	O	O
+make	O	O
+sure	O	O
+that	O	O
+your	O	O
+date	O	O
+is	O	O
+someone	O	O
+whom	O	O
+you	O	O
+really	O	O
+like	O	B-P
+since	O	O
+you	O	O
+’	O	O
+ll	O	O
+be	O	O
+ushered	B-P	O
+to	O	O
+private	B-T	O
+booths	I-T	O
+where	O	O
+there	O	O
+will	O	O
+be	O	O
+no	O	O
+people	O	O
+or	O	O
+food	O	O
+watching	O	O
+(	O	O
+choose	O	O
+the	O	O
+ones	O	O
+on	O	O
+the	O	O
+ground	O	O
+level	O	O
+that	O	O
+have	O	O
+glass	B-T	O
+ceilings	I-T	O
+so	O	O
+you	O	O
+may	O	O
+see	O	O
+the	O	O
+stars	O	O
+in	O	O
+the	O	O
+sky	O	O
+!	O	O
+)	O	O
+.	O	O
+#Relations
+
+it	O	O
+’	O	O
+s	O	O
+just	O	O
+you	O	O
+and	O	O
+your	O	O
+date	O	O
+and	O	O
+an	O	O
+occasional	O	O
+cute	O	O
+‘	O	O
+excuse	O	O
+me	O	O
+’	O	O
+before	O	O
+the	O	O
+waiter	B-T	B-T
+opens	O	O
+the	O	O
+little	O	O
+curtain	O	O
+to	O	O
+your	O	O
+booth	O	O
+!	O	O
+#Relations
+
+my	O	O
+party	O	O
+had	O	O
+the	O	O
+bb	B-T	B-T
+##e	I-T	I-T
+$	I-T	I-T
+29	I-T	I-T
+fix	I-T	I-T
+##e	I-T	I-T
+prix	I-T	I-T
+menu	I-T	I-T
+,	O	O
+which	O	O
+was	O	O
+such	O	O
+a	O	O
+wonderful	B-P	B-P
+deal	O	O
+since	O	O
+it	O	O
+also	O	O
+came	O	O
+with	O	O
+a	O	O
+flight	O	O
+of	O	O
+sake	O	O
+!	O	O
+#Relations
+17	18	4	12
+
+i	O	O
+never	O	O
+used	O	O
+to	O	O
+be	O	O
+a	O	O
+fan	O	O
+of	O	O
+sake	O	O
+##s	O	I-T
+but	O	O
+am	O	O
+lately	O	O
+experimenting	O	O
+with	O	O
+it	O	O
+a	O	O
+lot	O	O
+more	O	O
+and	O	O
+am	O	O
+acquiring	O	O
+a	O	O
+better	O	O
+taste	O	O
+of	O	O
+it	O	O
+.	O	O
+#Relations
+
+we	O	O
+started	O	O
+off	O	O
+with	O	O
+a	O	O
+delightful	B-P	B-P
+sash	B-T	B-T
+##imi	I-T	I-T
+am	I-T	I-T
+##use	I-T	I-T
+bo	I-T	I-T
+##uche	I-T	I-T
+.	O	O
+#Relations
+5	6	6	12
+
+our	O	O
+first	O	O
+course	O	O
+was	O	O
+tuna	O	O
+sash	O	I-T
+##imi	O	I-T
+with	O	I-T
+green	O	I-T
+yu	O	I-T
+##zu	O	I-T
+sauce	O	I-T
+.	O	O
+#Relations
+
+i	O	O
+picked	O	O
+the	O	O
+grille	B-T	B-T
+##d	I-T	I-T
+black	I-T	I-T
+cod	I-T	I-T
+as	O	O
+my	O	O
+en	O	O
+##tree	O	O
+,	O	O
+which	O	O
+i	O	O
+absolutely	O	O
+dev	B-P	B-P
+##oured	I-P	I-P
+while	O	O
+someone	O	O
+commented	O	O
+that	O	O
+the	O	O
+grille	B-T	B-T
+##d	I-T	I-T
+salmon	I-T	I-T
+dish	I-T	I-T
+was	O	O
+better	B-P	B-P
+.	O	O
+#Relations
+15	17	3	7
+27	28	22	26
+
+the	O	O
+en	B-T	O
+##tree	I-T	O
+##s	I-T	O
+were	O	O
+served	O	O
+with	O	O
+mis	O	O
+##o	O	O
+soup	O	O
+and	O	O
+rice	O	O
+.	O	O
+#Relations
+
+the	O	O
+sake	B-T	B-T
+’	I-T	I-T
+s	I-T	I-T
+complimented	O	B-P
+the	O	O
+courses	O	B-T
+very	O	O
+well	B-P	O
+and	O	O
+is	O	O
+successfully	O	O
+easing	O	O
+me	O	O
+into	O	O
+the	O	O
+sake	O	O
+world	O	O
+.	O	O
+#Relations
+4	5	1	4
+
+for	O	O
+dessert	O	O
+##s	O	O
+,	O	O
+we	O	O
+tried	O	O
+the	O	O
+frozen	B-T	B-T
+black	I-T	I-T
+sesame	I-T	I-T
+mo	I-T	I-T
+##uss	I-T	I-T
+##e	I-T	I-T
+(	O	O
+interesting	B-P	B-P
+but	O	O
+not	O	O
+extraordinary	B-P	B-P
+)	O	O
+and	O	O
+match	B-T	B-T
+##a	I-T	I-T
+(	I-T	O
+powder	I-T	O
+##ed	I-T	O
+green	I-T	O
+tea	I-T	O
+)	I-T	O
+and	I-T	O
+blue	I-T	B-T
+##berry	I-T	I-T
+cheese	I-T	I-T
+##cake	I-T	I-T
+,	O	O
+which	O	O
+was	O	O
+phenomena	B-P	B-P
+##l	I-P	I-P
+.	O	O
+#Relations
+14	15	7	13
+17	18	7	13
+36	38	20	22
+36	38	29	33
+
+maybe	O	O
+it	O	O
+was	O	O
+the	O	O
+great	O	B-P
+company	O	B-T
+(	O	O
+i	O	O
+had	O	O
+friends	O	O
+visiting	O	O
+from	O	O
+phil	O	O
+##ly	O	O
+–	O	O
+yes	O	O
+,	O	O
+it	O	O
+was	O	O
+not	O	O
+a	O	O
+date	O	O
+this	O	O
+time	O	O
+)	O	O
+or	O	O
+the	O	O
+super	O	O
+reasonable	O	O
+price	O	O
+point	O	O
+,	O	O
+but	O	O
+i	O	O
+just	O	O
+can	O	O
+’	O	O
+t	O	O
+say	O	O
+enough	O	O
+good	B-P	B-P
+things	O	O
+about	O	O
+this	O	O
+brass	B-T	B-T
+##erie	I-T	I-T
+.	O	O
+#Relations
+4	5	5	6
+40	41	44	46
+
+i	O	O
+don	O	O
+’	O	O
+t	O	O
+usually	O	O
+visit	O	O
+the	O	O
+same	O	O
+establishment	O	O
+more	O	O
+than	O	O
+once	O	O
+,	O	O
+what	O	O
+more	O	O
+twice	O	O
+,	O	O
+but	O	O
+i	O	O
+’	O	O
+ll	O	O
+come	O	O
+to	O	O
+zen	B-T	B-T
+##kic	I-T	I-T
+##hi	I-T	I-T
+anytime	O	O
+for	O	O
+a	O	O
+quiet	B-P	O
+,	O	O
+un	B-P	B-P
+##hur	I-P	I-P
+##ried	I-P	I-P
+and	O	O
+memorable	B-P	B-P
+dinner	O	B-T
+.	O	O
+#Relations
+31	34	23	26
+
+terrible	O	O
+would	O	O
+be	O	O
+a	O	O
+compliment	O	O
+!	O	O
+#Relations
+
+the	O	O
+service	B-T	B-T
+leaves	O	O
+much	O	O
+to	O	O
+be	O	O
+desired	B-P	I-P
+,	O	O
+from	O	O
+feeling	O	O
+like	O	O
+you	O	O
+are	O	O
+rushed	B-P	O
+the	O	O
+place	O	O
+your	O	O
+order	O	O
+,	O	O
+to	O	O
+being	O	O
+ignored	B-P	O
+the	O	O
+rest	O	O
+of	O	O
+the	O	O
+night	O	O
+.	O	O
+#Relations
+
+we	O	O
+were	O	O
+10	O	O
+people	O	O
+ce	O	O
+##le	O	O
+##br	O	O
+##tat	O	O
+##ing	O	O
+a	O	O
+birthday	O	O
+,	O	O
+we	O	O
+sat	O	O
+in	O	O
+the	O	O
+tent	O	O
+.	O	O
+#Relations
+
+we	O	O
+paid	O	O
+a	O	O
+fixed	O	O
+pri	O	O
+##cc	O	O
+##e	O	O
+but	O	O
+got	O	O
+nothing	O	O
+!	O	O
+!	O	O
+#Relations
+
+we	O	O
+never	O	O
+ate	O	O
+because	O	O
+by	O	O
+close	O	O
+to	O	O
+2	O	O
+in	O	O
+the	O	O
+mon	O	O
+##ring	O	O
+we	O	O
+were	O	O
+not	O	O
+served	O	O
+and	O	O
+were	O	O
+too	O	O
+upset	O	O
+ad	O	O
+tired	O	O
+to	O	O
+start	O	O
+eating	O	O
+.	O	O
+#Relations
+
+they	O	O
+are	O	O
+extremely	O	O
+rude	B-P	O
+,	O	O
+not	O	O
+even	O	O
+ap	O	O
+##olo	O	O
+##gizing	O	O
+for	O	O
+the	O	O
+horrible	B-P	B-P
+service	B-T	B-T
+we	O	O
+got	O	O
+and	O	O
+handing	O	O
+us	O	O
+a	O	O
+bill	O	O
+well	O	O
+over	O	O
+$	O	O
+500	O	O
+for	O	O
+some	O	O
+drinks	B-T	O
+ad	O	O
+##n	O	O
+their	O	O
+pit	B-T	O
+##a	I-T	O
+bread	I-T	O
+!	O	O
+#Relations
+12	13	13	14
+
+stay	O	O
+away	O	O
+#Relations
+
+great	B-P	B-P
+sha	B-T	B-T
+##bu	I-T	I-T
+sha	I-T	I-T
+##bu	I-T	I-T
+#Relations
+0	1	1	5
+
+i	O	O
+go	O	O
+here	O	O
+at	O	O
+least	O	O
+once	O	O
+every	O	O
+other	O	O
+week	O	O
+,	O	O
+particularly	O	O
+when	O	O
+it	O	O
+'	O	O
+s	O	O
+cold	O	O
+!	O	O
+#Relations
+
+i	O	O
+love	O	O
+it	O	O
+.	O	O
+#Relations
+
+to	O	O
+be	O	O
+honest	O	O
+we	O	O
+only	O	O
+ever	O	O
+eat	O	O
+the	O	O
+sha	O	B-T
+##bu	O	I-T
+sha	O	I-T
+##bu	O	I-T
+.	O	O
+#Relations
+
+i	O	O
+tried	O	O
+a	O	O
+couple	O	O
+other	O	O
+dishes	B-T	O
+but	O	O
+was	O	O
+n	O	O
+'	O	O
+t	O	O
+too	O	O
+impressed	B-P	O
+.	O	O
+#Relations
+
+but	O	O
+for	O	O
+the	O	O
+sha	B-T	B-T
+##bu	I-T	I-T
+sha	I-T	I-T
+##bu	I-T	I-T
+,	O	O
+you	O	O
+wo	O	O
+n	O	O
+'	O	O
+t	O	O
+find	O	O
+much	O	O
+better	B-P	B-P
+in	O	O
+ny	O	O
+.	O	O
+#Relations
+15	16	3	7
+
+in	O	O
+fact	O	O
+there	O	O
+is	O	O
+only	O	O
+one	O	O
+i	O	O
+'	O	O
+ve	O	O
+tried	O	O
+that	O	O
+even	O	O
+compares	O	O
+(	O	O
+sha	O	B-T
+##bu	O	I-T
+ta	O	I-T
+##tsu	O	I-T
+)	O	O
+and	O	O
+even	O	O
+then	O	O
+i	O	O
+prefer	O	B-P
+do	O	B-T
+##ke	O	I-T
+##bi	O	I-T
+.	O	O
+#Relations
+23	24	14	18
+23	24	24	27
+
+the	O	O
+meat	B-T	B-T
+is	O	O
+fresh	B-P	B-P
+,	O	O
+the	O	O
+sauce	B-T	B-T
+##s	I-T	I-T
+are	O	O
+great	B-P	B-P
+,	O	O
+you	O	O
+get	O	O
+kim	B-T	B-T
+##chi	I-T	I-T
+and	O	O
+a	O	O
+salad	B-T	B-T
+free	B-P	O
+with	O	O
+your	O	O
+meal	B-T	O
+and	O	O
+service	B-T	B-T
+is	O	O
+good	B-P	B-P
+too	O	O
+.	O	O
+#Relations
+3	4	1	2
+9	10	6	8
+25	26	23	24
+
+do	O	O
+##ke	O	O
+##bi	O	O
+gives	O	O
+williamsburg	O	O
+the	O	O
+right	O	O
+one	O	O
+-	O	O
+two	O	O
+punch	O	O
+of	O	O
+classic	B-P	O
+korean	B-T	O
+food	I-T	I-T
+and	O	O
+fusion	B-T	O
+twists	I-T	O
+like	O	O
+pork	B-T	O
+belly	I-T	O
+ta	I-T	O
+##cos	I-T	O
+.	O	O
+#Relations
+
+the	O	O
+hot	B-T	B-T
+dogs	I-T	I-T
+are	O	O
+good	B-P	B-P
+,	O	O
+yes	O	O
+,	O	O
+but	O	O
+the	O	O
+reason	O	O
+to	O	O
+get	O	O
+over	O	O
+here	O	O
+is	O	O
+the	O	O
+fantastic	B-P	B-P
+pork	B-T	B-T
+cr	I-T	I-T
+##o	I-T	I-T
+##quette	I-T	I-T
+sandwich	I-T	I-T
+,	O	O
+perfect	B-P	B-P
+on	O	O
+its	O	O
+supermarket	O	O
+sq	O	O
+##uis	O	O
+##hy	O	O
+bun	B-T	O
+.	O	O
+#Relations
+4	5	1	3
+17	18	18	23
+24	25	18	23
+
+restaurant	O	B-T
+with	O	O
+a	O	O
+view	B-T	O
+#Relations
+
+celebrated	O	O
+my	O	O
+fathers	O	O
+birthday	O	O
+here	O	O
+.	O	O
+#Relations
+
+the	O	O
+food	B-T	B-T
+tasted	O	O
+very	O	O
+good	B-P	B-P
+.	O	O
+#Relations
+4	5	1	2
+
+the	O	O
+family	B-T	B-T
+seafood	I-T	I-T
+en	I-T	I-T
+##tree	I-T	I-T
+was	O	O
+very	O	O
+good	B-P	B-P
+.	O	O
+#Relations
+7	8	1	5
+
+the	O	O
+main	B-T	B-T
+en	I-T	I-T
+##tree	I-T	I-T
+was	O	O
+also	O	O
+very	O	O
+good	B-P	B-P
+.	O	O
+#Relations
+7	8	1	4
+
+we	O	O
+order	O	O
+a	O	O
+bit	O	O
+of	O	O
+everything	O	O
+on	O	O
+the	O	O
+menu	O	O
+.	O	O
+#Relations
+
+price	O	O
+is	O	O
+high	O	O
+but	O	O
+the	O	O
+food	B-T	B-T
+is	O	O
+good	B-P	B-P
+,	O	O
+so	O	O
+i	O	O
+would	O	O
+come	O	O
+back	O	O
+again	O	O
+.	O	O
+#Relations
+7	8	5	6
+
+this	O	O
+place	B-T	B-T
+does	O	O
+n	O	O
+'	O	O
+t	O	O
+make	O	O
+any	O	O
+sense	O	O
+#Relations
+
+just	O	O
+want	O	O
+to	O	O
+warn	O	O
+you	O	O
+all	O	O
+-	O	O
+do	O	O
+n	O	O
+'	O	O
+t	O	O
+waste	O	O
+your	O	O
+time	O	O
+and	O	O
+money	O	O
+.	O	O
+#Relations
+
+this	O	O
+place	O	O
+has	O	O
+totally	O	O
+weird	B-P	B-P
+decor	B-T	B-T
+,	O	O
+stairs	O	O
+going	O	O
+up	O	O
+with	O	O
+mirrored	B-T	O
+walls	I-T	O
+-	O	O
+i	O	O
+am	O	O
+surprised	O	B-P
+how	O	O
+no	O	O
+one	O	O
+yet	O	O
+broke	O	O
+their	O	O
+head	O	O
+or	O	O
+fall	O	O
+off	O	O
+the	O	O
+stairs	O	O
+-	O	O
+mirrored	O	O
+walls	O	O
+make	O	O
+you	O	O
+dizzy	B-P	O
+and	O	O
+del	B-P	O
+##usion	I-P	O
+##al	I-P	O
+.	O	O
+.	O	O
+.	O	O
+#Relations
+4	5	5	6
+
+this	O	O
+place	B-T	B-T
+is	O	O
+not	O	O
+inviting	B-P	B-P
+and	O	O
+the	O	O
+food	B-T	B-T
+is	O	O
+totally	O	O
+weird	B-P	B-P
+.	O	O
+#Relations
+4	5	1	2
+10	11	7	8
+
+the	O	O
+concept	O	O
+of	O	O
+japanese	B-T	B-T
+tap	I-T	I-T
+##as	I-T	I-T
+is	O	O
+newly	O	O
+created	O	O
+and	O	O
+clearly	O	O
+does	O	O
+n	O	O
+'	O	O
+t	O	O
+work	B-P	O
+.	O	O
+#Relations
+
+the	O	O
+food	B-T	B-T
+they	O	O
+serve	O	O
+is	O	O
+not	O	O
+comforting	B-P	B-P
+,	O	O
+not	O	O
+app	B-P	B-P
+##eti	I-P	I-P
+##zing	I-P	I-P
+and	O	O
+un	B-P	B-P
+##co	I-P	I-P
+##oked	I-P	I-P
+.	O	O
+#Relations
+6	7	1	2
+9	12	1	2
+13	16	1	2
+
+go	O	O
+to	O	O
+japanese	O	O
+su	O	I-T
+##shi	O	I-T
+place	O	I-T
+or	O	O
+spanish	O	B-T
+tap	O	I-T
+##as	O	I-T
+place	O	O
+-	O	O
+this	O	O
+creation	O	O
+in	O	O
+williamsburg	O	O
+is	O	O
+a	O	O
+miss	O	O
+##take	O	O
+.	O	O
+#Relations
+
+good	B-P	B-P
+food	B-T	B-T
+#Relations
+0	1	1	2
+
+i	O	O
+went	O	O
+here	O	O
+with	O	O
+my	O	O
+boyfriend	O	O
+for	O	O
+our	O	O
+anniversary	O	O
+.	O	O
+#Relations
+
+the	O	O
+food	B-T	B-T
+was	O	O
+great	B-P	B-P
+and	O	O
+ta	B-P	B-P
+##sty	I-P	I-P
+,	O	O
+but	O	O
+the	O	O
+sitting	B-T	B-T
+space	I-T	I-T
+was	O	O
+too	O	O
+small	B-P	B-P
+,	O	O
+i	O	O
+do	O	O
+n	O	O
+'	O	O
+t	O	O
+like	O	O
+being	O	O
+cr	O	O
+##amp	O	O
+in	O	O
+a	O	O
+corner	O	O
+.	O	O
+#Relations
+3	4	1	2
+5	7	1	2
+14	15	10	12
+
+over	O	O
+all	O	O
+it	O	O
+was	O	O
+a	O	O
+very	O	O
+nice	B-P	B-P
+romantic	B-P	B-P
+place	B-T	B-T
+.	O	O
+#Relations
+6	7	8	9
+7	8	8	9
+
+i	O	O
+would	O	O
+recommend	O	O
+to	O	O
+ask	O	O
+for	O	O
+a	O	O
+bigger	O	O
+sitting	O	B-T
+area	O	I-T
+when	O	O
+you	O	O
+make	O	O
+a	O	O
+reservation	O	O
+(	O	O
+if	O	O
+possible	O	O
+)	O	O
+#Relations
+
+loved	O	O
+it	O	O
+#Relations
+
+a	O	O
+cow	O	O
+##or	O	O
+##ker	O	O
+and	O	O
+i	O	O
+tried	O	O
+pacific	B-T	B-T
+##o	I-T	I-T
+after	O	O
+work	O	O
+a	O	O
+few	O	O
+fridays	O	O
+and	O	O
+loved	B-P	B-P
+it	O	O
+.	O	O
+#Relations
+15	16	7	9
+
+the	O	O
+atmosphere	B-T	B-T
+was	O	O
+great	B-P	B-P
+.	O	O
+#Relations
+3	4	1	2
+
+the	O	O
+food	B-T	B-T
+we	O	O
+ordered	O	O
+was	O	O
+excellent	B-P	B-P
+,	O	O
+although	O	O
+i	O	O
+would	O	O
+n	O	O
+'	O	O
+t	O	O
+say	O	O
+the	O	O
+margarita	B-T	B-T
+##s	I-T	I-T
+were	O	O
+anything	O	O
+to	O	O
+write	O	O
+home	O	O
+about	O	O
+.	O	O
+#Relations
+5	6	1	2
+
+our	O	O
+waitress	B-T	B-T
+was	O	O
+n	O	O
+'	O	O
+t	O	O
+mean	B-P	B-P
+,	O	O
+but	O	O
+not	O	O
+especially	O	O
+warm	B-P	B-P
+or	O	O
+at	B-P	B-P
+##ten	I-P	I-P
+##tive	I-P	I-P
+either	O	O
+.	O	O
+#Relations
+6	7	1	2
+11	12	1	2
+13	16	1	2
+
+i	O	O
+must	O	O
+say	O	O
+i	O	O
+am	O	O
+surprised	O	B-P
+by	O	O
+the	O	O
+bad	B-P	B-P
+reviews	O	O
+of	O	O
+the	O	O
+restaurant	B-T	O
+earlier	O	O
+in	O	O
+the	O	O
+year	O	O
+,	O	O
+though	O	O
+.	O	O
+#Relations
+
+maybe	O	O
+it	O	O
+has	O	O
+improved	O	O
+since	O	O
+then	O	O
+?	O	O
+#Relations
+
+regardless	O	O
+,	O	O
+we	O	O
+'	O	O
+ll	O	O
+be	O	O
+back	O	O
+and	O	O
+ca	O	O
+n	O	O
+'	O	O
+t	O	O
+wait	O	O
+to	O	O
+visit	O	O
+in	O	O
+the	O	O
+summer	O	O
+to	O	O
+take	O	O
+advantage	O	O
+of	O	O
+the	O	O
+patio	B-T	B-T
+.	O	O
+#Relations
+
+dumb	O	O
+##fo	O	O
+##und	O	O
+##ingly	O	O
+poor	O	O
+#Relations
+
+this	O	O
+was	O	O
+,	O	O
+from	O	O
+start	O	O
+to	O	O
+finish	O	O
+,	O	O
+a	O	O
+mind	O	O
+-	O	O
+bog	O	O
+##gling	O	O
+##ly	O	O
+uncomfortable	O	O
+experience	O	O
+.	O	O
+#Relations
+
+lexi	O	O
+##co	O	O
+##grapher	O	O
+##s	O	O
+take	O	O
+note	O	O
+:	O	O
+a	O	O
+new	O	O
+and	O	O
+fascinating	O	O
+definition	O	O
+of	O	O
+rude	O	O
+##ness	O	O
+is	O	O
+alive	O	O
+and	O	O
+flourishing	O	O
+right	O	O
+here	O	O
+in	O	O
+brooklyn	O	O
+.	O	O
+#Relations
+
+the	O	O
+servers	B-T	O
+at	O	O
+flat	O	O
+##bush	O	O
+farm	O	O
+appear	O	O
+to	O	O
+have	O	O
+perfect	B-P	O
+##ed	I-P	O
+that	O	O
+g	O	O
+##has	O	I-P
+##tly	O	O
+technique	O	O
+of	O	O
+making	O	O
+you	O	O
+feel	O	O
+guilty	O	O
+and	O	O
+ashamed	O	O
+for	O	O
+dei	O	O
+##gni	O	O
+##ng	O	O
+to	O	O
+attract	O	O
+their	O	O
+attention	O	O
+.	O	O
+#Relations
+
+polite	O	O
+acknowledge	O	O
+##ment	O	O
+is	O	O
+out	O	O
+;	O	O
+#Relations
+
+super	O	O
+##ci	O	O
+##lio	O	O
+##us	O	O
+sc	O	O
+##orn	O	O
+is	O	O
+in	O	O
+.	O	O
+#Relations
+
+and	O	O
+how	O	O
+many	O	O
+times	O	O
+can	O	O
+you	O	O
+pick	O	O
+up	O	O
+the	O	O
+same	O	O
+perfectly	O	O
+aligned	O	O
+set	O	O
+of	O	O
+napkin	O	O
+##s	O	O
+,	O	O
+inspect	O	O
+them	O	O
+va	O	O
+##pid	O	O
+##ly	O	O
+and	O	O
+pl	O	O
+##on	O	O
+##k	O	O
+them	O	O
+down	O	O
+in	O	O
+exactly	O	O
+the	O	O
+same	O	O
+place	O	O
+instead	O	O
+of	O	O
+vent	O	O
+##uring	O	O
+a	O	O
+glance	O	O
+at	O	O
+people	O	O
+who	O	O
+are	O	O
+there	O	O
+to	O	O
+help	O	O
+you	O	O
+make	O	O
+the	O	O
+rent	O	O
+?	O	O
+#Relations
+
+a	O	O
+different	O	O
+server	B-T	O
+enhanced	B-P	O
+the	O	O
+fun	O	O
+,	O	O
+dumping	O	O
+our	O	O
+en	O	O
+##tree	O	O
+##s	O	O
+in	O	O
+front	O	O
+of	O	O
+us	O	O
+halfway	O	O
+through	O	O
+our	O	O
+app	B-T	O
+##eti	I-T	O
+##zer	I-T	O
+(	O	O
+which	O	O
+was	O	O
+delicious	B-P	B-P
+)	O	O
+.	O	O
+#Relations
+
+overall	O	O
+the	O	O
+food	B-T	B-T
+quality	O	O
+was	O	O
+pretty	O	O
+good	B-P	B-P
+,	O	O
+though	O	O
+i	O	O
+hear	O	O
+the	O	O
+salmon	O	B-T
+is	O	O
+much	O	O
+better	O	B-P
+when	O	O
+it	O	O
+has	O	O
+n	O	O
+'	O	O
+t	O	O
+sat	O	O
+cooling	O	O
+in	O	O
+front	O	O
+of	O	O
+the	O	O
+guest	O	O
+.	O	O
+#Relations
+6	7	2	3
+15	16	12	13
+
+the	O	O
+place	O	B-T
+has	O	O
+a	O	O
+nice	B-P	B-P
+fit	B-T	O
+-	I-T	O
+out	I-T	O
+,	O	O
+some	O	O
+attractive	B-P	B-P
+furnishings	B-T	B-T
+and	O	O
+,	O	O
+from	O	O
+what	O	O
+i	O	O
+could	O	O
+tell	O	O
+,	O	O
+a	O	O
+reasonable	B-P	B-P
+wine	B-T	B-T
+list	I-T	I-T
+(	O	O
+i	O	O
+was	O	O
+given	O	O
+the	O	O
+food	O	O
+menu	O	O
+when	O	O
+i	O	O
+asked	O	O
+for	O	O
+the	O	O
+cart	O	O
+##e	O	O
+des	O	O
+vin	O	O
+##s	O	O
+)	O	O
+#Relations
+4	5	1	2
+10	11	11	12
+21	22	22	24
+
+at	O	O
+$	O	O
+120	O	O
+for	O	O
+two	O	O
+people	O	O
+,	O	O
+however	O	O
+,	O	O
+this	O	O
+in	O	O
+no	O	O
+way	O	O
+represents	O	O
+value	O	O
+,	O	O
+unless	O	O
+you	O	O
+'	O	O
+re	O	O
+looking	O	O
+to	O	O
+pay	O	O
+by	O	O
+the	O	O
+hour	O	O
+for	O	O
+passive	O	O
+-	O	O
+aggressive	O	O
+torture	O	O
+.	O	O
+#Relations
+
+on	O	O
+that	O	O
+scale	O	O
+,	O	O
+it	O	O
+'	O	O
+s	O	O
+a	O	O
+world	O	O
+-	O	O
+beat	O	O
+##er	O	O
+.	O	O
+#Relations
+
+how	O	O
+is	O	O
+this	O	O
+pal	B-T	B-T
+##ce	I-T	I-T
+still	O	O
+open	O	O
+?	O	O
+#Relations
+
+i	O	O
+honestly	O	O
+do	O	O
+n	O	O
+'	O	O
+t	O	O
+even	O	O
+know	O	O
+where	O	O
+to	O	O
+begin	O	O
+.	O	O
+#Relations
+
+my	O	O
+boyfriend	O	O
+and	O	O
+i	O	O
+are	O	O
+avid	O	O
+restaurant	O	O
+go	O	O
+##ers	O	O
+,	O	O
+and	O	O
+we	O	O
+are	O	O
+always	O	O
+on	O	O
+the	O	O
+lookout	O	O
+for	O	O
+new	O	O
+places	O	O
+and	O	O
+our	O	O
+friend	O	O
+had	O	O
+recommended	O	O
+flat	O	O
+##bush	O	O
+farms	O	O
+.	O	O
+#Relations
+
+we	O	O
+arrived	O	O
+and	O	O
+were	O	O
+seated	O	O
+immediately	O	O
+,	O	O
+which	O	O
+made	O	O
+us	O	O
+both	O	O
+happy	O	O
+.	O	O
+#Relations
+
+we	O	O
+ordered	O	O
+our	O	O
+app	O	O
+##eti	O	O
+##zers	O	O
+,	O	O
+i	O	O
+ordered	O	O
+the	O	O
+chicken	O	B-T
+and	O	O
+my	O	O
+boyfriend	O	O
+the	O	O
+salmon	O	B-T
+.	O	O
+#Relations
+
+everything	O	O
+was	O	O
+going	O	O
+good	B-P	O
+until	O	O
+we	O	O
+got	O	O
+our	O	O
+meals	B-T	O
+.	O	O
+#Relations
+
+i	O	O
+took	O	O
+one	O	O
+look	O	O
+at	O	O
+the	O	O
+chicken	B-T	B-T
+and	O	O
+i	O	O
+was	O	O
+appalled	B-P	B-P
+.	O	O
+#Relations
+10	11	6	7
+
+it	O	O
+was	O	O
+served	O	O
+with	O	O
+skin	O	O
+,	O	O
+over	O	O
+a	O	O
+bed	O	O
+of	O	O
+extremely	O	O
+under	B-P	B-P
+##co	I-P	I-P
+##oked	I-P	I-P
+spin	B-T	B-T
+##ach	I-T	I-T
+and	O	O
+mas	O	I-T
+##hed	O	I-T
+potatoes	O	I-T
+.	O	O
+#Relations
+11	14	14	16
+
+my	O	O
+boyfriend	O	O
+asked	O	O
+me	O	O
+if	O	O
+i	O	O
+wanted	O	O
+to	O	O
+switch	O	O
+and	O	O
+eat	O	O
+his	O	O
+salmon	O	O
+instead	O	O
+,	O	O
+while	O	O
+he	O	O
+de	O	O
+-	O	O
+skinned	O	O
+the	O	O
+chicken	O	B-T
+so	O	O
+that	O	O
+i	O	O
+could	O	O
+enjoy	O	B-P
+the	O	O
+white	O	O
+meat	O	O
+.	O	O
+#Relations
+26	27	21	22
+
+i	O	O
+took	O	O
+one	O	O
+bite	O	O
+from	O	O
+the	O	O
+$	O	O
+24	O	O
+salmon	B-T	O
+,	O	O
+and	O	O
+i	O	O
+have	O	O
+never	O	O
+,	O	O
+in	O	O
+the	O	O
+17	O	O
+years	O	O
+i	O	O
+have	O	O
+been	O	O
+going	O	O
+to	O	O
+restaurants	O	O
+tasted	O	O
+salmon	O	B-T
+as	O	O
+fish	B-P	B-P
+##y	I-P	I-P
+,	O	O
+as	O	O
+dry	B-P	B-P
+,	O	O
+and	O	O
+as	O	O
+bland	B-P	B-P
+as	O	O
+the	O	O
+one	O	O
+in	O	O
+flat	O	O
+##bush	O	O
+farms	O	O
+.	O	O
+#Relations
+28	30	26	27
+32	33	26	27
+36	37	26	27
+
+at	O	O
+this	O	O
+point	O	O
+,	O	O
+the	O	O
+waitress	B-T	O
+comes	O	O
+over	O	O
+and	O	O
+asks	O	O
+us	O	O
+if	O	O
+everything	O	O
+was	O	O
+okay	O	O
+,	O	O
+i	O	O
+was	O	O
+literally	O	O
+so	O	O
+shocked	O	O
+that	O	O
+i	O	O
+was	O	O
+speechless	O	O
+and	O	O
+did	O	O
+n	O	O
+'	O	O
+t	O	O
+say	O	O
+anything	O	O
+,	O	O
+and	O	O
+guess	O	O
+what	O	O
+,	O	O
+the	O	O
+waitress	O	O
+walked	O	O
+away	O	O
+.	O	O
+#Relations
+
+so	O	O
+,	O	O
+i	O	O
+switch	O	O
+with	O	O
+my	O	O
+boyfriend	O	O
+again	O	O
+to	O	O
+see	O	O
+if	O	O
+maybe	O	O
+i	O	O
+could	O	O
+stomach	O	O
+the	O	O
+meat	O	B-T
+and	O	I-T
+spin	O	I-T
+##ach	O	I-T
+again	O	O
+,	O	O
+but	O	O
+the	O	O
+spin	B-T	B-T
+##ach	I-T	I-T
+was	O	O
+so	O	O
+under	B-P	B-P
+##co	I-P	I-P
+##oked	I-P	I-P
+that	O	O
+i	O	O
+just	O	O
+could	O	O
+not	O	O
+bite	O	O
+through	O	O
+it	O	O
+.	O	O
+#Relations
+28	31	16	20
+28	31	24	26
+
+i	O	O
+could	O	O
+n	O	O
+'	O	O
+t	O	O
+even	O	O
+enjoy	O	B-P
+the	O	O
+mas	O	B-T
+##hed	O	I-T
+potatoes	O	I-T
+because	O	O
+it	O	O
+was	O	O
+hidden	O	O
+completely	O	O
+under	O	O
+the	O	O
+chicken	O	B-T
+and	O	I-T
+spin	O	I-T
+##ach	O	I-T
+.	O	O
+#Relations
+6	7	8	11
+6	7	18	22
+
+i	O	O
+'	O	O
+ve	O	O
+had	O	O
+better	O	B-P
+chicken	O	B-T
+at	O	O
+bb	O	I-T
+##q	O	I-T
+##s	O	I-T
+!	O	O
+!	O	O
+!	O	O
+!	O	O
+#Relations
+4	5	5	6
+
+so	O	O
+i	O	O
+decide	O	O
+to	O	O
+report	O	O
+back	O	O
+to	O	O
+the	O	O
+waitress	O	B-T
+because	O	O
+it	O	O
+was	O	O
+completely	O	O
+in	O	B-P
+##ed	O	I-P
+##ible	O	I-P
+.	O	O
+#Relations
+13	16	8	9
+
+guess	O	O
+what	O	O
+,	O	O
+i	O	O
+waited	O	O
+for	O	O
+twenty	O	O
+minutes	O	O
+before	O	O
+she	O	O
+came	O	O
+over	O	O
+and	O	O
+when	O	O
+she	O	O
+finally	O	O
+did	O	O
+,	O	O
+she	O	O
+says	O	O
+,	O	O
+`	O	O
+`	O	O
+oh	O	O
+well	O	O
+,	O	O
+i	O	O
+wish	O	O
+you	O	O
+would	O	O
+have	O	O
+said	O	O
+something	O	O
+earlier	O	O
+'	O	O
+'	O	O
+no	O	O
+apology	O	O
+,	O	O
+nothing	O	O
+.	O	O
+#Relations
+
+after	O	O
+that	O	O
+she	O	O
+simply	O	O
+took	O	O
+our	O	O
+plates	O	O
+,	O	O
+walked	O	O
+away	O	O
+,	O	O
+came	O	O
+back	O	O
+another	O	O
+twenty	O	O
+minutes	O	O
+later	O	O
+with	O	O
+the	O	O
+bill	O	O
+and	O	O
+the	O	O
+chicken	O	B-T
+on	O	O
+it	O	O
+!	O	O
+!	O	O
+!	O	O
+!	O	O
+!	O	O
+!	O	O
+!	O	O
+!	O	O
+!	O	O
+!	O	O
+!	O	O
+!	O	O
+#Relations
+
+no	O	O
+desert	O	B-T
+menu	O	I-T
+,	O	O
+no	O	O
+apology	O	O
+,	O	O
+nothing	O	O
+!	O	O
+!	O	O
+!	O	O
+!	O	O
+!	O	O
+!	O	O
+#Relations
+
+i	O	O
+was	O	O
+literally	O	O
+going	O	O
+to	O	O
+explode	O	O
+,	O	O
+but	O	O
+instead	O	O
+,	O	O
+my	O	O
+boyfriend	O	O
+took	O	O
+the	O	O
+bill	O	O
+and	O	O
+went	O	O
+to	O	O
+find	O	O
+the	O	O
+manager	O	O
+.	O	O
+#Relations
+
+this	O	O
+is	O	O
+where	O	O
+it	O	O
+really	O	O
+really	O	O
+gets	O	O
+bad	B-P	O
+:	O	O
+the	O	O
+manager	B-T	B-T
+said	O	O
+,	O	O
+there	O	O
+is	O	O
+absolutely	O	O
+nothing	O	O
+we	O	O
+can	O	O
+do	O	O
+,	O	O
+it	O	O
+'	O	O
+s	O	O
+a	O	O
+matter	O	O
+of	O	O
+taste	O	O
+that	O	O
+she	O	O
+did	O	O
+n	O	O
+'	O	O
+t	O	O
+like	O	O
+it	O	O
+,	O	O
+and	O	O
+i	O	O
+can	O	O
+not	O	O
+com	O	O
+##p	O	O
+it	O	O
+.	O	O
+#Relations
+
+again	O	O
+,	O	O
+no	O	O
+apology	O	O
+,	O	O
+no	O	O
+is	O	O
+there	O	O
+anything	O	O
+else	O	O
+i	O	O
+can	O	O
+get	O	O
+you	O	O
+,	O	O
+no	O	O
+can	O	O
+i	O	O
+get	O	O
+you	O	O
+a	O	O
+drink	O	O
+to	O	O
+make	O	O
+up	O	O
+for	O	O
+it	O	O
+,	O	O
+nothing	O	O
+!	O	O
+!	O	O
+!	O	O
+!	O	O
+#Relations
+
+we	O	O
+refused	O	O
+to	O	O
+pay	O	O
+for	O	O
+it	O	O
+because	O	O
+at	O	O
+this	O	O
+point	O	O
+it	O	O
+had	O	O
+nothing	O	O
+to	O	O
+do	O	O
+with	O	O
+the	O	O
+food	O	O
+anymore	O	O
+.	O	O
+#Relations
+
+the	O	O
+level	O	O
+of	O	O
+rude	O	O
+##ness	O	O
+was	O	O
+prep	O	B-P
+##ost	O	I-P
+##ero	O	I-P
+##us	O	I-P
+.	O	O
+#Relations
+
+the	O	O
+manager	B-T	B-T
+came	O	O
+to	O	O
+the	O	O
+table	O	O
+and	O	O
+said	O	O
+we	O	O
+can	O	O
+do	O	O
+what	O	O
+we	O	O
+want	O	O
+,	O	O
+so	O	O
+we	O	O
+paid	O	O
+for	O	O
+what	O	O
+we	O	O
+did	O	O
+enjoy	B-P	B-P
+,	O	O
+the	O	O
+drinks	B-T	B-T
+and	O	O
+app	B-T	O
+##eti	I-T	O
+##zers	I-T	O
+,	O	O
+and	O	O
+walked	O	O
+out	O	O
+.	O	O
+#Relations
+22	23	1	2
+22	23	25	26
+
+i	O	O
+have	O	O
+never	O	O
+ever	O	O
+had	O	O
+such	O	O
+an	O	O
+unpleasant	O	O
+experience	O	O
+.	O	O
+#Relations
+
+this	O	O
+staff	B-T	B-T
+should	O	O
+be	O	O
+fired	B-P	B-P
+.	O	O
+#Relations
+4	5	1	2
+
+ci	B-P	B-T
+##rs	I-P	I-T
+##py	I-P	I-T
+crust	B-P	I-T
+mar	B-T	O
+##gh	I-T	O
+##eri	I-T	O
+##ta	I-T	I-T
+pizza	I-T	I-T
+#Relations
+
+we	O	O
+have	O	O
+been	O	O
+there	O	O
+3	O	O
+times	O	O
+since	O	O
+last	O	O
+week	O	O
+we	O	O
+al	O	O
+##ked	O	O
+it	O	O
+by	O	O
+chance	O	O
+first	O	O
+day	O	O
+the	O	O
+manager	O	B-T
+offer	O	O
+##d	O	O
+us	O	O
+the	O	O
+mar	O	O
+##gh	O	O
+##eri	O	O
+##ta	O	O
+pizza	O	O
+ad	O	O
+##n	O	O
+we	O	O
+said	O	O
+yes	O	O
+.	O	O
+#Relations
+
+it	O	O
+was	O	O
+really	O	O
+good	B-P	B-P
+pizza	B-T	B-T
+.	O	O
+#Relations
+3	4	4	5
+
+the	O	O
+crust	B-T	B-T
+was	O	O
+im	B-P	B-P
+##azi	I-P	I-P
+##ng	I-P	I-P
+##ly	I-P	I-P
+cooked	I-P	O
+well	O	B-P
+and	O	O
+pizza	B-T	B-T
+was	O	O
+fully	B-P	B-P
+loaded	I-P	I-P
+:	O	O
+)	O	O
+:	O	O
+)	O	O
+:	O	O
+)	O	O
+#Relations
+3	7	1	2
+8	9	1	2
+12	14	10	11
+
+you	O	O
+know	O	O
+what	O	O
+i	O	O
+mean	O	O
+all	O	O
+the	O	O
+positive	O	O
+##s	O	O
+things	O	O
+happening	O	O
+there	O	O
+made	O	O
+mw	O	O
+write	O	O
+this	O	O
+review	O	O
+.	O	O
+#Relations
+
+single	O	O
+worst	B-P	B-P
+restaurant	B-T	B-T
+in	O	O
+manhattan	O	O
+#Relations
+1	2	2	3
+
+i	O	O
+'	O	O
+ll	O	O
+being	O	O
+with	O	O
+a	O	O
+couple	O	O
+of	O	O
+positive	O	O
+##s	O	O
+:	O	O
+cool	B-P	B-P
+decor	B-T	B-T
+,	O	O
+good	B-P	B-P
+pit	B-T	B-T
+##a	I-T	I-T
+and	O	O
+hum	B-T	B-T
+##mus	I-T	I-T
+,	O	O
+and	O	O
+grille	B-T	B-T
+##d	I-T	I-T
+octopus	I-T	I-T
+that	O	O
+was	O	O
+actually	O	O
+pretty	O	O
+ta	B-P	B-P
+##sty	I-P	I-P
+.	O	O
+#Relations
+11	12	12	13
+14	15	15	17
+14	15	18	20
+29	31	22	25
+
+moving	O	O
+on	O	O
+.	O	O
+#Relations
+
+if	O	O
+i	O	O
+could	O	O
+give	O	O
+0	O	O
+stars	O	O
+i	O	O
+would	O	O
+do	O	O
+so	O	O
+for	O	O
+this	O	O
+place	B-T	B-T
+.	O	O
+#Relations
+
+casa	O	B-T
+la	O	O
+femme	O	O
+is	O	O
+to	O	O
+middle	O	O
+eastern	O	O
+dining	O	O
+what	O	O
+chuck	O	O
+##ie	O	O
+che	O	O
+##ez	O	O
+##e	O	O
+is	O	O
+to	O	O
+italian	O	O
+.	O	O
+#Relations
+
+the	O	O
+reason	O	O
+there	O	O
+are	O	O
+4	O	O
+different	O	O
+results	O	O
+on	O	O
+city	O	O
+##sea	O	O
+##rch	O	O
+for	O	O
+the	O	O
+same	O	O
+place	O	O
+is	O	O
+because	O	O
+they	O	O
+keep	O	O
+trying	O	O
+to	O	O
+start	O	O
+a	O	O
+new	O	O
+thread	O	O
+so	O	O
+they	O	O
+can	O	O
+stock	O	O
+it	O	O
+with	O	O
+positive	O	O
+reviews	O	O
+.	O	O
+#Relations
+
+well	O	O
+.	O	O
+.	O	O
+.	O	O
+they	O	O
+can	O	O
+run	O	O
+but	O	O
+they	O	O
+ca	O	O
+n	O	O
+'	O	O
+t	O	O
+hide	O	O
+.	O	O
+#Relations
+
+i	O	O
+live	O	O
+in	O	O
+the	O	O
+west	O	O
+village	O	O
+and	O	O
+i	O	O
+'	O	O
+ve	O	O
+been	O	O
+to	O	O
+a	O	O
+lot	O	O
+of	O	O
+restaurants	O	O
+.	O	O
+#Relations
+
+sometimes	O	O
+you	O	O
+pay	O	O
+a	O	O
+lot	O	O
+and	O	O
+do	O	O
+n	O	O
+'	O	O
+t	O	O
+get	O	O
+much	O	O
+in	O	O
+return	O	O
+-	O	O
+it	O	O
+'	O	O
+s	O	O
+manhattan	O	O
+,	O	O
+things	O	O
+are	O	O
+expensive	O	O
+.	O	O
+#Relations
+
+however	O	O
+,	O	O
+most	O	O
+of	O	O
+them	O	O
+are	O	O
+at	O	O
+least	O	O
+prompt	O	O
+and	O	O
+pleasant	O	O
+.	O	O
+#Relations
+
+this	O	O
+place	B-T	B-T
+.	O	O
+.	O	O
+.	O	O
+god	O	O
+where	O	O
+do	O	O
+i	O	O
+begin	O	O
+.	O	O
+#Relations
+
+it	O	O
+is	O	O
+quite	O	O
+a	O	O
+spectacular	B-P	O
+scene	B-T	O
+i	O	O
+'	O	O
+ll	O	O
+give	O	O
+them	O	O
+that	O	O
+.	O	O
+#Relations
+
+the	O	O
+decor	B-T	B-T
+however	O	O
+seems	O	O
+to	O	O
+be	O	O
+the	O	O
+distraction	B-P	B-P
+so	O	O
+you	O	O
+wo	O	O
+n	O	O
+'	O	O
+t	O	O
+notice	O	O
+that	O	O
+you	O	O
+just	O	O
+pay	O	O
+##ed	O	O
+300	O	O
+bucks	O	O
+for	O	O
+some	O	O
+cold	B-P	B-T
+egg	B-T	I-T
+##pl	I-T	I-T
+##ant	I-T	I-T
+that	O	O
+took	O	O
+2	O	O
+fr	O	O
+##ick	O	O
+##in	O	O
+hours	O	O
+to	O	O
+come	O	O
+!	O	O
+!	O	O
+!	O	O
+!	O	O
+#Relations
+7	8	1	2
+
+how	O	O
+this	O	O
+place	B-T	O
+survives	O	O
+the	O	O
+competitive	O	B-P
+west	O	O
+village	O	I-T
+market	O	I-T
+in	O	O
+this	O	O
+economy	O	O
+,	O	O
+or	O	O
+any	O	O
+other	O	O
+for	O	O
+that	O	O
+matter	O	O
+,	O	O
+is	O	O
+beyond	O	O
+me	O	O
+.	O	O
+#Relations
+
+great	B-P	B-P
+hot	B-T	B-T
+dogs	I-T	I-T
+!	O	O
+#Relations
+0	1	1	3
+
+i	O	O
+'	O	O
+ve	O	O
+made	O	O
+the	O	O
+trip	O	O
+out	O	O
+here	O	O
+a	O	O
+few	O	O
+times	O	O
+with	O	O
+a	O	O
+friend	O	O
+who	O	O
+lives	O	O
+nearby	O	O
+(	O	O
+i	O	O
+live	O	O
+on	O	O
+u	O	O
+##ws	O	O
+)	O	O
+.	O	O
+#Relations
+
+though	O	O
+it	O	O
+'	O	O
+s	O	O
+been	O	O
+crowded	O	O
+most	O	O
+times	O	O
+i	O	O
+'	O	O
+ve	O	O
+gone	O	O
+here	O	O
+,	O	O
+bark	B-T	O
+always	O	O
+delivers	B-P	O
+on	O	O
+their	O	O
+food	B-T	O
+.	O	O
+#Relations
+
+the	O	O
+hot	B-T	B-T
+dogs	I-T	I-T
+are	O	O
+top	B-P	B-P
+notch	I-P	I-P
+,	O	O
+and	O	O
+they	O	O
+'	O	O
+re	O	O
+slam	B-T	B-T
+##wich	I-T	I-T
+is	O	O
+amazing	B-P	B-P
+!	O	O
+#Relations
+4	6	1	3
+14	15	11	13
+
+going	O	O
+to	O	O
+bark	B-T	O
+is	O	O
+always	O	O
+worth	B-P	B-P
+the	O	O
+train	O	O
+ride	O	O
+,	O	O
+and	O	O
+will	O	O
+make	O	O
+your	O	O
+tongue	O	O
+and	O	O
+belly	O	O
+very	O	O
+happy	B-P	B-P
+!	O	O
+#Relations
+
+only	O	O
+complaint	O	B-P
+is	O	O
+the	O	O
+pricing	O	O
+-	O	O
+-	O	O
+i	O	O
+believe	O	O
+it	O	O
+would	O	O
+be	O	O
+more	O	O
+reasonable	O	O
+to	O	O
+pay	O	O
+a	O	O
+dollar	O	O
+less	O	O
+on	O	O
+each	O	O
+item	O	O
+listed	O	O
+on	O	O
+the	O	O
+menu	B-T	O
+.	O	O
+#Relations
+
+but	O	O
+nonetheless	O	O
+-	O	O
+-	O	O
+great	B-P	B-P
+spot	B-T	B-T
+,	O	O
+great	B-P	B-P
+food	B-T	B-T
+.	O	O
+#Relations
+4	5	5	6
+7	8	8	9
+
+fabulous	B-P	B-P
+food	B-T	B-T
+-	O	O
+if	O	O
+the	O	O
+front	B-T	O
+of	I-T	O
+house	I-T	O
+staff	I-T	I-T
+do	O	O
+n	O	O
+'	O	O
+t	O	O
+put	O	O
+you	O	O
+off	O	O
+–	O	O
+#Relations
+0	1	1	2
+
+we	O	O
+live	O	O
+nearby	O	O
+bf	O	O
+##c	O	O
+.	O	O
+#Relations
+
+it	O	O
+'	O	O
+s	O	O
+a	O	O
+little	O	O
+out	O	O
+of	O	O
+our	O	O
+price	O	O
+range	O	O
+for	O	O
+dining	O	O
+there	O	O
+except	O	O
+on	O	O
+special	O	O
+occasions	O	O
+,	O	O
+but	O	O
+we	O	O
+'	O	O
+ve	O	O
+eaten	O	O
+there	O	O
+6	O	O
+times	O	O
+in	O	O
+the	O	O
+last	O	O
+2	O	O
+years	O	O
+.	O	O
+#Relations
+
+each	O	O
+time	O	O
+we	O	O
+'	O	O
+ve	O	O
+been	O	O
+,	O	O
+the	O	O
+front	B-T	B-T
+of	I-T	I-T
+house	I-T	I-T
+staff	I-T	I-T
+(	O	O
+not	O	O
+the	O	O
+waiter	B-T	B-T
+##s	I-T	I-T
+-	O	O
+they	O	O
+'	O	O
+re	O	O
+fantastic	B-P	B-P
+-	O	O
+but	O	O
+the	O	O
+people	O	O
+who	O	O
+greet	O	O
+and	O	O
+seat	O	O
+you	O	O
+)	O	O
+has	O	O
+been	O	O
+so	O	O
+hideous	O	B-P
+to	O	O
+us	O	O
+that	O	O
+were	O	O
+it	O	O
+not	O	O
+for	O	O
+the	O	O
+exceptional	B-P	B-P
+fish	B-T	B-T
+dishes	I-T	I-T
+i	O	O
+would	O	O
+never	O	O
+return	O	O
+.	O	O
+#Relations
+21	22	8	12
+21	22	15	17
+44	45	45	47
+
+as	O	O
+bf	B-T	O
+##c	I-T	O
+does	O	O
+n	O	O
+'	O	O
+t	O	O
+take	O	O
+reservations	O	O
+you	O	O
+almost	O	O
+always	O	O
+have	O	O
+to	O	O
+wait	O	O
+by	O	O
+the	O	O
+bar	O	O
+-	O	O
+and	O	O
+be	O	O
+abused	B-P	O
+by	O	O
+the	O	O
+front	B-T	O
+of	I-T	O
+house	I-T	O
+staff	I-T	O
+until	O	O
+you	O	O
+are	O	O
+seated	O	O
+,	O	O
+which	O	O
+can	O	O
+be	O	O
+over	O	O
+an	O	O
+hour	O	O
+later	O	O
+!	O	O
+#Relations
+
+the	O	O
+fr	B-P	O
+##iz	I-P	O
+##zy	I-P	O
+retro	O	O
+girl	B-T	O
+(	O	O
+with	O	O
+winged	O	O
+/	O	O
+dame	O	O
+edna	O	O
+glasses	O	O
+)	O	O
+will	O	O
+yell	O	O
+at	O	O
+you	O	O
+if	O	O
+you	O	O
+try	O	O
+to	O	O
+order	O	O
+a	O	O
+drink	O	O
+.	O	O
+#Relations
+
+i	O	O
+was	O	O
+almost	O	O
+amused	O	B-P
+by	O	O
+the	O	O
+fact	O	O
+that	O	O
+she	O	O
+was	O	O
+turning	O	O
+away	O	O
+customers	O	O
+at	O	O
+9	O	O
+##pm	O	O
+on	O	O
+a	O	O
+friday	O	O
+night	O	O
+because	O	O
+she	O	O
+`	O	O
+`	O	O
+had	O	O
+a	O	O
+bb	O	O
+##q	O	O
+to	O	O
+go	O	O
+to	O	O
+'	O	O
+'	O	O
+that	O	O
+night	O	O
+-	O	O
+w	O	O
+##tf	O	O
+?	O	O
+?	O	O
+#Relations
+
+i	O	O
+'	O	O
+d	O	O
+be	O	O
+horrified	B-P	B-P
+if	O	O
+my	O	O
+staff	B-T	B-T
+were	O	O
+turning	O	O
+away	O	O
+customers	O	O
+so	O	O
+early	O	O
+and	O	O
+so	O	O
+rude	B-P	O
+##ly	I-P	O
+!	O	O
+#Relations
+4	5	7	8
+
+there	O	O
+'	O	O
+s	O	O
+another	O	O
+girl	B-T	O
+who	O	O
+i	O	O
+ca	O	O
+n	O	O
+'	O	O
+t	O	O
+describe	O	O
+,	O	O
+she	O	O
+is	O	O
+about	O	O
+5	O	O
+'	O	O
+6	O	O
+'	O	O
+'	O	O
+with	O	O
+brown	O	O
+hair	O	O
+,	O	O
+who	O	O
+ea	O	O
+##ves	O	O
+##drop	O	O
+##s	O	O
+on	O	O
+your	O	O
+conversation	O	O
+and	O	O
+chi	O	O
+##mes	O	O
+in	O	O
+-	O	O
+except	O	O
+she	O	O
+only	O	O
+hears	O	O
+the	O	O
+last	O	O
+part	O	O
+of	O	O
+what	O	O
+you	O	O
+said	O	O
+,	O	O
+so	O	O
+her	O	O
+un	B-P	O
+##in	I-P	O
+##vite	I-P	O
+##d	I-P	O
+opinions	O	O
+are	O	O
+often	O	O
+out	O	O
+of	O	O
+context	O	O
+and	O	O
+nothing	O	O
+to	O	O
+do	O	O
+with	O	O
+what	O	O
+you	O	O
+'	O	O
+re	O	O
+*	O	O
+really	O	O
+*	O	O
+talking	O	O
+about	O	O
+.	O	O
+#Relations
+
+i	O	O
+'	O	O
+m	O	O
+a	O	O
+friendly	O	O
+person	O	O
+,	O	O
+so	O	O
+i	O	O
+would	O	O
+n	O	O
+'	O	O
+t	O	O
+mind	O	O
+had	O	O
+she	O	O
+not	O	O
+been	O	O
+so	O	O
+nasty	O	O
+and	O	O
+gotten	O	O
+so	O	O
+personal	O	O
+.	O	O
+#Relations
+
+again	O	O
+,	O	O
+i	O	O
+'	O	O
+d	O	O
+be	O	O
+super	O	O
+upset	O	O
+if	O	O
+that	O	O
+were	O	O
+my	O	O
+employee	O	O
+.	O	O
+#Relations
+
+considering	O	O
+you	O	O
+will	O	O
+spend	O	O
+at	O	O
+least	O	O
+$	O	O
+60	O	O
+a	O	O
+head	O	O
+,	O	O
+i	O	O
+expect	O	O
+better	B-P	B-P
+service	B-T	B-T
+.	O	O
+#Relations
+13	14	14	15
+
+so	O	O
+,	O	O
+if	O	O
+you	O	O
+'	O	O
+re	O	O
+walking	O	O
+by	O	O
+and	O	O
+thinking	O	O
+about	O	O
+dining	O	O
+,	O	O
+you	O	O
+might	O	O
+want	O	O
+to	O	O
+see	O	O
+who	O	O
+'	O	O
+s	O	O
+going	O	O
+to	O	O
+be	O	O
+seating	O	O
+you	O	O
+first	O	O
+.	O	O
+.	O	O
+.	O	O
+#Relations
+
+mai	B-T	O
+##tre	I-T	O
+-	I-T	O
+d	I-T	O
+-	O	O
+'	O	O
+'	O	O
+eat	O	O
+and	O	O
+get	O	O
+out	O	O
+'	O	O
+'	O	O
+#Relations
+
+my	O	O
+family	O	O
+ate	O	O
+here	O	O
+last	O	O
+weekend	O	O
+.	O	O
+#Relations
+
+the	O	O
+food	B-T	B-T
+and	O	O
+service	B-T	B-T
+were	O	O
+fine	B-P	B-P
+,	O	O
+however	O	O
+the	O	O
+mai	B-T	B-T
+##tre	I-T	I-T
+-	I-T	I-T
+d	I-T	I-T
+was	O	O
+incredibly	O	O
+un	B-P	B-P
+##we	I-P	I-P
+##lco	I-P	I-P
+##ming	I-P	I-P
+and	O	O
+arrogant	B-P	B-P
+.	O	O
+#Relations
+5	6	1	2
+5	6	3	4
+15	19	9	13
+20	21	9	13
+
+while	O	O
+finishing	O	O
+our	O	O
+meals	O	O
+which	O	O
+included	O	O
+a	O	O
+high	B-P	B-P
+-	I-P	I-P
+end	I-P	I-P
+bottle	B-T	B-T
+of	I-T	I-T
+wine	I-T	I-T
+,	O	O
+our	O	O
+son	O	O
+'	O	O
+s	O	O
+fiance	O	O
+joined	O	O
+us	O	O
+for	O	O
+a	O	O
+glass	O	O
+of	O	O
+wine	O	O
+and	O	O
+dessert	O	O
+.	O	O
+#Relations
+7	10	10	13
+
+this	O	O
+guy	O	O
+refused	O	O
+to	O	O
+seat	O	O
+her	O	O
+and	O	O
+she	O	O
+left	O	O
+,	O	O
+followed	O	O
+shortly	O	O
+by	O	O
+the	O	O
+four	O	O
+of	O	O
+us	O	O
+,	O	O
+but	O	O
+not	O	O
+before	O	O
+i	O	O
+told	O	O
+him	O	O
+that	O	O
+in	O	O
+my	O	O
+40	O	O
+years	O	O
+of	O	O
+world	O	O
+travel	O	O
+,	O	O
+including	O	O
+paris	O	O
+,	O	O
+that	O	O
+i	O	O
+had	O	O
+never	O	O
+seen	O	O
+such	O	O
+a	O	O
+display	O	O
+of	O	O
+bad	B-P	O
+behavior	O	O
+by	O	O
+a	O	O
+frontman	B-T	O
+in	O	O
+a	O	O
+restaurant	O	O
+.	O	O
+#Relations
+
+his	O	O
+response	O	O
+was	O	O
+smug	O	O
+,	O	O
+arrogant	O	O
+,	O	O
+and	O	O
+conde	O	O
+##sc	O	I-P
+##ending	O	I-P
+,	O	O
+totally	O	O
+consistent	O	O
+with	O	O
+his	O	O
+de	O	O
+##port	O	O
+##ment	O	O
+on	O	O
+display	O	O
+all	O	O
+evening	O	O
+.	O	O
+#Relations
+
+a	O	O
+word	O	O
+to	O	O
+the	O	O
+wise	O	O
+:	O	O
+you	O	O
+ca	O	O
+n	O	O
+'	O	O
+t	O	O
+din	O	O
+##e	O	O
+here	O	O
+and	O	O
+disturb	O	O
+the	O	O
+mai	B-T	O
+##tre	I-T	O
+-	I-T	O
+d	I-T	O
+'	O	O
+s	O	O
+sense	O	O
+of	O	O
+`	O	O
+`	O	O
+table	O	O
+turnover	O	O
+'	O	O
+'	O	O
+,	O	O
+as	O	O
+w	O	O
+##ha	O	O
+##cked	O	O
+as	O	O
+it	O	O
+is	O	O
+,	O	O
+or	O	O
+else	O	O
+.	O	O
+#Relations
+
+if	O	O
+you	O	O
+go	O	O
+here	O	O
+,	O	O
+do	O	O
+it	O	O
+on	O	O
+his	O	O
+off	O	O
+-	O	O
+night	O	O
+.	O	O
+#Relations
+
+best	B-P	B-P
+meal	B-T	B-T
+in	O	O
+a	O	O
+long	O	O
+time	O	O
+!	O	O
+#Relations
+0	1	1	2
+
+mu	B-T	B-T
+##ss	I-T	I-T
+##les	I-T	I-T
+and	O	O
+cal	B-T	B-T
+##ama	I-T	I-T
+##ri	I-T	I-T
+were	O	O
+superb	B-P	B-P
+saturday	O	O
+evening	O	O
+.	O	O
+#Relations
+8	9	0	3
+8	9	4	7
+
+i	O	O
+had	O	O
+the	O	O
+lamb	B-T	B-T
+special	I-T	I-T
+which	O	O
+was	O	O
+perfect	B-P	B-P
+.	O	O
+#Relations
+7	8	3	5
+
+my	O	O
+father	O	O
+had	O	O
+the	O	O
+flank	B-T	B-T
+steak	I-T	I-T
+which	O	O
+was	O	O
+very	O	O
+good	B-P	B-P
+,	O	O
+and	O	O
+my	O	O
+mother	O	O
+had	O	O
+the	O	O
+sword	O	B-T
+##fish	O	I-T
+.	O	O
+#Relations
+9	10	4	6
+
+the	B-T	O
+four	I-T	B-T
+seasons	I-T	I-T
+restaurant	I-T	I-T
+is	O	O
+a	O	O
+great	B-P	B-P
+experience	O	I-P
+.	O	O
+#Relations
+6	8	1	4
+
+the	O	O
+food	B-T	B-T
+is	O	O
+great	B-P	B-P
+and	O	O
+the	O	O
+environment	B-T	B-T
+is	O	O
+even	O	O
+better	B-P	B-P
+.	O	O
+#Relations
+3	4	1	2
+9	10	6	7
+
+everyone	O	O
+must	O	O
+come	O	O
+here	O	O
+at	O	O
+least	O	O
+once	O	O
+.	O	O
+#Relations
+
+highly	O	O
+recommend	O	O
+it	O	O
+!	O	O
+#Relations
+
+taking	O	O
+hot	B-T	B-T
+dogs	I-T	I-T
+to	O	O
+the	O	O
+next	O	O
+level	O	O
+#Relations
+
+at	O	O
+first	O	O
+glance	O	O
+this	O	O
+place	O	B-T
+seems	O	O
+a	O	O
+bit	O	O
+price	B-P	B-P
+##y	I-P	I-P
+for	O	O
+a	O	O
+hot	O	O
+dog	O	O
+joint	O	O
+,	O	O
+but	O	O
+at	O	O
+bark	B-T	O
+you	O	O
+do	O	O
+n	O	O
+'	O	O
+t	O	O
+just	O	O
+get	O	O
+your	O	O
+average	B-P	O
+hot	B-T	O
+dog	I-T	O
+.	O	O
+#Relations
+8	10	4	5
+
+here	O	O
+the	O	O
+hot	B-T	B-T
+dog	I-T	I-T
+is	O	O
+elevated	B-P	O
+to	O	O
+the	O	O
+level	O	O
+of	O	O
+a	O	O
+real	O	O
+en	O	O
+##tree	O	O
+with	O	O
+numerous	O	O
+variations	O	O
+available	O	O
+.	O	O
+#Relations
+
+great	B-P	B-P
+atmosphere	B-T	B-T
+#Relations
+0	1	1	2
+
+went	O	O
+to	O	O
+this	O	O
+place	O	O
+this	O	O
+place	O	O
+on	O	O
+a	O	O
+real	O	O
+cold	O	O
+night	O	O
+and	O	O
+needed	O	O
+a	O	O
+quick	O	B-P
+meal	O	B-T
+.	O	O
+#Relations
+14	15	15	16
+
+i	O	O
+highly	O	O
+recommend	B-P	B-P
+the	O	O
+fish	B-T	B-T
+ta	I-T	I-T
+##cos	I-T	I-T
+,	O	O
+everything	O	O
+else	O	O
+was	O	O
+ok	O	B-P
+.	O	O
+#Relations
+2	3	4	7
+11	12	4	7
+
+cool	B-P	B-P
+atmosphere	B-T	B-T
+,	O	O
+the	O	O
+fire	B-T	B-T
+place	I-T	I-T
+in	O	O
+the	O	O
+back	O	O
+really	O	O
+ads	O	B-P
+to	O	O
+it	O	O
+but	O	O
+needs	O	O
+a	O	O
+bit	O	O
+more	O	O
+heat	O	O
+throughout	O	O
+on	O	O
+a	O	O
+cold	O	O
+night	O	O
+.	O	O
+#Relations
+0	1	1	2
+10	11	4	6
+
+poor	B-P	B-P
+service	B-T	B-T
+and	O	O
+management	B-T	B-T
+#Relations
+0	1	1	2
+0	1	3	4
+
+don	O	O
+’	O	O
+t	O	O
+go	O	O
+to	O	O
+this	O	O
+place	B-T	B-T
+!	O	O
+#Relations
+
+had	O	O
+an	O	O
+awful	B-P	O
+experience	O	O
+at	O	O
+casa	B-T	O
+la	I-T	O
+femme	I-T	O
+on	O	O
+a	O	O
+saturday	O	O
+dinner	O	O
+.	O	O
+#Relations
+
+app	O	O
+##eti	O	O
+##zers	O	O
+took	O	O
+nearly	O	O
+an	O	O
+hour	O	O
+.	O	O
+#Relations
+
+when	O	O
+the	O	O
+main	O	O
+course	O	O
+finally	O	O
+arrived	O	O
+(	O	O
+another	O	O
+45	O	O
+##mins	O	O
+)	O	O
+half	O	O
+of	O	O
+our	O	O
+order	O	O
+was	O	O
+missing	O	O
+.	O	O
+#Relations
+
+never	O	O
+got	O	O
+an	O	O
+explanation	O	O
+as	O	O
+to	O	O
+what	O	O
+was	O	O
+going	O	O
+on	O	O
+.	O	O
+#Relations
+
+the	O	O
+manager	B-T	B-T
+was	O	O
+rude	B-P	B-P
+and	O	O
+handled	O	O
+the	O	O
+situation	O	O
+extremely	O	O
+poorly	B-P	B-P
+.	O	O
+#Relations
+3	4	1	2
+9	10	1	2
+
+when	O	O
+we	O	O
+threatened	O	O
+to	O	O
+leave	O	O
+,	O	O
+we	O	O
+were	O	O
+offered	O	O
+a	O	O
+me	O	O
+##ager	O	O
+discount	O	O
+even	O	O
+though	O	O
+half	O	O
+the	O	O
+order	O	O
+was	O	O
+missing	O	O
+.	O	O
+#Relations
+
+on	O	O
+the	O	O
+way	O	O
+out	O	O
+,	O	O
+we	O	O
+heard	O	O
+of	O	O
+other	O	O
+guests	O	O
+complaining	O	O
+about	O	O
+similar	O	O
+issues	O	O
+.	O	O
+#Relations
+
+can	O	O
+’	O	O
+t	O	O
+believe	O	O
+how	O	O
+an	O	O
+expensive	B-P	O
+nyc	O	O
+restaurant	B-T	O
+can	O	O
+be	O	O
+so	O	O
+di	B-P	B-P
+##sr	I-P	I-P
+##es	I-P	I-P
+##pe	I-P	I-P
+##ct	I-P	I-P
+##ful	I-P	I-P
+to	O	O
+its	O	O
+clients	O	O
+.	O	O
+#Relations
+
+what	O	O
+a	O	O
+has	O	O
+##sle	O	O
+!	O	O
+#Relations
+
+the	O	O
+food	B-T	B-T
+is	O	O
+very	O	O
+good	B-P	B-P
+,	O	O
+but	O	O
+not	O	O
+outstanding	B-P	B-P
+.	O	O
+#Relations
+4	5	1	2
+8	9	1	2
+
+there	O	O
+is	O	O
+no	O	O
+way	O	O
+it	O	O
+just	O	O
+##ifies	O	O
+the	O	O
+accolades	O	O
+it	O	O
+receives	O	O
+,	O	O
+the	O	O
+attitude	O	O
+of	O	O
+the	O	O
+staff	B-T	B-T
+or	O	O
+the	O	O
+wait	B-T	O
+for	O	O
+a	O	O
+table	O	O
+.	O	O
+#Relations
+
+on	O	O
+our	O	O
+last	O	O
+visit	O	O
+,	O	O
+they	O	O
+skipped	O	O
+over	O	O
+our	O	O
+name	O	O
+on	O	O
+the	O	O
+list	O	O
+,	O	O
+leaving	O	O
+us	O	O
+waiting	O	O
+an	O	O
+extra	O	O
+hour	O	O
+for	O	O
+a	O	O
+table	O	O
+.	O	O
+#Relations
+
+mistakes	O	O
+happen	O	O
+,	O	O
+but	O	O
+they	O	O
+are	O	O
+usually	O	O
+accompanied	O	O
+by	O	O
+an	O	O
+apology	O	O
+,	O	O
+perhaps	O	O
+even	O	O
+a	O	O
+glass	O	O
+of	O	O
+wine	O	O
+.	O	O
+.	O	O
+.	O	O
+but	O	O
+not	O	O
+the	O	O
+grunt	O	O
+that	O	O
+we	O	O
+received	O	O
+from	O	O
+the	O	O
+al	O	O
+di	O	I-T
+la	O	I-T
+staff	B-T	I-T
+.	O	O
+#Relations
+
+without	O	O
+the	O	O
+wait	O	O
+or	O	O
+attitude	O	O
+,	O	O
+i	O	O
+would	O	O
+probably	O	O
+go	O	O
+back	O	O
+,	O	O
+but	O	O
+there	O	O
+are	O	O
+just	O	O
+too	O	O
+many	O	O
+other	O	O
+restaurants	O	O
+in	O	O
+brooklyn	O	O
+that	O	O
+are	O	O
+as	O	O
+good	O	O
+or	O	O
+better	O	O
+and	O	O
+do	O	O
+n	O	O
+'	O	O
+t	O	O
+make	O	O
+me	O	O
+jump	O	O
+through	O	O
+hoop	O	O
+##s	O	O
+.	O	O
+#Relations
+
+expensive	O	O
+#Relations
+
+i	O	O
+went	O	O
+there	O	O
+after	O	O
+hearing	O	O
+how	O	O
+great	O	O
+it	O	O
+was	O	O
+.	O	O
+#Relations
+
+wow	O	O
+.	O	O
+#Relations
+
+the	O	O
+bread	B-T	B-T
+was	O	O
+stale	B-P	B-P
+,	O	O
+the	O	O
+salad	B-T	B-T
+was	O	O
+over	B-P	B-P
+##pr	I-P	I-P
+##ice	I-P	I-P
+##d	I-P	I-P
+and	O	O
+empty	B-P	B-P
+.	O	O
+#Relations
+3	4	1	2
+8	12	6	7
+13	14	6	7
+
+the	O	O
+pasta	B-T	B-T
+was	O	O
+well	B-P	B-P
+cooked	I-P	I-P
+,	O	O
+did	O	O
+n	O	O
+'	O	O
+t	O	O
+have	O	O
+enough	O	O
+sauce	O	O
+though	O	O
+or	O	O
+flavor	O	O
+.	O	O
+#Relations
+3	5	1	2
+
+i	O	O
+though	O	O
+it	O	O
+was	O	O
+expensive	O	O
+and	O	O
+i	O	O
+prefer	O	O
+bella	O	O
+via	O	O
+just	O	O
+blocks	O	O
+away	O	O
+by	O	O
+far	O	O
+.	O	O
+#Relations
+
+so	O	O
+rude	O	O
+!	O	O
+!	O	O
+!	O	O
+#Relations
+
+i	O	O
+went	O	O
+with	O	O
+j	O	O
+##wil	O	O
+##s	O	O
+.	O	O
+#Relations
+
+her	O	O
+review	O	O
+is	O	O
+above	O	O
+.	O	O
+#Relations
+
+i	O	O
+was	O	O
+one	O	O
+of	O	O
+the	O	O
+people	O	O
+that	O	O
+went	O	O
+for	O	O
+this	O	O
+horrible	O	O
+experience	O	O
+.	O	O
+#Relations
+
+my	O	O
+friend	O	O
+is	O	O
+100	O	O
+%	O	O
+right	O	O
+in	O	O
+the	O	O
+experience	O	O
+we	O	O
+had	O	O
+.	O	O
+#Relations
+
+the	O	O
+hostess	B-T	B-T
+was	O	O
+rude	B-P	B-P
+and	O	O
+i	O	O
+got	O	O
+a	O	O
+distinct	O	O
+feeling	O	O
+that	O	O
+they	O	O
+did	O	O
+not	O	O
+want	O	O
+to	O	O
+serve	O	O
+us	O	O
+.	O	O
+#Relations
+3	4	1	2
+
+the	O	O
+only	O	O
+thing	O	O
+that	O	O
+my	O	O
+friend	O	O
+left	O	O
+out	O	O
+is	O	O
+that	O	O
+when	O	O
+we	O	O
+sat	O	O
+down	O	O
+at	O	O
+the	O	O
+bar	O	O
+the	O	O
+bartender	B-T	O
+disappeared	B-P	O
+.	O	O
+#Relations
+
+i	O	O
+asked	O	O
+for	O	O
+a	O	O
+menu	O	O
+and	O	O
+the	O	O
+same	O	O
+waitress	B-T	B-T
+looked	O	O
+at	O	O
+my	O	O
+like	O	O
+i	O	O
+was	O	O
+insane	O	O
+.	O	O
+#Relations
+
+i	O	O
+was	O	O
+shocked	O	O
+that	O	O
+my	O	O
+friends	O	O
+wanted	O	O
+to	O	O
+stay	O	O
+after	O	O
+the	O	O
+waitress	B-T	B-T
+said	O	O
+,	O	O
+`	O	O
+`	O	O
+can	O	O
+i	O	O
+help	O	O
+you	O	O
+'	O	O
+'	O	O
+and	O	O
+`	O	O
+`	O	O
+how	O	O
+many	O	O
+are	O	O
+in	O	O
+your	O	O
+party	O	O
+.	O	O
+'	O	O
+'	O	O
+#Relations
+
+what	O	O
+?	O	O
+#Relations
+
+the	O	O
+three	O	O
+of	O	O
+us	O	O
+standing	O	O
+in	O	O
+front	O	O
+of	O	O
+her	O	O
+should	O	O
+have	O	O
+been	O	O
+an	O	O
+indication	O	O
+of	O	O
+how	O	O
+many	O	O
+of	O	O
+us	O	O
+there	O	O
+were	O	O
+.	O	O
+#Relations
+
+we	O	O
+did	O	O
+n	O	O
+'	O	O
+t	O	O
+look	O	O
+like	O	O
+the	O	O
+other	O	O
+patrons	O	O
+in	O	O
+there	O	O
+so	O	O
+unfortunately	O	O
+i	O	O
+think	O	O
+that	O	O
+may	O	O
+have	O	O
+been	O	O
+part	O	O
+of	O	O
+the	O	O
+problem	O	O
+.	O	O
+#Relations
+
+shame	B-P	B-P
+on	O	O
+this	O	O
+place	O	O
+for	O	O
+the	O	O
+horrible	B-P	B-P
+rude	B-P	B-P
+staff	B-T	B-T
+and	O	O
+non	B-P	B-P
+-	I-P	I-P
+existent	I-P	I-P
+customer	B-T	B-T
+service	I-T	I-T
+.	O	O
+#Relations
+0	1	8	9
+6	7	8	9
+7	8	8	9
+10	13	13	15
+
+bad	B-P	B-P
+staff	B-T	B-T
+#Relations
+0	1	1	2
+
+i	O	O
+generally	O	O
+like	B-P	B-P
+this	O	O
+place	B-T	B-T
+.	O	O
+#Relations
+2	3	4	5
+
+the	O	O
+food	B-T	B-T
+is	O	O
+good	B-P	B-P
+.	O	O
+#Relations
+3	4	1	2
+
+the	O	O
+design	O	B-T
+of	O	O
+the	O	O
+space	B-T	B-T
+is	O	O
+good	B-P	B-P
+.	O	O
+#Relations
+6	7	1	2
+6	7	4	5
+
+but	O	O
+the	O	O
+service	B-T	B-T
+is	O	O
+ho	B-P	B-P
+##rri	I-P	I-P
+##d	I-P	I-P
+!	O	O
+#Relations
+4	7	2	3
+
+i	O	O
+was	O	O
+there	O	O
+for	O	O
+br	O	O
+##un	O	O
+##ch	O	O
+recently	O	O
+,	O	O
+and	O	O
+we	O	O
+were	O	O
+tag	O	O
+teamed	B-P	O
+by	O	O
+a	O	O
+waitress	B-T	O
+and	O	O
+a	O	O
+waiter	B-T	B-T
+.	O	O
+#Relations
+
+the	O	O
+waiter	B-T	B-T
+delivered	O	O
+our	O	O
+food	O	O
+while	O	O
+holding	O	O
+what	O	O
+appeared	O	O
+to	O	O
+be	O	O
+a	O	O
+plastic	O	O
+bag	O	O
+of	O	O
+garbage	O	O
+in	O	O
+one	O	O
+hand	O	O
+.	O	O
+#Relations
+
+i	O	O
+ca	O	O
+n	O	O
+'	O	O
+t	O	O
+believe	O	O
+that	O	O
+it	O	O
+was	O	O
+,	O	O
+but	O	O
+please	O	O
+put	O	O
+the	O	O
+bag	O	O
+down	O	O
+before	O	O
+delivering	O	O
+food	O	O
+!	O	O
+#Relations
+
+the	O	O
+waitress	B-T	B-T
+came	O	O
+to	O	O
+check	O	O
+in	O	O
+on	O	O
+us	O	O
+every	O	O
+few	O	O
+minutes	O	O
+,	O	O
+and	O	O
+began	O	O
+to	O	O
+clear	O	O
+the	O	O
+plates	O	O
+while	O	O
+half	O	O
+of	O	O
+us	O	O
+were	O	O
+still	O	O
+eating	O	O
+(	O	O
+a	O	O
+big	O	O
+pet	O	O
+pee	O	O
+##ve	O	O
+of	O	O
+mine	O	O
+that	O	O
+happens	O	O
+almost	O	O
+everywhere	O	O
+,	O	O
+so	O	O
+i	O	O
+try	O	O
+to	O	O
+ignore	O	O
+it	O	O
+)	O	O
+.	O	O
+#Relations
+
+i	O	O
+could	O	O
+n	O	O
+'	O	O
+t	O	O
+ignore	O	O
+the	O	O
+fact	O	O
+that	O	O
+she	O	O
+reach	O	O
+over	O	O
+the	O	O
+plate	O	O
+of	O	O
+one	O	O
+of	O	O
+my	O	O
+friends	O	O
+,	O	O
+who	O	O
+was	O	O
+in	O	O
+mid	O	O
+bite	O	O
+,	O	O
+to	O	O
+clear	O	O
+the	O	O
+table	O	O
+.	O	O
+#Relations
+
+she	O	O
+then	O	O
+put	O	O
+the	O	O
+check	O	O
+down	O	O
+without	O	O
+asking	O	O
+if	O	O
+we	O	O
+were	O	O
+done	O	O
+,	O	O
+and	O	O
+came	O	O
+to	O	O
+check	O	O
+on	O	O
+the	O	O
+bill	O	O
+every	O	O
+two	O	O
+minutes	O	O
+,	O	O
+even	O	O
+though	O	O
+we	O	O
+were	O	O
+one	O	O
+of	O	O
+three	O	O
+occupied	O	O
+tables	O	O
+.	O	O
+#Relations
+
+i	O	O
+wish	O	O
+i	O	O
+could	O	O
+like	O	B-P
+this	O	O
+place	B-T	B-T
+more	O	O
+,	O	O
+and	O	O
+i	O	O
+wish	O	O
+someone	O	O
+would	O	O
+re	O	O
+##train	O	I-P
+the	O	O
+staff	B-T	B-T
+.	O	O
+#Relations
+4	5	6	7
+

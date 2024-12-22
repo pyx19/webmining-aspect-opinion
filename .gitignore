@@ -1,0 +1,5 @@
+/sdrn/model/
+/sdrn/data/
+/sdrn/pytorch_model.bin
+/ote-mtl/glove/
+/ote-mtl/state_dict/

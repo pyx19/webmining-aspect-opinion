@@ -65,10 +65,10 @@ if __name__ == '__main__':
         'mtl': ['ap_indices', 'op_indices', 'triplet_indices', 'text_mask'],
     }
     data_dirs = {
-        'laptop14': '/kaggle/working/new-ote-mtl/datasets/14lap',
-        'rest14': '/kaggle/working/new-ote-mtl/datasets/14rest',
-        'rest15': '/kaggle/working/new-ote-mtl/datasets/15rest',
-        'rest16': '/kaggle/working/new-ote-mtl/datasets/16rest',
+        'laptop14': '/kaggle/working/webmining-aspect-opinion/ote-mtl/datasets/14lap',
+        'rest14': '/kaggle/working/webmining-aspect-opinion/ote-mtl/datasets/14rest',
+        'rest15': '/kaggle/working/webmining-aspect-opinion/ote-mtl/datasets/15rest',
+        'rest16': '/kaggle/working/webmining-aspect-opinion/ote-mtl/datasets/16rest',
     }
     class Option(object): pass
     opt = Option()
